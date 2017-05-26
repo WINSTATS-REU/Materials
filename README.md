@@ -3,7 +3,7 @@
 ### Winona State University
 ### Winona, MN
 
-This repository contains all content pertaining to the instructional aspects of the WINSTATS REU.
+This repository contains all content pertaining to the instructional aspects of the WINSTATS REU.asdf
 
 View upcoming REU activities with this [Google calendar](https://calendar.google.com/calendar/embed?src=vq3jnv0v05sc13nhli1jt4lbu0%40group.calendar.google.com&ctz=America/Chicago).
 
