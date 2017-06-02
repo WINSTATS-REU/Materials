@@ -1,0 +1,15 @@
+Play,Outlook,Temperature,Humidity,Windy
+No,sunny,85,85,No
+No,sunny,80,90,Yes
+Yes,overcast,83,78,No
+Yes,rain,70,96,No
+Yes,rain,68,80,No
+No,rain,65,70,Yes
+Yes,overcast,64,65,Yes
+No,sunny,72,95,No
+Yes,sunny,69,70,No
+Yes,rain,75,80,No
+Yes,sunny,75,70,Yes
+Yes,overcast,72,90,Yes
+Yes,overcast,81,75,No
+No,rain,71,80,Yes

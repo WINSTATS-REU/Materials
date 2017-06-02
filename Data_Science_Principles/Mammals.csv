@@ -1,0 +1,21 @@
+Name,Mammal,Blood,Birth,4Legs,Hibernates,Designation
+Porcupine,Yes,Warm,Yes,Yes,Yes,TrainingData
+Cat,Yes,Warm,Yes,Yes,No,TrainingData
+Bat,Yes,Warm,Yes,No,Yes,TrainingData
+Whale,Yes,Warm,Yes,No,No,TrainingData
+Salamander,No,Cold,No,Yes,Yes,TrainingData
+Komodo Dragon,No,Cold,No,Yes,No,TrainingData
+Python,No,Cold,No,No,Yes,TrainingData
+Salmon,No,Cold,No,No,No,TrainingData
+Eagle,No,Warm,No,No,No,TrainingData
+Guppy,No,Cold,Yes,No,No,TrainingData
+Human,Yes,Warm,Yes,No,No,TestData
+Pigeon,No,Warm,No,No,No,TestData
+Elephant,Yes,Warm,Yes,Yes,No,TestData
+Leopard Shark,No,Cold,Yes,No,No,TestData
+Turtle,No,Cold,No,Yes,No,TestData
+Penguin,No,Cold,No,No,No,TestData
+Eel,No,Cold,No,No,No,TestData
+Dolphin,Yes,Warm,Yes,No,No,TestData
+Spiny Anteater,Yes,Warm,No,Yes,Yes,TestData
+Gila Monster,No,Cold,No,Yes,Yes,TestData
