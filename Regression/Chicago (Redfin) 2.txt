@@ -1,0 +1,1087 @@
+LISTING ID,Type,City,STATE,ZIP,ListPrice,BEDS,BATHS,LOCATION,SQFT,ImputedSQFT,LOTSIZE,YEARBUILT,ParkSpots,HasGarage,DOM,BeenReduced,OrigList,SoldPrev,LastPrice,ORIGINAL SOURCE,LATITUDE,LONGITUDE,Test
+8515060,Townhouse,Arlington Heights,IL,60005,155000,3,1.5,Arlington Heights,866,866,,1960,2,None,853,No,144500,Yes,212500,House4Sale,42.067401,-87.990181,0
+8786860,Condo/Coop,Arlington Heights,IL,60005,159000,2,2,Arlington Heights,1200,1200,,1955,2,None,546,No,159000,Yes,64688,"Home Owners Realty, Inc.",42.04242,-87.973687,0
+8904190,Single Family Residential,Arlington Heights,IL,60005,569900,4,2.5,Arlington Heights,,2184,,,1,Garage,381,Yes,659000,Yes,260000,RE/MAX,42.07701,-87.97501,0
+8904480,Single Family Residential,Arlington Heights,IL,60004,1550000,4,4.5,Arlington Heights,4200,4200,,2015,3,Garage,381,Yes,1699925,Yes,550000,Coldwell Banker,42.094795,-87.959104,0
+8935789,Single Family Residential,Arlington Heights,IL,60005,1599000,4,5,Arlington Heights,4400,4400,15198,2003,3,Garage,351,Yes,1699500,Yes,1550000,Coldwell Banker,42.067396,-87.973849,1
+8944541,Single Family Residential,Arlington Heights,IL,60004,575000,4,3.5,Arlington Heights,3500,3500,,1991,2,Garage,343,Yes,675000,No,,Keller Williams,42.094792,-87.974719,0
+8950939,Single Family Residential,Arlington Heights,IL,60004,284900,3,1,Arlington Heights,1150,1150,27878,1959,2,Garage,337,Yes,339000,Yes,333000,Troy Realty Ltd,42.107136,-88.002899,0
+8959991,Single Family Residential,Arlington Heights,IL,60005,799000,4,4,Arlington Heights,4000,4000,10763,2003,2,Garage,328,No,799000,No,,RE/MAX,42.056636,-87.97805,1
+8975190,Single Family Residential,Arlington Heights,IL,60004,389000,3,2.5,Arlington Heights,1800,1800,9818,1972,2,Garage,311,Yes,455000,No,,RE/MAX,42.119906,-87.959492,1
+24038260,Single Family Residential,Arlington Heights,IL,60004,830000,5,3.5,Arlington Heights,3890,3890,,1999,3,Garage,309,No,830000,No,,ForSaleByOwner.com,42.100643,-87.968754,0
+8980748,Single Family Residential,Arlington Heights,IL,60004,437000,3,2.5,Arlington Heights,2980,2980,15245,1976,2,Garage,305,Yes,449000,No,,Berg Properties,42.118101,-87.959258,0
+8996242,Single Family Residential,Arlington Heights,IL,60005,779900,4,3,Arlington Heights,2700,2700,5998,2016,2,Garage,289,No,769900,No,,"The Stonefield Group, Inc.",42.079382,-87.988127,0
+9008504,Single Family Residential,Arlington Heights,IL,60005,509000,5,2.5,Arlington Heights,3000,3000,,1977,2,Garage,276,No,509000,No,,Gold & Azen Realty,42.070165,-87.968834,0
+9022503,Single Family Residential,Arlington Heights,IL,60004,325000,3,2,Arlington Heights,,1629,10781,1966,2,Garage,261,Yes,339900,Yes,233000,RE/MAX,42.120058,-87.995435,0
+3999778945,Single Family Residential,Arlington Heights,IL,60004,225000,2,1,Arlington Heights,,1067,,,0,None,256,No,225000,Yes,847500,BuyOwner.com via Oodle,42.098011,-88.00251,0
+9027903,Single Family Residential,Arlington Heights,IL,60004,269990,3,1.5,Arlington Heights,1271,1271,2748,1976,1,Garage,255,Yes,275000,No,,Keller Williams,42.076937,-87.966181,0
+9029428,Townhouse,Arlington Heights,IL,60004,296000,3,2,Arlington Heights,,1629,,1990,1,Garage,253,No,296000,No,,"Realty World All Pro, Inc.",42.104672,-87.962021,0
+9030063,Single Family Residential,Arlington Heights,IL,60004,879900,4,4.5,Arlington Heights,3580,3580,,2016,2,Garage,253,No,879900,Yes,250000,Century 21,42.096887,-87.988102,0
+9033190,Condo/Coop,Arlington Heights,IL,60005,262500,2,2,Arlington Heights,1500,1500,,2001,2,None,248,Yes,289000,No,,RE/MAX,42.082597,-87.98513,0
+9036178,Condo/Coop,Arlington Heights,IL,60005,650000,3,3.5,Arlington Heights,2500,2500,,2000,2,Garage,245,Yes,670000,No,,Baird & Warner,42.0815348,-87.98146,0
+9038211,Single Family Residential,Arlington Heights,IL,60004,489000,3,1.5,Arlington Heights,1456,1456,,1964,1,Garage,242,No,489000,No,,"Prello Realty, Inc.",42.089354,-87.98247,0
+9041727,Single Family Residential,Arlington Heights,IL,60005,299000,4,,Arlington Heights,825,825,16199,1955,2,Garage,239,Yes,339000,Yes,209000,RE/MAX,42.064025,-87.983936,1
+9043955,Single Family Residential,Arlington Heights,IL,60005,798900,4,4,Arlington Heights,3850,3850,15245,2015,3,Garage,235,No,798900,Yes,250000,"Capital Sales, LLC",42.08349,-87.997201,0
+9049240,Single Family Residential,Arlington Heights,IL,60004,795000,4,3,Arlington Heights,3400,3400,,,3,Garage,230,No,795000,No,,Homesmart Connect LLC,42.1122825,-87.988531,0
+9050025,Condo/Coop,Arlington Heights,IL,60004,107500,1,1,Arlington Heights,,906,,,1,Garage,228,Yes,110000,Yes,70000,Coldwell Banker,42.108852,-87.982092,0
+9058651,Single Family Residential,Arlington Heights,IL,60004,950000,4,4.5,Arlington Heights,3894,3894,,2016,2,Garage,219,No,950000,No,,Century 21,42.108716,-87.991638,1
+9063513,Single Family Residential,Arlington Heights,IL,60004,339000,4,2.5,Arlington Heights,1323,1323,9583,1973,2,Garage,212,Yes,349000,No,,RE/MAX,42.120607,-87.957041,0
+9064354,Townhouse,Arlington Heights,IL,60004,389000,3,2.5,Arlington Heights,2428,2428,,2008,10,Garage,211,Yes,409000,No,,Baird & Warner,42.0929565,-88.002304,1
+9065675,Single Family Residential,Arlington Heights,IL,60005,265000,3,2,Arlington Heights,2117,2117,,1962,2,Garage,210,Yes,325000,No,,Konnerth Realty Group,42.033202,-87.965175,1
+9085795,Single Family Residential,Arlington Heights,IL,60004,349999,4,2.5,Arlington Heights,2150,2150,9143,1985,2,Garage,182,Yes,375000,No,,Baird & Warner,42.15319,-87.99177,1
+9095367,Condo/Coop,Arlington Heights,IL,60004,99000,2,2,Arlington Heights,,1382,,1975,1,None,163,Yes,109000,Yes,162000,Gold & Azen Realty,42.123051,-87.967146,0
+9097950,Single Family Residential,Arlington Heights,IL,60004,519990,5,2.5,Arlington Heights,2503,2503,10824,1972,2,Garage,158,No,519990,No,,Metro Realty Inc.,42.112977,-87.960691,1
+9098324,Single Family Residential,Arlington Heights,IL,60004,279900,3,2,Arlington Heights,,1629,,1961,2,Garage,158,Yes,499900,No,,Coldwell Banker,42.110613,-87.956344,0
+9098490,Single Family Residential,Arlington Heights,IL,60005,359000,3,1.5,Arlington Heights,1612,1612,32670,1955,2,Garage,158,No,359000,Yes,485000,"Axis Realty, Inc.",42.066964,-87.974441,0
+9102108,Single Family Residential,Arlington Heights,IL,60004,399000,4,3.5,Arlington Heights,2448,2448,,1972,2,Garage,150,Yes,419000,Yes,486000,Cherusseril M Kurian,42.13154,-87.966984,0
+9104083,Single Family Residential,Arlington Heights,IL,60004,899925,4,4,Arlington Heights,3800,3800,,2016,3,Garage,147,No,899925,Yes,225000,Coldwell Banker,42.094657,-87.973062,0
+9106335,Single Family Residential,Arlington Heights,IL,60005,649925,4,2.5,Arlington Heights,3073,3073,8428,1995,2,Garage,137,No,649925,No,,Coldwell Banker,42.072469,-88.00279,0
+9108097,Condo/Coop,Arlington Heights,IL,60005,132900,2,1.5,Arlington Heights,900,900,,,1,None,132,Yes,144900,Yes,49000,American Realty,42.045491,-87.976016,0
+9108768,Townhouse,Arlington Heights,IL,60004,199900,2,1.5,Arlington Heights,1400,1400,,1988,1,Garage,130,No,199900,No,,RE/MAX,42.148208,-88.009993,0
+9110139,Townhouse,Arlington Heights,IL,60004,399000,3,2.5,Arlington Heights,2428,2428,,2008,4,Garage,129,Yes,409000,No,,Baird & Warner,42.0931013,-88.002189,0
+9110395,Townhouse,Arlington Heights,IL,60004,200000,3,1.5,Arlington Heights,1165,1165,,1954,1,Garage,129,No,200000,No,,Weichert Realtors,42.077282,-87.966951,0
+9110594,Single Family Residential,Arlington Heights,IL,60005,299900,3,2,Arlington Heights,1800,1800,,,2,Garage,128,Yes,349900,No,,Baird & Warner,42.081344,-87.986996,0
+9112762,Single Family Residential,Arlington Heights,IL,60004,269000,3,1.5,Arlington Heights,,1431,9382,1956,2,Garage,126,Yes,289000,Yes,308000,RE/MAX,42.091666,-87.99542,1
+9114363,Single Family Residential,Arlington Heights,IL,60005,265000,3,1,Arlington Heights,1350,1350,6534,1929,1,Garage,123,No,265000,Yes,266000,Arlington Properties,42.074862,-87.98261,1
+9114681,Single Family Residential,Arlington Heights,IL,60004,294999,3,2,Arlington Heights,1135,1135,,1958,1,Garage,122,Yes,299999,Yes,305500,Coldwell Banker,42.105824,-87.988171,0
+9114939,Single Family Residential,Arlington Heights,IL,60004,839990,4,4.5,Arlington Heights,3385,3385,8908,2016,3,Garage,122,No,839990,No,,john greene Realtor,42.108489,-87.990399,0
+9117783,Condo/Coop,Arlington Heights,IL,60004,115900,1,1,Arlington Heights,,906,,1970,1,None,119,No,115900,No,,Platinum Partners Realtors,42.1193997,-87.993935,1
+9119271,Single Family Residential,Arlington Heights,IL,60005,317500,3,2,Arlington Heights,,1629,,1950,1,Garage,115,Yes,335000,Yes,353000,Coldwell Banker,42.070712,-87.985821,1
+9120137,Single Family Residential,Arlington Heights,IL,60004,344900,3,1.5,Arlington Heights,1829,1829,7562,1985,2,Garage,114,No,344900,Yes,370000,Homesmart Connect LLC,42.152255,-87.998848,0
+9120275,Single Family Residential,Arlington Heights,IL,60005,399000,4,2.5,Arlington Heights,2600,2600,,1965,2,Garage,114,No,399000,No,,"Prello Realty, Inc.",42.054251,-87.983133,0
+9121156,Single Family Residential,Arlington Heights,IL,60004,276400,3,1,Arlington Heights,,1258,17424,1956,2,Garage,113,Yes,305000,Yes,325000,Jameson Sotheby's,42.103147,-87.982798,0
+9121633,Condo/Coop,Arlington Heights,IL,60005,299000,2,2,Arlington Heights,1470,1470,,2000,1,Garage,113,Yes,333000,No,,Baird & Warner,42.0815348,-87.98146,0
+9121713,Single Family Residential,Arlington Heights,IL,60005,397500,3,2.5,Arlington Heights,1593,1593,9147,1951,1,Garage,112,Yes,399900,Yes,335000,RE/MAX,42.074764,-87.980128,1
+9126120,Single Family Residential,Arlington Heights,IL,60004,945000,4,4.5,Arlington Heights,3806,3806,8712,2005,3,Garage,106,No,945000,Yes,960000,Berkshire Hathaway,42.100213,-88.000604,0
+9128308,Single Family Residential,Arlington Heights,IL,60005,304925,3,2,Arlington Heights,1265,1265,10693,1957,1,Garage,102,Yes,324925,No,,Coldwell Banker,42.081394,-87.997976,0
+9128769,Single Family Residential,Arlington Heights,IL,60004,390000,4,2.5,Arlington Heights,2446,2446,10920,1972,2,Garage,102,Yes,399000,Yes,248000,Century 21,42.12356,-87.958782,1
+9129324,Single Family Residential,Arlington Heights,IL,60005,675000,2,2,Arlington Heights,1296,1296,,1935,2,Garage,101,Yes,700000,No,,Coldwell Banker,42.075327,-87.988445,0
+9131716,Condo/Coop,Arlington Heights,IL,60005,154900,2,2,Arlington Heights,1200,1200,,1971,2,None,99,Yes,159900,Yes,175000,RE/MAX,42.04242,-87.973687,0
+9131930,Single Family Residential,Arlington Heights,IL,60005,379000,3,2,Arlington Heights,1796,1796,,1959,1,Garage,99,Yes,389000,No,,RE/MAX,42.081398,-87.998941,0
+9132385,Single Family Residential,Arlington Heights,IL,60005,369000,3,3,Arlington Heights,1602,1602,7361,1970,2,Garage,98,Yes,400000,Yes,222000,Berkshire Hathaway,42.075375,-87.969275,0
+9132674,Single Family Residential,Arlington Heights,IL,60004,845000,5,4.5,Arlington Heights,4819,4819,22285,2006,4,Garage,98,Yes,849900,Yes,730000,RE/MAX,42.119447,-87.979865,0
+Plan-1211662,Single Family Residential,Arlington Heights,IL,60004,725000,4,2.5,Arlington Heights,2635,2635,,,2,Garage,97,No,725000,No,,NewHomeSource.com,42.111429,-87.985876,1
+Plan-1211661,Single Family Residential,Arlington Heights,IL,60004,849000,4,3.5,Arlington Heights,3407,3407,,,3,Garage,97,No,849000,No,,NewHomeSource.com,42.111429,-87.985876,1
+Plan-1211660,Single Family Residential,Arlington Heights,IL,60004,750000,4,2.5,Arlington Heights,2929,2929,,,2,Garage,97,No,750000,No,,NewHomeSource.com,42.111429,-87.985876,0
+Plan-1207349,Single Family Residential,Arlington Heights,IL,60004,829900,4,3.5,Arlington Heights,2930,2930,,,3,Garage,97,No,829900,No,,NewHomeSource.com,42.111429,-87.985876,0
+Plan-1207348,Single Family Residential,Arlington Heights,IL,60004,824900,5,4.5,Arlington Heights,3348,3348,,,2,Garage,97,No,824900,No,,NewHomeSource.com,42.111429,-87.985876,0
+9132993,Condo/Coop,Arlington Heights,IL,60004,78490,1,1,Arlington Heights,800,800,,1978,1,None,97,Yes,93490,No,,A Team Realty Inc.,42.0985641,-87.955233,0
+9133344,Single Family Residential,Arlington Heights,IL,60005,389000,4,2.5,Arlington Heights,2300,2300,8751,1966,2,Garage,96,No,389000,Yes,317000,Baird & Warner,42.054011,-87.984733,1
+9133404,Single Family Residential,Arlington Heights,IL,60004,769900,4,3,Arlington Heights,4300,4300,10018,2002,3,Garage,96,Yes,795500,Yes,106000,Coldwell Banker,42.127859,-87.979929,0
+9134168,Single Family Residential,Arlington Heights,IL,60005,294900,3,2,Arlington Heights,1361,1361,6224,1956,1,Garage,95,Yes,299900,Yes,181000,@properties,42.068416,-87.967639,0
+9134776,Single Family Residential,Arlington Heights,IL,60004,775000,4,2.5,Arlington Heights,3770,3770,12693,1987,7,Garage,94,No,775000,No,,@properties,42.10461,-87.954095,0
+9136587,Single Family Residential,Arlington Heights,IL,60004,469000,4,2.5,Arlington Heights,2592,2592,11329,1985,2,Garage,93,Yes,515000,No,,Jameson Sotheby's,42.15324,-87.992079,1
+9137543,Single Family Residential,Arlington Heights,IL,60004,1250000,4,5.5,Arlington Heights,5100,5100,21780,2007,3,Garage,92,No,1250000,Yes,1075000,@properties,42.103157,-87.97944,1
+9139099,Single Family Residential,Arlington Heights,IL,60004,822162,4,3.5,Arlington Heights,3672,3672,,2017,3,Garage,90,Yes,862882,No,,Coldwell Banker,42.0991943,-87.966224,0
+9139102,Single Family Residential,Arlington Heights,IL,60005,853155,4,2.5,Arlington Heights,4018,4018,,2017,2,Garage,90,Yes,914105,No,,Coldwell Banker,42.1285209,-87.851726,0
+9139121,Single Family Residential,Arlington Heights,IL,60004,774675,4,2.5,Arlington Heights,3467,3467,,2017,3,Garage,89,Yes,802025,No,,Coldwell Banker,42.0991066,-87.965658,0
+9139216,Single Family Residential,Arlington Heights,IL,60004,796895,4,2.5,Arlington Heights,3505,3505,,2017,3,Garage,89,Yes,833805,No,,Coldwell Banker,42.0991759,-87.966047,0
+9139383,Condo/Coop,Arlington Heights,IL,60004,262000,2,2.5,Arlington Heights,1667,1667,,2006,1,Garage,88,Yes,267000,No,,Century 21,42.119247,-87.991335,0
+Plan-1235004,Single Family Residential,Arlington Heights,IL,60004,820995,4,2,Christina Court,4018,4018,,,2,Garage,87,No,819995,No,,NewHomeSource.com,42.0992981,-87.961688,0
+Plan-1235003,Single Family Residential,Arlington Heights,IL,60004,800995,4,3,Christina Court,3672,3672,,,3,Garage,87,No,799995,No,,NewHomeSource.com,42.0992981,-87.961688,0
+Plan-1235002,Single Family Residential,Arlington Heights,IL,60004,780995,4,2,Christina Court,3505,3505,,,3,Garage,87,No,779995,No,,NewHomeSource.com,42.0992981,-87.961688,1
+Plan-1235001,Single Family Residential,Arlington Heights,IL,60004,760995,4,2,Christina Court,3467,3467,,,3,Garage,87,No,759995,No,,NewHomeSource.com,42.0992981,-87.961688,0
+9140551,Single Family Residential,Arlington Heights,IL,60004,348998,4,2,Arlington Heights,,1920,8777,1961,2,Garage,87,Yes,355500,No,,Coldwell Banker,42.082676,-87.959015,1
+9140754,Single Family Residential,Arlington Heights,IL,60005,474925,4,3.5,Arlington Heights,2800,2800,19998,1948,4,Garage,87,Yes,499925,Yes,314500,Coldwell Banker,42.0887,-88.001056,1
+9141167,Condo/Coop,Arlington Heights,IL,60005,309900,2,3,Arlington Heights,,1789,,2006,1,Garage,87,Yes,369900,No,,Unique Realty LLC,42.078809,-87.981362,0
+9141169,Condo/Coop,Arlington Heights,IL,60005,319900,2,2,Arlington Heights,,1382,,2006,1,Garage,87,Yes,359900,No,,Unique Realty LLC,42.078809,-87.981362,0
+9142095,Condo/Coop,Arlington Heights,IL,60004,125000,1,1,Arlington Heights,800,800,,1977,1,Garage,86,No,125000,Yes,117000,Berkshire Hathaway,42.108852,-87.982092,0
+9142886,Single Family Residential,Arlington Heights,IL,60004,706000,4,3,Arlington Heights,3204,3204,,2016,2,Garage,85,No,706000,No,,"Capital Sales, LLC",42.080717,-87.956587,1
+9144382,Single Family Residential,Arlington Heights,IL,60005,1300000,4,5.5,Arlington Heights,4400,4400,,2006,3,Garage,83,No,1300000,Yes,437500,@properties,42.066949,-87.972911,1
+9146427,Single Family Residential,Arlington Heights,IL,60004,299999,3,2,Arlington Heights,,1629,,1978,2,Garage,80,Yes,309000,Yes,280000,USA Real Estate Ltd.,42.1073,-88.001199,0
+9146799,Single Family Residential,Arlington Heights,IL,60004,308500,4,2.5,Arlington Heights,2573,2573,7514,1958,1,Garage,80,Yes,349000,Yes,205000,Coldwell Banker,42.0756099,-87.95786,0
+9147490,Single Family Residential,Arlington Heights,IL,60005,279500,3,2,Arlington Heights,1055,1055,8646,1961,1,Garage,79,No,279500,No,,Baird & Warner,42.076893,-87.997194,0
+9147491,Single Family Residential,Arlington Heights,IL,60004,899000,4,3.5,Arlington Heights,3739,3739,12196,2016,3,Garage,79,No,899000,No,,The Royal Family Real Estate,42.11121,-87.989247,0
+9150718,Single Family Residential,Arlington Heights,IL,60005,533900,4,2.5,Arlington Heights,2300,2300,,1977,2,Garage,75,Yes,549900,Yes,275000,Dralyuk Real Estate,42.067128,-87.988306,0
+9151046,Townhouse,Arlington Heights,IL,60005,254900,2,2.5,Arlington Heights,1368,1368,,1989,2,Garage,74,Yes,264500,Yes,254500,Century 21,42.068254,-88.001839,1
+9151084,Townhouse,Arlington Heights,IL,60005,270000,2,3,Arlington Heights,2025,2025,,2008,2,Garage,74,Yes,275000,Yes,305000,Berkshire Hathaway,42.0462107,-87.986827,1
+9151233,Single Family Residential,Arlington Heights,IL,60004,365000,4,2,Arlington Heights,2323,2323,76665,1985,2,Garage,74,No,365000,No,,@properties,42.12507,-87.975907,1
+9152057,Single Family Residential,Arlington Heights,IL,60004,329000,3,1.5,Arlington Heights,1768,1768,,1985,2,Garage,73,Yes,386000,Yes,341500,Keller Williams,42.148124,-87.99866,0
+9152283,Townhouse,Arlington Heights,IL,60004,254000,2,1.5,Arlington Heights,2126,2126,,1986,1,Garage,73,Yes,264000,Yes,225000,Coldwell Banker,42.104576,-87.962221,0
+9152375,Single Family Residential,Arlington Heights,IL,60004,350000,3,2,Arlington Heights,1814,1814,7919,1957,2,Garage,73,No,350000,Yes,195000,Century 21,42.074294,-87.958343,0
+9153957,Single Family Residential,Arlington Heights,IL,60004,474900,4,2.5,Arlington Heights,2344,2344,8751,1966,2,Garage,72,Yes,489900,Yes,310000,"Rising Realty, LLC",42.114808,-87.97719,0
+9154778,Single Family Residential,Arlington Heights,IL,60005,699000,4,2.5,Arlington Heights,3400,3400,,2014,2,Garage,71,No,699000,No,,Picket Fence Realty,42.0839632,-87.992668,0
+9155466,Townhouse,Arlington Heights,IL,60004,269000,3,2,Arlington Heights,1700,1700,,1989,3,Garage,71,Yes,285000,Yes,287500,Urban Domain,42.1044993,-87.962028,0
+9156010,Single Family Residential,Arlington Heights,IL,60004,400000,3,2,Arlington Heights,1900,1900,,,2,Garage,70,Yes,415000,No,,@properties,42.091016,-87.980168,0
+9156071,Single Family Residential,Arlington Heights,IL,60004,749000,4,3.5,Arlington Heights,3593,3593,8407,1998,3,Garage,70,Yes,759000,Yes,474000,Coldwell Banker,42.122282,-87.99727,0
+9156246,Single Family Residential,Arlington Heights,IL,60004,469000,4,3,Arlington Heights,2077,2077,7919,1961,4,Garage,70,Yes,489000,No,,Baird & Warner,42.086416,-87.972822,0
+9156925,Single Family Residential,Arlington Heights,IL,60005,609900,5,3,Arlington Heights,3638,3638,,1996,3,Garage,69,No,609900,No,,Coldwell Banker,42.05669,-87.975269,0
+9157532,Single Family Residential,Arlington Heights,IL,60004,649900,5,3,Arlington Heights,,2930,6952,2008,2,Garage,68,Yes,669900,Yes,192500,Red Zone Realty Group Inc.,42.094109,-87.972921,1
+9159702,Single Family Residential,Arlington Heights,IL,60005,579000,5,3,Arlington Heights,3281,3281,,1994,2,Garage,66,No,579000,No,,USA Real Estate Ltd.,42.057593,-87.976074,1
+9160393,Condo/Coop,Arlington Heights,IL,60005,219900,1,1,Arlington Heights,1000,1000,,2006,1,Garage,65,Yes,249900,No,,"Axis Realty, Inc.",42.082244,-87.98333,1
+9161412,Single Family Residential,Arlington Heights,IL,60005,249900,2,1,Arlington Heights,1381,1381,6019,1950,1,Garage,64,No,249900,Yes,300000,RE/MAX,42.070267,-87.980823,0
+9161420,Condo/Coop,Arlington Heights,IL,60005,139900,2,2,Arlington Heights,1200,1200,,1973,1,Garage,64,No,139900,Yes,185000,Century 21,42.064876,-87.991809,1
+9161607,Single Family Residential,Arlington Heights,IL,60004,418000,4,2.5,Arlington Heights,2631,2631,9888,1984,2,Garage,64,No,418000,No,,"Zip Solutions Realty, LLC",42.153282,-87.987641,1
+9161705,Single Family Residential,Arlington Heights,IL,60005,450000,3,2,Arlington Heights,1800,1800,,1893,2,Garage,64,Yes,475000,Yes,416000,@properties,42.0797,-87.982575,1
+9161913,Single Family Residential,Arlington Heights,IL,60004,694900,5,3,Arlington Heights,4150,4150,,2016,3,Garage,64,Yes,699900,Yes,155000,Family First Realty,42.118256,-87.979886,0
+9162198,Single Family Residential,Arlington Heights,IL,60005,539000,4,2.5,Arlington Heights,2808,2808,,1978,2,Garage,64,Yes,570000,Yes,375000,Williams Realty Group,42.055235,-87.976459,0
+9162859,Single Family Residential,Arlington Heights,IL,60005,299000,3,1,Arlington Heights,1038,1038,,1877,2,Garage,63,Yes,314900,Yes,188000,Coldwell Banker,42.078472,-87.981365,0
+1210745,Single Family Residential,Arlington Heights,IL,60005,724900,4,2.5,Greenscape Homes - NW Suburbs,2834,2834,,2016,3,Garage,62,No,724900,No,,NewHomeSource.com,42.072488,-87.993115,1
+9163634,Single Family Residential,Arlington Heights,IL,60004,525000,4,2.5,Arlington Heights,3657,3657,12148,1992,3,Garage,62,No,525000,No,,Century 21,42.119003,-87.966211,0
+9164247,Single Family Residential,Arlington Heights,IL,60005,629000,4,4.5,Arlington Heights,4600,4600,,1949,2,Garage,61,No,629000,No,,RE/MAX,42.068024,-87.979882,0
+9164325,Single Family Residential,Arlington Heights,IL,60004,610000,5,2.5,Arlington Heights,3600,3600,,1981,2,Garage,60,Yes,625000,No,,Coldwell Banker,42.14924,-87.990891,0
+9165527,Single Family Residential,Arlington Heights,IL,60005,650000,5,4,Arlington Heights,,3792,,1954,3,Garage,59,Yes,699000,Yes,312000,RE/MAX,42.084634,-88.000895,0
+9165619,Single Family Residential,Arlington Heights,IL,60005,475000,4,2.5,Arlington Heights,3400,3400,,1977,2,Garage,59,Yes,489500,No,,Berkshire Hathaway,42.07031,-87.992217,0
+9165704,Single Family Residential,Arlington Heights,IL,60004,479000,4,2.5,Arlington Heights,,2184,16696,1968,2,Garage,59,Yes,500000,No,,Keller Williams,42.10043,-87.995335,0
+9165815,Single Family Residential,Arlington Heights,IL,60005,359500,2,2,Arlington Heights,1400,1400,9239,1954,1,Garage,59,Yes,364900,Yes,133500,"Meritage Realty Group, LLC.",42.068049,-87.984652,0
+9165984,Single Family Residential,Arlington Heights,IL,60005,385000,4,3,Arlington Heights,2784,2784,9308,1985,2,Garage,59,No,385000,No,,Picket Fence Realty,42.042165,-87.970538,1
+9166004,Single Family Residential,Arlington Heights,IL,60004,479900,4,3.5,Arlington Heights,4084,4084,9901,1959,3,Garage,59,Yes,499500,Yes,375000,Berkshire Hathaway,42.081127,-87.959516,0
+9166025,Single Family Residential,Arlington Heights,IL,60004,419000,3,2.5,Arlington Heights,2209,2209,9679,1972,2,Garage,59,Yes,449000,No,,Berkshire Hathaway,42.133714,-87.967101,0
+9166367,Single Family Residential,Arlington Heights,IL,60004,349500,4,1.5,Arlington Heights,,1687,,,2,Garage,59,Yes,359000,Yes,365000,USA Real Estate Ltd.,42.105493,-88.001031,0
+9166672,Single Family Residential,Arlington Heights,IL,60004,635000,5,3.5,Arlington Heights,4000,4000,19998,1975,4,Garage,58,Yes,650000,No,,Coldwell Banker,42.11896,-87.975874,1
+9166697,Single Family Residential,Arlington Heights,IL,60004,482000,4,2.5,Arlington Heights,2564,2564,17424,1922,2,Garage,58,Yes,575000,No,,Professional Residential Brokerage LLC,42.096014,-87.983477,1
+9167809,Single Family Residential,Arlington Heights,IL,60004,715000,4,2.5,Arlington Heights,2802,2802,6865,2001,2,Garage,57,Yes,739900,Yes,480000,Coldwell Banker,42.092722,-87.987387,0
+9167894,Condo/Coop,Arlington Heights,IL,60005,224900,2,2,Arlington Heights,,1382,,1966,2,Garage,57,No,224900,No,,Baird & Warner,42.080412,-87.983497,0
+9167964,Single Family Residential,Arlington Heights,IL,60005,349900,4,2.5,Arlington Heights,2437,2437,,,2,Garage,57,Yes,369900,Yes,258000,Charles Rutenberg,42.050131,-87.976524,0
+9168936,Single Family Residential,Arlington Heights,IL,60004,399900,4,2.5,Arlington Heights,1769,1769,,1975,2,Garage,57,Yes,424900,Yes,354000,Superior Real Estate Network,42.120989,-87.963103,0
+9169550,Townhouse,Arlington Heights,IL,60004,599000,3,3.5,Arlington Heights,2684,2684,,2005,2,Garage,56,No,599000,Yes,485000,Coldwell Banker,42.076393,-87.964953,0
+9169770,Single Family Residential,Arlington Heights,IL,60004,514000,4,2.5,Arlington Heights,,2184,10890,1973,2,Garage,56,Yes,524700,No,,Berkshire Hathaway,42.124774,-87.995045,0
+9170084,Single Family Residential,Arlington Heights,IL,60004,899000,5,3.5,Arlington Heights,4122,4122,19602,2002,3,Garage,56,No,899000,Yes,740000,Redfin Corporation,42.103766,-87.998143,1
+9170161,Condo/Coop,Arlington Heights,IL,60005,729000,2,2,Arlington Heights,,1382,,2000,2,Garage,56,Yes,749000,Yes,655000,Century 21,42.083108,-87.984543,0
+9170303,Single Family Residential,Arlington Heights,IL,60004,495000,4,2.5,Arlington Heights,1742,1742,9801,1968,2,Garage,56,No,495000,No,,Picket Fence Realty,42.082629,-87.966191,0
+9170692,Single Family Residential,Arlington Heights,IL,60004,489900,4,2.5,Arlington Heights,3072,3072,8751,1972,2,Garage,55,No,489900,Yes,390000,RE/MAX,42.123634,-87.97093,1
+9171053,Single Family Residential,Arlington Heights,IL,60004,514900,4,3,Arlington Heights,2757,2757,9975,1970,2,Garage,53,Yes,524900,Yes,340000,Royal Serv Rlty Chgo Metro Pro,42.107864,-87.960155,0
+9171205,Single Family Residential,Arlington Heights,IL,60004,619000,4,3.5,Arlington Heights,3222,3222,12959,1986,2,Garage,53,No,619000,Yes,585000,Berkshire Hathaway,42.088473,-87.970347,0
+9172286,Single Family Residential,Arlington Heights,IL,60005,595000,4,4,Arlington Heights,2441,2441,,1928,2,Garage,52,No,595000,Yes,575000,Picket Fence Realty,42.074337,-87.985783,1
+9172954,Condo/Coop,Arlington Heights,IL,60005,189900,3,2,Arlington Heights,,1629,,,2,None,52,No,189900,No,,Coldwell Banker,42.0860111,-87.988856,0
+9173265,Townhouse,Arlington Heights,IL,60005,247900,3,3,Arlington Heights,1600,1600,,1994,2,Garage,51,No,247900,Yes,212000,Realty Advisors North,42.0361791,-87.97181,0
+9174152,Single Family Residential,Arlington Heights,IL,60004,424900,5,3,Arlington Heights,2552,2552,9888,1966,2,Garage,51,Yes,439000,No,,RE/MAX,42.115113,-87.974749,0
+9174163,Single Family Residential,Arlington Heights,IL,60004,369900,4,2.5,Arlington Heights,2181,2181,10018,1976,2,Garage,51,No,369900,No,,RE/MAX,42.123924,-88.003021,1
+24061067,Single Family Residential,Arlington Heights,IL,60004,489500,4,2.5,Arlington Heights,2202,2202,10019,1984,2,Garage,50,Yes,499500,Yes,290000,ForSaleByOwner.com,42.113593,-88.000308,1
+9174617,Single Family Residential,Arlington Heights,IL,60004,349000,3,3.5,Arlington Heights,,2399,9143,1985,2,Garage,50,Yes,365000,No,,RE/MAX,42.112528,-88.001793,0
+9174673,Single Family Residential,Arlington Heights,IL,60005,329900,3,1,Arlington Heights,1176,1176,6599,1949,1,Garage,50,No,329900,Yes,338000,RE/MAX,42.069333,-87.988284,0
+9175481,Single Family Residential,Arlington Heights,IL,60005,850000,5,4.5,Arlington Heights,4200,4200,20037,1982,3,Garage,49,No,850000,No,,RE/MAX,42.089251,-88.001416,0
+9175507,Condo/Coop,Arlington Heights,IL,60005,249000,3,3,Arlington Heights,,2109,,,2,Garage,49,No,249000,Yes,195000,Gold & Azen Realty,42.039799,-87.971939,1
+9176541,Single Family Residential,Arlington Heights,IL,60004,334900,3,2,Arlington Heights,,1629,,1976,2,Garage,46,No,334900,No,,Coldwell Banker,42.094252,-88.003058,0
+9177019,Single Family Residential,Arlington Heights,IL,60005,425000,4,2.5,Arlington Heights,2524,2524,9417,1973,2,Garage,46,Yes,499900,No,,Coldwell Banker,42.073133,-88.001187,0
+9178573,Single Family Residential,Arlington Heights,IL,60004,525000,3,2,Arlington Heights,2548,2548,29629,1998,3,Garage,45,Yes,540000,Yes,325000,Charles Rutenberg,42.105004,-88.003941,0
+9178612,Condo/Coop,Arlington Heights,IL,60004,354000,2,2.5,Arlington Heights,2456,2456,,2005,1,Garage,45,No,354000,Yes,312000,"Home Owners Realty, Inc.",42.119247,-87.991335,0
+9178749,Single Family Residential,Arlington Heights,IL,60004,949000,4,4.5,Arlington Heights,4021,4021,,2016,2,Garage,45,No,949000,Yes,313000,Cross County Realty Inc.,42.091506,-87.96369,0
+9179481,Single Family Residential,Arlington Heights,IL,60005,389000,4,2.5,Arlington Heights,2202,2202,10210,1964,2,Garage,44,No,389000,No,,CARE Real Estate,42.036766,-87.968033,0
+9179532,Single Family Residential,Arlington Heights,IL,60004,399900,4,2.5,Arlington Heights,2560,2560,14636,1964,2,Garage,44,No,399900,No,,Coldwell Banker,42.110341,-87.963202,1
+9179587,Single Family Residential,Arlington Heights,IL,60004,324800,4,2.5,Arlington Heights,,2184,8015,1960,1,Garage,44,Yes,329000,Yes,355000,RE/MAX,42.1026355,-87.98444,0
+9180101,Single Family Residential,Arlington Heights,IL,60004,530000,4,3.5,Arlington Heights,3256,3256,21780,1999,3,Garage,43,Yes,540000,No,,RE/MAX,42.099451,-87.964201,0
+9180610,Condo/Coop,Arlington Heights,IL,60005,279900,2,2,Arlington Heights,1200,1200,,2001,2,Garage,43,No,279900,Yes,270000,Arlington Properties,42.082597,-87.98513,1
+9180753,Single Family Residential,Arlington Heights,IL,60005,650000,5,5,Arlington Heights,4356,4356,,1991,2,Garage,43,No,650000,Yes,401000,RE/MAX,42.055709,-87.977016,0
+9181065,Single Family Residential,Arlington Heights,IL,60004,398000,3,3.5,Arlington Heights,1960,1960,,1991,2,Garage,43,No,398000,Yes,351000,Baird & Warner,42.1107402,-87.985491,0
+9181213,Single Family Residential,Arlington Heights,IL,60005,850000,3,3.5,Arlington Heights,3338,3338,19000,1951,2,Garage,42,Yes,875000,No,,Keller Williams,42.070235,-87.97288,1
+9181626,Single Family Residential,Arlington Heights,IL,60004,574900,5,3,Arlington Heights,3800,3800,13007,1992,2,Garage,42,Yes,589999,No,,Coldwell Banker,42.126642,-87.978879,0
+9181774,Single Family Residential,Arlington Heights,IL,60004,615000,4,3.5,Arlington Heights,,2828,6250,1930,3,Garage,42,Yes,630000,Yes,160500,Century 21,42.094286,-87.986181,0
+9182143,Single Family Residential,Arlington Heights,IL,60005,550000,3,3,Arlington Heights,,2109,6216,1953,2,Garage,42,Yes,565000,Yes,560000,@properties,42.074632,-87.976901,1
+9183386,Single Family Residential,Arlington Heights,IL,60004,829000,5,4.5,Arlington Heights,4466,4466,,1998,2,Garage,40,Yes,849000,No,,Coldwell Banker,42.127539,-87.974653,0
+9183535,Single Family Residential,Arlington Heights,IL,60004,241900,2,1,Arlington Heights,,1067,8463,1948,2,Garage,39,Yes,248900,Yes,164000,Coldwell Banker,42.087975,-87.973315,0
+9184359,Single Family Residential,Arlington Heights,IL,60005,499900,4,2,Arlington Heights,2200,2200,5998,1927,2,Garage,39,No,499900,Yes,561000,Coldwell Banker,42.080418,-87.988116,1
+9184876,Condo/Coop,Arlington Heights,IL,60005,92500,1,1,Arlington Heights,,906,,1979,2,None,38,No,92500,Yes,69000,Coldwell Banker,42.085118,-87.987219,1
+9185123,Single Family Residential,Arlington Heights,IL,60005,539900,4,2.5,Arlington Heights,2908,2908,7261,1968,2,Garage,38,No,539900,No,,Keller Williams,42.070757,-87.969314,1
+9185426,Single Family Residential,Arlington Heights,IL,60004,675000,4,3.5,Arlington Heights,2949,2949,,1987,2,Garage,38,No,675000,No,,Picket Fence Realty,42.102967,-87.97228,1
+9185573,Condo/Coop,Arlington Heights,IL,60005,129500,2,2,Arlington Heights,1300,1300,,1975,1,None,38,No,129500,No,,RE/MAX,42.074974,-87.967517,0
+9185642,Single Family Residential,Arlington Heights,IL,60004,425000,5,3,Arlington Heights,2476,2476,10933,1972,2,Garage,38,Yes,440000,No,,Baird & Warner,42.117522,-87.982186,1
+9185992,Single Family Residential,Arlington Heights,IL,60005,389900,3,3,Arlington Heights,,2109,,1970,2,Garage,37,Yes,400000,Yes,385000,RE/MAX,42.0681136,-87.970545,0
+9186048,Single Family Residential,Arlington Heights,IL,60004,519000,5,3,Arlington Heights,3330,3330,9016,1985,2,Garage,37,Yes,545000,No,,Jameson Sotheby's,42.15266,-87.991702,0
+9186084,Single Family Residential,Arlington Heights,IL,60004,249900,2,2,Arlington Heights,,1382,,1988,1,Garage,37,No,249900,No,,Coldwell Banker,42.106755,-87.977282,0
+9186101,Condo/Coop,Arlington Heights,IL,60005,199900,1,1.5,Arlington Heights,900,900,,2007,0,None,37,Yes,217000,Yes,339500,"Chicagoland Realty, LLC",42.0822435,-87.98333,1
+9186253,Single Family Residential,Arlington Heights,IL,60004,625000,4,2.5,Arlington Heights,3110,3110,7405,1998,3,Garage,37,Yes,650000,Yes,550000,Baird & Warner,42.089891,-87.988494,0
+9186547,Condo/Coop,Arlington Heights,IL,60004,360000,2,2,Arlington Heights,1372,1372,,1999,1,Garage,37,No,360000,No,,Coldwell Banker,42.099979,-87.992595,1
+9186745,Single Family Residential,Arlington Heights,IL,60004,544900,4,2.5,Arlington Heights,2282,2282,11325,1965,2,Garage,37,No,544900,Yes,550000,Coldwell Banker,42.10253,-87.998523,1
+9186996,Single Family Residential,Arlington Heights,IL,60005,499000,4,3,Arlington Heights,2396,2396,8712,1961,2,Garage,37,No,499000,Yes,522500,Keller Williams,42.072307,-87.993116,1
+9187417,Single Family Residential,Arlington Heights,IL,60004,379900,3,2.5,Arlington Heights,1960,1960,,1989,2,Garage,36,Yes,384900,Yes,270000,RE/MAX,42.113651,-87.985255,0
+9187536,Single Family Residential,Arlington Heights,IL,60005,474000,2,2.5,Arlington Heights,1744,1744,9239,1941,2,Garage,36,Yes,485000,Yes,472000,Coldwell Banker,42.073051,-87.975347,0
+9187749,Single Family Residential,Arlington Heights,IL,60004,549925,4,2.5,Arlington Heights,2845,2845,8468,1973,2,Garage,36,No,549925,Yes,530000,Coldwell Banker,42.124243,-87.970328,1
+9187854,Multi-Family,Arlington Heights,IL,60005,398000,4,2,Arlington Heights,,1920,,1929,2,Garage,36,No,398000,No,,Picket Fence Realty,42.084043,-87.989608,0
+9188137,Single Family Residential,Arlington Heights,IL,60004,534000,4,2.5,Arlington Heights,2300,2300,9239,1966,2,Garage,36,Yes,549000,No,,@properties,42.101192,-87.96964,0
+9188663,Single Family Residential,Arlington Heights,IL,60005,475000,4,2.5,Arlington Heights,2805,2805,8712,1967,2,Garage,35,Yes,485000,Yes,457500,The Royal Family Real Estate,42.058453,-87.982703,0
+9188833,Condo/Coop,Arlington Heights,IL,60004,139900,2,1,Arlington Heights,900,900,,1965,1,None,35,Yes,147900,Yes,92000,Realty Network Inc.,42.084058,-87.972946,0
+9188931,Single Family Residential,Arlington Heights,IL,60004,339000,3,2.5,Arlington Heights,1609,1609,8751,1970,4,Garage,35,Yes,359900,Yes,287000,Berkshire Hathaway,42.128687,-87.976605,0
+9188950,Single Family Residential,Arlington Heights,IL,60004,679000,4,5.5,Arlington Heights,4200,4200,,1993,3,Garage,35,No,679000,Yes,480000,RE/MAX,42.125824,-87.978812,1
+9189076,Single Family Residential,Arlington Heights,IL,60005,499000,4,3.5,Arlington Heights,2501,2501,,1973,2,Garage,35,Yes,525000,Yes,515000,RE/MAX,42.063191,-87.992271,0
+9189367,Condo/Coop,Arlington Heights,IL,60004,224900,3,2,Arlington Heights,1650,1650,,1987,1,Garage,35,Yes,229900,Yes,294000,Coldwell Banker,42.1109628,-87.950888,0
+9189800,Single Family Residential,Arlington Heights,IL,60005,579000,4,3.5,Arlington Heights,3027,3027,10471,1976,2,Garage,35,Yes,595000,No,,RE/MAX,42.062769,-87.992243,0
+9190438,Townhouse,Arlington Heights,IL,60005,188000,2,1.5,Arlington Heights,1152,1152,,1978,2,None,33,Yes,194900,Yes,185000,d'aprile properties,42.087204,-87.9956,1
+9190965,Single Family Residential,Arlington Heights,IL,60004,345000,3,2,Arlington Heights,1278,1278,,1965,2,Garage,32,Yes,365000,No,,Berkshire Hathaway,42.078367,-87.9554,0
+9191083,Single Family Residential,Arlington Heights,IL,60005,525000,3,3,Arlington Heights,2110,2110,,1966,1,Garage,32,Yes,549900,Yes,436000,@properties,42.076949,-87.978471,0
+9191207,Single Family Residential,Arlington Heights,IL,60004,309000,3,2,Arlington Heights,1328,1328,8319,1951,1,Garage,32,Yes,319000,Yes,237500,Real People Realty Inc,42.08676,-87.970373,1
+9191331,Condo/Coop,Arlington Heights,IL,60005,141500,2,2,Arlington Heights,,1382,,1972,1,None,32,No,141500,Yes,164500,@properties,42.074974,-87.967517,1
+24063613,Single Family Residential,Arlington Heights,IL,60005,1084000,5,3.5,Arlington Heights,4500,4500,,1938,3,Garage,32,No,1084000,No,,ForSaleByOwner.com,42.075301,-87.97454,0
+9192072,Single Family Residential,Arlington Heights,IL,60004,599000,4,2.5,Arlington Heights,2773,2773,8398,1998,2,Garage,31,Yes,639000,No,,Elite Group Realty & Investment Inc,42.121718,-87.997894,1
+9192219,Condo/Coop,Arlington Heights,IL,60005,119900,2,1,Arlington Heights,,1067,,1967,2,None,31,No,119900,Yes,35000,Netgar Investments Inc,42.037705,-87.968176,0
+9193253,Single Family Residential,Arlington Heights,IL,60004,437000,4,3.5,Arlington Heights,2447,2447,8751,1977,2,Garage,30,Yes,459000,Yes,253001,"Express Real Estate Group, Inc.",42.13347,-87.970919,0
+9193950,Single Family Residential,Arlington Heights,IL,60005,699000,3,2,Arlington Heights,,1629,24593,1948,2,Garage,30,No,699000,No,,Baird & Warner,42.067536,-87.978904,0
+9194025,Single Family Residential,Arlington Heights,IL,60004,739900,4,3.5,Arlington Heights,3000,3000,6398,2016,2,Garage,30,Yes,749900,Yes,180000,Domain Realty,42.094726,-88.001388,0
+9194300,Single Family Residential,Arlington Heights,IL,60004,309900,3,1.5,Arlington Heights,1811,1811,,1987,2,Garage,30,No,309900,No,,RE/MAX,42.137287,-87.963212,0
+9194398,Single Family Residential,Arlington Heights,IL,60004,719900,5,3.5,Arlington Heights,4045,4045,8812,2006,2,Garage,29,No,719900,Yes,711500,Coldwell Banker,42.124206,-87.972383,0
+9194790,Single Family Residential,Arlington Heights,IL,60005,560000,4,3,Arlington Heights,3668,3668,17389,1969,2,Garage,29,No,560000,Yes,471500,Coldwell Banker,42.053764,-87.98987,1
+9194893,Single Family Residential,Arlington Heights,IL,60004,479000,4,2,Arlington Heights,2310,2310,10288,1972,2,Garage,29,No,479000,No,,Coldwell Banker,42.127272,-87.997226,1
+9195295,Single Family Residential,Arlington Heights,IL,60004,439000,5,2.5,Arlington Heights,2409,2409,10062,1985,3,Garage,29,Yes,449000,No,,RE/MAX,42.151668,-87.990235,0
+9195353,Single Family Residential,Arlington Heights,IL,60004,339000,3,2,Arlington Heights,1360,1360,,1969,2,Garage,29,Yes,349000,Yes,232500,Berkshire Hathaway,42.133498,-87.968237,0
+9195362,Single Family Residential,Arlington Heights,IL,60004,347500,3,2,Arlington Heights,1275,1275,8633,1956,2,Garage,29,Yes,360000,Yes,325000,Coldwell Banker,42.095798,-87.977372,1
+9195474,Single Family Residential,Arlington Heights,IL,60004,799500,4,3.5,Arlington Heights,3100,3100,7087,2016,2,Garage,29,No,799500,No,,"The Stonefield Group, Inc.",42.093972,-87.973996,0
+9195543,Single Family Residential,Arlington Heights,IL,60004,490000,5,2.5,Arlington Heights,2582,2582,7919,1967,2,Garage,29,No,490000,No,,RE/MAX,42.100516,-87.986884,0
+9195658,Single Family Residential,Arlington Heights,IL,60005,329900,3,1.5,Arlington Heights,1505,1505,6198,1953,5,Garage,29,No,329900,Yes,190000,RE/MAX,42.081886,-87.990577,0
+9195830,Single Family Residential,Arlington Heights,IL,60005,442000,4,3,Arlington Heights,,2485,12506,1959,2,Garage,28,No,442000,Yes,592500,Baird & Warner,42.071745,-87.992462,1
+9195985,Townhouse,Arlington Heights,IL,60004,298000,3,2.5,Arlington Heights,2800,2800,,1990,2,Garage,28,Yes,309900,Yes,265000,Coldwell Banker,42.123509,-87.994188,0
+9196037,Single Family Residential,Arlington Heights,IL,60005,519900,4,2.5,Arlington Heights,2290,2290,6599,1948,1,Garage,28,Yes,549900,Yes,445000,Keller Williams,42.076102,-87.973644,0
+9196094,Townhouse,Arlington Heights,IL,60004,299899,3,2.5,Arlington Heights,1785,1785,,1966,1,Garage,28,No,299899,Yes,328000,Keller Williams,42.081556,-87.948224,0
+9196141,Single Family Residential,Arlington Heights,IL,60004,425000,3,2.5,Arlington Heights,,1853,,1955,2,Garage,28,No,425000,Yes,210000,Picket Fence Realty,42.092835,-87.97204,0
+9196171,Townhouse,Arlington Heights,IL,60004,314900,3,2.5,Arlington Heights,2800,2800,,1993,2,Garage,28,No,314900,Yes,370000,Charles Rutenberg,42.123509,-87.994188,1
+9196219,Single Family Residential,Arlington Heights,IL,60005,365000,3,2.5,Arlington Heights,1777,1777,,1972,2,Garage,28,No,365000,Yes,173333,Exit Realty,42.059561,-88.000615,1
+9196249,Single Family Residential,Arlington Heights,IL,60004,279000,2,2,Arlington Heights,1200,1200,7919,1957,2,Garage,28,No,279000,Yes,408750,RE/MAX,42.098376,-87.988592,0
+9196433,Single Family Residential,Arlington Heights,IL,60004,325000,4,2,Arlington Heights,2480,2480,8873,1968,2,Garage,28,No,325000,Yes,339000,RE/MAX,42.122335,-87.988623,1
+9196451,Townhouse,Arlington Heights,IL,60005,224900,3,2,Arlington Heights,1650,1650,,1993,2,Garage,28,No,224900,Yes,275000,Chicago Area Realty Inc,42.0397898,-87.971944,0
+9197155,Single Family Residential,Arlington Heights,IL,60004,669900,4,4.5,Arlington Heights,3239,3239,8712,2005,2,Garage,27,Yes,679900,Yes,263000,Right Residential Realty II LLC,42.080178,-87.960252,0
+9197329,Single Family Residential,Arlington Heights,IL,60005,479000,4,3,Arlington Heights,2131,2131,,1970,2,Garage,27,Yes,499000,No,,Baird & Warner,42.06219,-87.983936,0
+9197437,Single Family Residential,Arlington Heights,IL,60004,399900,4,2.5,Arlington Heights,2600,2600,8751,1969,2,Garage,27,Yes,409900,Yes,257000,RCI Real Estate Group,42.122093,-87.989286,0
+9197477,Condo/Coop,Arlington Heights,IL,60005,159900,2,2,Arlington Heights,1100,1100,,1975,1,None,27,No,159900,Yes,217000,Baird & Warner,42.084398,-87.986205,0
+24064715,Single Family Residential,Arlington Heights,IL,60005,426000,3,2.5,Arlington Heights,2011,2011,,1957,2,Garage,27,No,426000,Yes,320000,ForSaleByOwner.com,42.073544,-87.990928,1
+9197812,Single Family Residential,Arlington Heights,IL,60004,739900,4,3.5,Arlington Heights,3278,3278,9901,1954,3,Garage,26,No,739900,No,,Cavan Realty Incorporated,42.095029,-87.992244,1
+9197221,Single Family Residential,Arlington Heights,IL,60004,575000,4,3,Arlington Heights,3000,3000,,1919,2,Garage,26,No,575000,No,,Keller Williams,42.091719,-87.986173,1
+9197924,Single Family Residential,Arlington Heights,IL,60005,379000,4,2.5,Arlington Heights,2714,2714,16117,1971,2,Garage,26,No,379000,No,,Coldwell Banker,42.059106,-87.974664,1
+9198338,Single Family Residential,Arlington Heights,IL,60005,275000,3,2,Arlington Heights,1700,1700,6969,1952,1,Garage,25,No,275000,Yes,200000,Picket Fence Realty,42.0835,-87.990039,1
+9198701,Condo/Coop,Arlington Heights,IL,60005,125000,2,2,Arlington Heights,1200,1200,,1974,1,Garage,25,No,125000,Yes,192000,Baird & Warner,42.064927,-87.990404,1
+9198857,Single Family Residential,Arlington Heights,IL,60005,674900,4,2.5,Arlington Heights,4200,4200,8733,1990,2,Garage,25,No,674900,No,,Homesmart Connect LLC,42.059492,-87.978166,1
+9199813,Single Family Residential,Arlington Heights,IL,60004,425000,4,2.5,Arlington Heights,2300,2300,,1973,2,Garage,24,Yes,434500,No,,MisterHomes Real Estate,42.135663,-87.967998,0
+9200199,Single Family Residential,Arlington Heights,IL,60004,1095000,4,3.5,Arlington Heights,4208,4208,8772,2015,2,Garage,24,Yes,1149000,Yes,205000,Metro Realty Inc.,42.097762,-88.000222,0
+9200634,Condo/Coop,Arlington Heights,IL,60005,129000,2,2,Arlington Heights,1000,1000,,1987,1,None,23,No,129000,Yes,190000,Charles Rutenberg,42.053618,-87.982681,0
+9200660,Single Family Residential,Arlington Heights,IL,60005,425000,4,2.5,Arlington Heights,2310,2310,8825,1969,2,Garage,23,No,425000,Yes,279000,Connect Realty.com Inc.,42.061677,-87.991067,0
+9201017,Single Family Residential,Arlington Heights,IL,60005,450000,3,1,Arlington Heights,1083,1083,,1953,1,Garage,23,No,450000,Yes,300000,Picket Fence Realty,42.075369,-87.987481,0
+9201169,Condo/Coop,Arlington Heights,IL,60004,149900,2,2,Arlington Heights,,1382,,1974,2,None,23,No,149900,Yes,155000,Chicagoland Brokers,42.135685,-87.97185,0
+9201227,Single Family Residential,Arlington Heights,IL,60004,374925,3,2.5,Arlington Heights,1700,1700,9361,1963,2,Garage,23,No,374925,Yes,226000,Coldwell Banker,42.117253,-87.995907,0
+9201445,Single Family Residential,Arlington Heights,IL,60004,797000,4,3,Arlington Heights,3092,3092,32670,1956,3,Garage,23,No,797000,No,,"Prello Realty, Inc.",42.09982,-87.997007,1
+9201547,Single Family Residential,Arlington Heights,IL,60005,880000,3,3.5,Arlington Heights,3771,3771,19998,1953,2,Garage,23,No,880000,No,,"4 Sale Realty, Inc.",42.069437,-87.97817,0
+9201648,Single Family Residential,Arlington Heights,IL,60005,412900,4,4,Arlington Heights,2450,2450,8842,1965,2,Garage,22,Yes,424224,Yes,390000,RE/MAX,42.055333,-87.985816,0
+9201970,Single Family Residential,Arlington Heights,IL,60004,449900,4,2.5,Arlington Heights,2231,2231,8119,1973,2,Garage,22,No,449900,Yes,436000,Coldwell Banker,42.131922,-87.965811,0
+9202068,Single Family Residential,Arlington Heights,IL,60004,475000,4,2.5,Arlington Heights,2625,2625,,1954,2,Garage,22,No,475000,Yes,300000,@properties,42.094179,-87.994693,1
+9202090,Single Family Residential,Arlington Heights,IL,60004,439000,3,3,Arlington Heights,2514,2514,9583,1973,2,Garage,22,No,439000,No,,Berkshire Hathaway,42.123362,-87.960208,0
+9202185,Condo/Coop,Arlington Heights,IL,60005,139900,1,1,Arlington Heights,,906,,1968,0,None,22,No,139900,Yes,140000,Coldwell Banker,42.0646932,-87.964752,0
+9202476,Townhouse,Arlington Heights,IL,60005,285000,3,2.5,Arlington Heights,1500,1500,,1989,2,Garage,22,No,285000,No,,Berkshire Hathaway,42.068254,-88.001839,0
+9202633,Single Family Residential,Arlington Heights,IL,60004,334900,3,1.5,Arlington Heights,1456,1456,6398,1946,1,Garage,22,No,334900,Yes,253500,Coldwell Banker,42.093975,-88.00306,0
+9202646,Condo/Coop,Arlington Heights,IL,60005,139900,2,2,Arlington Heights,,1382,,1972,1,None,22,No,139900,No,,Baird & Warner,42.074974,-87.967517,0
+9202752,Single Family Residential,Arlington Heights,IL,60005,820995,4,2.5,Arlington Heights,4018,4018,,2017,2,Garage,22,No,819995,No,,Coldwell Banker,42.0993643,-87.966298,0
+9202760,Single Family Residential,Arlington Heights,IL,60004,780995,4,2.5,Arlington Heights,3505,3505,,2017,3,Garage,22,No,779995,No,,Coldwell Banker,42.0994913,-87.966285,1
+9202769,Single Family Residential,Arlington Heights,IL,60004,339900,3,2.5,Arlington Heights,1428,1428,,1965,2,Garage,22,No,339900,No,,Baird & Warner,42.118208,-87.994797,0
+9202789,Single Family Residential,Arlington Heights,IL,60004,760995,4,2.5,Arlington Heights,3467,3467,,2017,3,Garage,22,No,759995,No,,Coldwell Banker,42.0994104,-87.966442,0
+9202809,Single Family Residential,Arlington Heights,IL,60004,800995,4,3.5,Arlington Heights,3672,3672,,2017,3,Garage,22,No,799995,No,,Coldwell Banker,42.0993746,-87.966581,0
+9203010,Single Family Residential,Arlington Heights,IL,60005,649925,5,3,Arlington Heights,3272,3272,19101,1950,2,Garage,21,Yes,664925,Yes,535000,Coldwell Banker,42.068886,-87.979865,1
+9203144,Single Family Residential,Arlington Heights,IL,60004,325000,4,2,Arlington Heights,1880,1880,,1955,1,Garage,21,Yes,349000,No,,Picket Fence Realty,42.09683,-88.002466,0
+9203252,Single Family Residential,Arlington Heights,IL,60005,1299000,4,4,Arlington Heights,5800,5800,,2001,4,Garage,21,No,1299000,Yes,1000000,Berkshire Hathaway,42.067469,-87.977404,0
+9203316,Single Family Residential,Arlington Heights,IL,60005,335000,3,2.5,Arlington Heights,1642,1642,8751,1972,2,Garage,21,No,335000,No,,Century 21,42.059476,-87.992629,0
+9203439,Townhouse,Arlington Heights,IL,60004,304900,2,2.5,Arlington Heights,1725,1725,,2016,2,Garage,21,No,304900,No,,Red Seal Realty,42.1095485,-87.964149,0
+9203716,Single Family Residential,Arlington Heights,IL,60005,379000,4,3,Arlington Heights,2150,2150,6751,1962,2,Garage,21,No,379000,Yes,180000,RE/MAX,42.062247,-87.98638,1
+9203745,Single Family Residential,Arlington Heights,IL,60005,435000,4,2.5,Arlington Heights,2583,2583,8790,1970,2,Garage,21,No,435000,No,,Baird & Warner,42.061004,-87.990007,1
+9204016,Single Family Residential,Arlington Heights,IL,60005,499900,3,2.5,Arlington Heights,2332,2332,,1952,2,Garage,21,No,499900,Yes,529000,@properties,42.075393,-87.978476,0
+9204364,Single Family Residential,Arlington Heights,IL,60004,549900,4,3,Arlington Heights,2603,2603,,1979,2,Garage,20,No,549900,Yes,405000,Coldwell Banker,42.097005,-87.979561,0
+9204536,Townhouse,Arlington Heights,IL,60005,169900,2,1,Arlington Heights,,1067,,1986,1,Garage,20,No,169900,No,,RE/MAX,42.052979,-87.976226,1
+9204792,Townhouse,Arlington Heights,IL,60005,249900,2,2.5,Arlington Heights,1400,1400,,1992,2,Garage,19,No,249900,Yes,152500,RE/MAX,42.068254,-88.001839,1
+9204830,Townhouse,Arlington Heights,IL,60005,219900,2,2.5,Arlington Heights,1543,1543,,1990,2,Garage,19,No,219900,Yes,205000,USA Real Estate Ltd.,42.059795,-88.006016,1
+9204994,Single Family Residential,Arlington Heights,IL,60004,950000,5,2.5,Arlington Heights,4325,4325,14122,1976,2,Garage,18,No,950000,No,,Coldwell Banker,42.090831,-87.97718,1
+9205002,Single Family Residential,Arlington Heights,IL,60004,410000,4,2.5,Arlington Heights,2040,2040,11312,1973,2,Garage,18,No,410000,No,,Coldwell Banker,42.120109,-87.960698,0
+9205158,Single Family Residential,Arlington Heights,IL,60004,330000,3,2,Arlington Heights,1243,1243,,1967,2,Garage,18,No,330000,Yes,240000,Berkshire Hathaway,42.114285,-87.994697,1
+9205330,Single Family Residential,Arlington Heights,IL,60004,429000,4,2.5,Arlington Heights,2380,2380,9866,1980,2,Garage,18,No,429000,No,,RE/MAX,42.117192,-88.003268,0
+9205375,Single Family Residential,Arlington Heights,IL,60004,799900,4,3.5,Arlington Heights,,2828,8712,2008,3,Garage,18,No,799900,Yes,740000,RE/MAX,42.07979,-87.956601,1
+9205452,Single Family Residential,Arlington Heights,IL,60004,724900,4,2.5,Arlington Heights,2834,2834,,2016,3,Garage,18,No,724900,Yes,205000,Greenscape Realty LLC,42.089443,-87.993003,0
+9205492,Condo/Coop,Arlington Heights,IL,60005,525000,2,2.5,Arlington Heights,1800,1800,,2004,2,Garage,18,No,525000,No,,Century 21,42.083475,-87.985651,0
+9205592,Single Family Residential,Arlington Heights,IL,60004,207488,3,2,Arlington Heights,1510,1510,,1995,1,Garage,18,No,207488,No,,Coldwell Banker,42.153311,-88.003693,1
+9205730,Single Family Residential,Arlington Heights,IL,60005,324900,3,2,Arlington Heights,1253,1253,9239,1955,1,Garage,18,No,324900,Yes,270000,RE/MAX,42.069022,-87.983428,0
+9206000,Condo/Coop,Arlington Heights,IL,60004,115000,1,1,Arlington Heights,800,800,,1977,2,None,18,No,115000,Yes,126500,Berkshire Hathaway,42.108852,-87.982092,1
+9206040,Single Family Residential,Arlington Heights,IL,60005,395000,3,2,Arlington Heights,1900,1900,,1965,2,Garage,18,No,395000,No,,RE/MAX,42.052575,-87.98683,0
+9206146,Single Family Residential,Arlington Heights,IL,60004,269900,3,1.5,Arlington Heights,,1431,9029,1968,1,Garage,18,No,269900,Yes,222000,Red Zone Realty Group Inc.,42.12659,-87.992778,0
+9206628,Townhouse,Arlington Heights,IL,60005,305000,2,3,Arlington Heights,2025,2025,,2008,2,Garage,17,No,305000,No,,Berkshire Hathaway,42.0471167,-87.986958,1
+9207113,Single Family Residential,Arlington Heights,IL,60005,253900,4,2,Arlington Heights,1357,1357,3920,1970,2,None,17,No,253900,Yes,258000,Century 21,42.059348,-87.980363,1
+9207114,Single Family Residential,Arlington Heights,IL,60005,449000,3,2,Arlington Heights,2000,2000,,1960,2,Garage,17,No,449000,Yes,282500,"Esteem Realty, Inc",42.033428,-87.968892,0
+9207425,Condo/Coop,Arlington Heights,IL,60005,124900,2,2,Arlington Heights,1334,1334,,1977,2,None,16,No,124900,No,,Home Sweet Home,42.04242,-87.973687,1
+9207815,Single Family Residential,Arlington Heights,IL,60005,379900,3,2,Arlington Heights,1100,1100,10558,1949,1,Garage,16,No,379900,Yes,395000,Berkshire Hathaway,42.071864,-87.988246,0
+9207990,Single Family Residential,Arlington Heights,IL,60004,839000,5,3,Arlington Heights,3389,3389,10890,2005,2,Garage,16,No,839000,Yes,863000,Picket Fence Realty,42.100222,-88.002995,1
+9208228,Single Family Residential,Arlington Heights,IL,60004,799900,5,2.5,Arlington Heights,3900,3900,8441,2004,2,Garage,16,No,799900,No,,RE/MAX,42.09483,-87.983248,1
+9208560,Single Family Residential,Arlington Heights,IL,60005,499900,4,3,Arlington Heights,2750,2750,,1949,2,Garage,16,No,499900,Yes,271500,Charles Rutenberg,42.069161,-87.979869,1
+9208582,Single Family Residential,Arlington Heights,IL,60005,399896,4,2.5,Arlington Heights,2805,2805,10001,1970,2,Garage,16,No,399896,Yes,277001,Garry Real Estate,42.05452,-87.992206,1
+9208859,Single Family Residential,Arlington Heights,IL,60004,384900,3,2,Arlington Heights,,1629,7866,1956,1,Garage,15,No,384900,Yes,230000,"Roppolo Realty, Inc.",42.085261,-87.973554,0
+9209142,Single Family Residential,Arlington Heights,IL,60004,829000,3,3,Arlington Heights,3100,3100,7618,2008,2,Garage,15,No,829000,Yes,145000,Baird & Warner,42.086066,-87.971147,1
+9209157,Townhouse,Arlington Heights,IL,60004,249900,3,2,Arlington Heights,1500,1500,,1990,2,Garage,15,No,249900,No,,Homesmart Connect LLC,42.142402,-87.992735,0
+9209191,Single Family Residential,Arlington Heights,IL,60004,599999,5,2.5,Arlington Heights,3000,3000,7535,1986,2,Garage,15,No,599999,No,,Baird & Warner,42.121377,-87.976973,1
+9209198,Single Family Residential,Arlington Heights,IL,60004,769000,4,3.5,Arlington Heights,3428,3428,,1995,2,Garage,15,No,769000,Yes,529001,Picket Fence Realty,42.091948,-87.984966,0
+9209352,Townhouse,Arlington Heights,IL,60004,589900,3,2.5,Arlington Heights,2589,2589,,2005,2,Garage,15,No,589900,Yes,592500,Coldwell Banker,42.076177,-87.964481,0
+9209388,Single Family Residential,Arlington Heights,IL,60005,424925,4,2,Arlington Heights,1819,1819,8681,1957,1,Garage,15,No,424925,No,,Coldwell Banker,42.077945,-88.003212,0
+9209485,Single Family Residential,Arlington Heights,IL,60005,699500,5,3.5,Arlington Heights,3468,3468,12000,1987,3,Garage,15,No,699500,No,,RE/MAX,42.084907,-87.998102,1
+9209552,Single Family Residential,Arlington Heights,IL,60004,449900,4,2.5,Arlington Heights,2444,2444,8655,1985,2,Garage,15,No,449900,No,,Coldwell Banker,42.153107,-87.993093,1
+9209876,Townhouse,Arlington Heights,IL,60004,259900,3,2,Arlington Heights,,1629,,1994,2,Garage,15,No,259900,Yes,230000,Berkshire Hathaway,42.1117746,-87.948001,0
+9209917,Single Family Residential,Arlington Heights,IL,60004,414000,3,2,Arlington Heights,1224,1224,10933,1964,2,Garage,14,No,414000,Yes,376000,Baird & Warner,42.113264,-87.963891,0
+9209960,Single Family Residential,Arlington Heights,IL,60004,160000,2,1,Arlington Heights,,1067,,1986,1,Garage,14,No,160000,No,,RE/MAX,42.152129,-88.000193,1
+9210202,Single Family Residential,Arlington Heights,IL,60005,574900,4,2.5,Arlington Heights,2876,2876,,2000,2,Garage,14,No,574900,No,,Picket Fence Realty,42.064537,-87.988898,0
+9210405,Single Family Residential,Arlington Heights,IL,60004,785000,4,4.5,Arlington Heights,3460,3460,,1998,2,Garage,14,No,785000,No,,Picket Fence Realty,42.091209,-87.982539,0
+9210440,Single Family Residential,Arlington Heights,IL,60004,474900,4,2,Arlington Heights,1776,1776,9504,1963,1,Garage,14,No,474900,No,,Coldwell Banker,42.095092,-87.978401,0
+9210892,Single Family Residential,Arlington Heights,IL,60005,395000,4,2.5,Arlington Heights,2187,2187,,1967,2,Garage,14,No,395000,No,,RE/MAX,42.054127,-87.986069,1
+9210889,Single Family Residential,Arlington Heights,IL,60004,399900,3,2,Arlington Heights,1400,1400,,1966,2,Garage,14,No,399900,Yes,310000,Berkshire Hathaway,42.094093,-87.983251,0
+9210955,Condo/Coop,Arlington Heights,IL,60005,189900,2,2,Arlington Heights,1310,1310,,1970,4,None,14,No,189900,Yes,183000,American Realty,42.0640466,-87.964756,0
+9211004,Single Family Residential,Arlington Heights,IL,60004,459900,4,2.5,Arlington Heights,2307,2307,11761,1984,2,Garage,14,No,459900,Yes,435000,RE/MAX,42.111382,-87.999976,0
+9211207,Single Family Residential,Arlington Heights,IL,60004,990000,4,4.5,Arlington Heights,4995,4995,36590,2005,9,Garage,13,No,990000,No,,RE/MAX,42.121768,-87.955547,0
+9211229,Single Family Residential,Arlington Heights,IL,60004,549900,5,3,Arlington Heights,3008,3008,9034,1984,2,Garage,13,No,549900,Yes,480000,RE/MAX,42.151915,-87.987758,0
+9211299,Single Family Residential,Arlington Heights,IL,60004,424900,3,3,Arlington Heights,2000,2000,,1959,4,Garage,13,No,424900,No,,RE/MAX,42.088708,-87.962062,1
+9212203,Condo/Coop,Arlington Heights,IL,60005,119900,1,1,Arlington Heights,800,800,,,1,None,11,No,119900,Yes,80000,RE/MAX,42.09236,-88.003428,0
+9212225,Condo/Coop,Arlington Heights,IL,60004,139000,2,2,Arlington Heights,,1382,,1971,1,None,11,No,139000,Yes,83000,Utopia Real Estate Inc.,42.104446,-87.964633,1
+9212306,Single Family Residential,Arlington Heights,IL,60004,639900,4,3,Arlington Heights,3046,3046,9801,1925,2,Garage,11,No,639900,Yes,280000,Coldwell Banker,42.088017,-87.984934,0
+9212419,Townhouse,Arlington Heights,IL,60004,255000,3,2,Arlington Heights,1400,1400,,1993,2,Garage,11,No,255000,Yes,227500,RE/MAX,42.111073,-87.947357,0
+9212994,Condo/Coop,Arlington Heights,IL,60005,299900,2,2,Arlington Heights,1300,1300,,2001,1,Garage,11,No,299900,Yes,230000,Sergio & Banks Real Estate,42.082597,-87.98513,0
+9213160,Single Family Residential,Arlington Heights,IL,60004,469900,4,3,Arlington Heights,2870,2870,11325,1977,2,Garage,11,No,469900,Yes,443000,Coldwell Banker,42.115185,-87.966791,0
+9213186,Single Family Residential,Arlington Heights,IL,60004,569000,4,2.5,Arlington Heights,2300,2300,8977,1964,2,Garage,11,No,569000,Yes,377000,Baird & Warner,42.099393,-87.971751,0
+9213341,Single Family Residential,Arlington Heights,IL,60004,385000,3,2.5,Arlington Heights,1457,1457,,,2,Garage,11,No,385000,Yes,275000,USA Real Estate Ltd.,42.111655,-87.962956,0
+9213544,Single Family Residential,Arlington Heights,IL,60004,349900,3,2,Arlington Heights,1420,1420,6516,1951,1,Garage,10,Yes,359900,Yes,283500,Right Residential Realty II LLC,42.094788,-87.975952,0
+9213828,Single Family Residential,Arlington Heights,IL,60004,749900,4,2.5,Arlington Heights,3000,3000,6599,2016,2,Garage,10,No,749900,Yes,200000,Coldwell Banker,42.091884,-87.997124,0
+9213832,Multi-Family,Arlington Heights,IL,60004,479900,10,6,Arlington Heights,,14462,,1983,12,None,10,No,479900,No,,Keller Williams,42.151855,-88.013093,1
+9213988,Single Family Residential,Arlington Heights,IL,60004,524900,4,3.5,Arlington Heights,2900,2900,,1983,2,Garage,10,No,524900,Yes,500000,Coldwell Banker,42.112022,-87.955902,0
+9214161,Single Family Residential,Arlington Heights,IL,60004,759000,3,2.5,Arlington Heights,2850,2850,,1969,2,Garage,10,No,759000,Yes,450000,Picket Fence Realty,42.089549,-87.977174,0
+9214307,Condo/Coop,Arlington Heights,IL,60005,135900,2,2,Arlington Heights,1300,1300,,1975,1,None,10,No,135900,Yes,80000,Comstock Realty Group,42.074974,-87.967517,0
+9214749,Single Family Residential,Arlington Heights,IL,60004,549000,4,2.5,Arlington Heights,2888,2888,9674,1962,2,Garage,9,No,549000,No,,Baird & Warner,42.084059,-87.960677,0
+9214767,Single Family Residential,Arlington Heights,IL,60005,874900,5,4.5,Arlington Heights,3654,3654,7919,2004,2,Garage,9,No,874900,No,,Coldwell Banker,42.084033,-87.994721,0
+9214827,Townhouse,Arlington Heights,IL,60004,224900,2,2,Arlington Heights,1700,1700,,1986,1,Garage,9,No,224900,No,,Coldwell Banker,42.106755,-87.977282,0
+9215048,Single Family Residential,Arlington Heights,IL,60004,539900,4,3.5,Arlington Heights,2700,2700,,1968,2,Garage,9,No,539900,Yes,420000,RE/MAX,42.107652,-87.958289,0
+9215068,Townhouse,Arlington Heights,IL,60005,189900,2,1.5,Arlington Heights,1100,1100,,1990,1,Garage,9,No,189900,Yes,135000,Baird & Warner,42.059795,-88.006016,0
+9215117,Single Family Residential,Arlington Heights,IL,60004,374999,3,1.5,Arlington Heights,1560,1560,6599,1952,2,Garage,9,No,374999,Yes,384000,Coldwell Banker,42.076247,-87.961939,0
+9215450,Single Family Residential,Arlington Heights,IL,60004,449925,3,3,Arlington Heights,1648,1648,7919,1966,1,Garage,9,No,449925,Yes,299000,Coldwell Banker,42.09969,-87.986161,0
+9215585,Townhouse,Arlington Heights,IL,60004,229900,2,1.5,Arlington Heights,,1214,,1989,1,Garage,9,No,229900,Yes,230000,@properties,42.149041,-88.002648,0
+9216053,Single Family Residential,Arlington Heights,IL,60004,569900,5,2.5,Arlington Heights,2988,2988,8751,1970,2,Garage,8,No,569900,Yes,596000,Coldwell Banker,42.119489,-87.975191,1
+9216060,Single Family Residential,Arlington Heights,IL,60004,219900,3,1,Arlington Heights,1097,1097,8712,1955,2,Garage,8,No,219900,No,,Baird & Warner,42.102453,-88.004218,0
+9216227,Single Family Residential,Arlington Heights,IL,60004,485000,3,2.5,Arlington Heights,2311,2311,9526,1987,2,Garage,8,No,485000,Yes,550000,Berkshire Hathaway,42.112841,-87.95592,0
+9216242,Single Family Residential,Arlington Heights,IL,60004,415000,4,2.5,Arlington Heights,1696,1696,8881,1972,2,Garage,8,No,415000,No,,Coldwell Banker,42.128364,-87.981674,0
+9216507,Single Family Residential,Arlington Heights,IL,60004,899925,4,4,Arlington Heights,3900,3900,8786,2016,3,Garage,8,No,899925,No,,Coldwell Banker,42.106039,-87.987904,0
+9216585,Single Family Residential,Arlington Heights,IL,60005,279900,3,1.5,Arlington Heights,1019,1019,,,2,Garage,8,No,279900,No,,Berkshire Hathaway,42.072101,-87.985068,0
+9216589,Single Family Residential,Arlington Heights,IL,60004,695000,4,3.5,Arlington Heights,2520,2520,,,2,Garage,8,No,695000,Yes,415000,Berkshire Hathaway,42.096209,-87.995897,0
+9216590,Condo/Coop,Arlington Heights,IL,60005,1249000,5,5.5,Arlington Heights,6000,6000,,2003,3,Garage,8,No,1249000,No,,Berkshire Hathaway,42.080014,-87.982064,1
+9216577,Townhouse,Arlington Heights,IL,60004,180000,3,2,Arlington Heights,,1629,,1988,1,Garage,8,No,180000,No,,Berkshire Hathaway,42.152129,-88.000193,0
+9216650,Single Family Residential,Arlington Heights,IL,60004,319900,3,1.5,Arlington Heights,1644,1644,,1957,1,Garage,8,No,319900,No,,Berkshire Hathaway,42.080348,-87.958306,0
+9216665,Single Family Residential,Arlington Heights,IL,60005,429000,4,2.5,Arlington Heights,2279,2279,8751,1970,2,Garage,8,No,429000,Yes,398000,d'aprile properties,42.055126,-87.9922,1
+9216663,Townhouse,Arlington Heights,IL,60005,259900,2,2,Arlington Heights,,1382,,1989,2,Garage,8,No,259900,No,,Homesmart Connect LLC,42.068254,-88.001839,0
+9216716,Single Family Residential,Arlington Heights,IL,60004,649900,4,2.5,Arlington Heights,3387,3387,,1971,2,Garage,8,No,649900,No,,RE/MAX,42.104351,-87.975209,0
+9216725,Condo/Coop,Arlington Heights,IL,60005,129000,2,1,Arlington Heights,1000,1000,,1970,2,None,8,No,129000,Yes,61000,American Realty,42.045057,-87.978497,0
+9216959,Condo/Coop,Arlington Heights,IL,60005,99000,1,1,Arlington Heights,700,700,,1976,2,None,8,No,99000,Yes,35000,Traditional RE,42.045491,-87.976016,0
+9217057,Condo/Coop,Arlington Heights,IL,60005,149900,2,2,Arlington Heights,,1382,,1971,1,Garage,8,No,149900,Yes,170000,RE/MAX,42.0608411,-88.005232,1
+9217159,Single Family Residential,Arlington Heights,IL,60004,349900,4,2,Arlington Heights,1750,1750,,1959,1,Garage,8,Yes,374000,Yes,210000,"Prello Realty, Inc.",42.105565,-87.994621,1
+9217168,Single Family Residential,Arlington Heights,IL,60005,375000,3,2,Arlington Heights,1800,1800,,1957,2,Garage,8,No,375000,Yes,183000,@properties,42.082337,-88.00018,0
+9217325,Single Family Residential,Arlington Heights,IL,60004,420000,5,2.5,Arlington Heights,2720,2720,14374,1969,2,Garage,8,No,420000,Yes,505000,Homesmart Connect LLC,42.130223,-87.993396,1
+9217488,Single Family Residential,Arlington Heights,IL,60005,375000,4,1.5,Arlington Heights,1992,1992,,1955,2,Garage,7,No,375000,No,,Picket Fence Realty,42.073633,-87.980132,1
+9217504,Single Family Residential,Arlington Heights,IL,60004,429900,4,2.5,Arlington Heights,1918,1918,10563,1970,2,Garage,7,No,429900,No,,Keller Williams,42.109017,-87.952743,0
+9217523,Single Family Residential,Arlington Heights,IL,60004,420000,3,2,Arlington Heights,1341,1341,8712,1960,2,Garage,7,No,420000,Yes,387500,Coldwell Banker,42.078549,-87.955398,0
+9217580,Single Family Residential,Arlington Heights,IL,60004,649900,5,4.5,Arlington Heights,4828,4828,12070,1992,3,Garage,7,No,649900,No,,Coldwell Banker,42.127251,-87.978704,1
+9217782,Single Family Residential,Arlington Heights,IL,60005,294900,3,2,Arlington Heights,1600,1600,5401,1962,1,Garage,7,No,294900,Yes,295000,Keller Williams,42.058999,-87.983934,1
+9217818,Single Family Residential,Arlington Heights,IL,60005,435000,5,2.5,Arlington Heights,2296,2296,11338,1971,2,Garage,7,No,435000,Yes,295000,Coldwell Banker,42.058143,-87.995695,1
+9218170,Single Family Residential,Arlington Heights,IL,60004,629000,6,4,Arlington Heights,3500,3500,4356,1968,2,Garage,7,No,629000,Yes,515000,"IMB Realty, LLC.",42.114434,-87.979801,0
+9218474,Single Family Residential,Arlington Heights,IL,60004,421900,4,2.5,Arlington Heights,1825,1825,11194,1973,2,Garage,7,No,421900,Yes,460000,RE/MAX,42.121874,-87.957889,1
+9218587,Single Family Residential,Arlington Heights,IL,60004,339000,2,2,Arlington Heights,,1382,6699,1957,1,Garage,7,No,339000,Yes,305000,In Business Real Estate,42.088523,-87.973202,0
+9218681,Single Family Residential,Arlington Heights,IL,60005,414900,4,2.5,Arlington Heights,2700,2700,9308,1968,2,Garage,7,No,414900,Yes,277000,RE/MAX,42.04143,-87.969274,1
+9219805,Townhouse,Arlington Heights,IL,60004,305000,3,3.5,Arlington Heights,1900,1900,,2000,2,Garage,4,No,305000,Yes,260100,Berkshire Hathaway,42.123611,-87.999497,0
+9220015,Single Family Residential,Arlington Heights,IL,60004,395900,4,2.5,Arlington Heights,2448,2448,8890,1971,2,Garage,4,No,395900,Yes,395000,Coldwell Banker,42.11991,-87.960252,0
+9220019,Single Family Residential,Arlington Heights,IL,60005,349900,4,3,Arlington Heights,2400,2400,,1961,2,Garage,4,No,349900,No,,RE/MAX,42.060105,-87.983188,1
+9220220,Single Family Residential,Arlington Heights,IL,60004,375000,4,2.5,Arlington Heights,,2184,,1963,2,Garage,4,No,375000,No,,Dream Town Realty,42.113978,-87.998755,0
+9220259,Single Family Residential,Arlington Heights,IL,60004,264900,3,2,Arlington Heights,1081,1081,,1978,2,Garage,4,No,264900,Yes,235000,RE/MAX,42.148737,-88.008455,0
+9220403,Condo/Coop,Arlington Heights,IL,60005,239000,2,2,Arlington Heights,1100,1100,,,1,None,4,No,239000,No,,Berkshire Hathaway,42.083257,-87.986178,0
+9220476,Single Family Residential,Arlington Heights,IL,60004,368500,3,2.5,Arlington Heights,1950,1950,6655,1986,2,Garage,4,No,368500,No,,A Saccone & Sons,42.148858,-87.997982,0
+9221034,Condo/Coop,Arlington Heights,IL,60005,159900,2,2,Arlington Heights,1270,1270,,1973,2,Garage,3,No,159900,Yes,174000,Homesmart Connect LLC,42.064876,-87.991809,0
+9221501,Single Family Residential,Arlington Heights,IL,60004,434925,4,3,Arlington Heights,2392,2392,7514,1957,2,Garage,3,No,434925,No,,Coldwell Banker,42.075609,-87.957126,0
+9221794,Single Family Residential,Arlington Heights,IL,60005,665000,4,4.5,Arlington Heights,3600,3600,9504,2001,3,Garage,3,No,665000,Yes,543000,Runway Realty Inc,42.07296,-88.002777,0
+9222322,Condo/Coop,Arlington Heights,IL,60004,83900,1,1,Arlington Heights,,906,,1978,1,None,2,No,83900,No,,Coldwell Banker,42.097377,-87.953468,0
+9222331,Single Family Residential,Arlington Heights,IL,60004,329999,3,2,Arlington Heights,,1629,,1957,2,Garage,2,No,329999,Yes,340000,Baird & Warner,42.077812,-87.959049,1
+9222375,Townhouse,Arlington Heights,IL,60004,199000,2,2,Arlington Heights,1250,1250,,1993,1,Garage,2,No,199000,Yes,134000,@properties,42.133341,-87.972353,0
+9222498,Condo/Coop,Arlington Heights,IL,60004,149900,2,1.5,Arlington Heights,1200,1200,,,1,None,2,No,149900,Yes,72500,Dream Realty Services,42.108852,-87.982092,0
+9222508,Single Family Residential,Arlington Heights,IL,60004,309900,3,1.5,Arlington Heights,1418,1418,,1956,2,Garage,2,No,309900,No,,Baird & Warner,42.09245,-87.971253,0
+9222569,Single Family Residential,Arlington Heights,IL,60004,249900,2,2,Arlington Heights,,1382,,1988,1,Garage,2,No,249900,No,,Coldwell Banker,42.106755,-87.977282,0
+9222639,Condo/Coop,Arlington Heights,IL,60004,137500,2,2,Arlington Heights,,1382,,1971,1,None,2,No,137500,Yes,60000,Beaulieu Real Estate,42.104446,-87.964633,0
+9222652,Condo/Coop,Arlington Heights,IL,60004,82900,2,1.5,Arlington Heights,,1214,,,1,None,2,No,82900,No,,"Cornerstone Realty, Inc.",42.149477,-88.010767,1
+9222682,Single Family Residential,Arlington Heights,IL,60005,324900,2,2,Arlington Heights,,1382,7919,1954,1,Garage,2,No,324900,Yes,255000,Coldwell Banker,42.072634,-87.984579,0
+9223095,Single Family Residential,Arlington Heights,IL,60004,269900,3,2,Arlington Heights,1059,1059,6534,1951,1,Garage,2,No,269900,No,,Baird & Warner,42.094859,-88.003056,1
+9223308,Single Family Residential,Arlington Heights,IL,60004,444999,4,2.5,Arlington Heights,2184,2184,20037,1980,2,Garage,2,No,444999,Yes,295000,Kristopher Furr,42.134101,-87.961509,1
+9190353,Townhouse,Arlington Heights,IL,60004,211900,2,2,Arlington Heights,1172,1172,,1967,2,None,2,No,211900,Yes,140000,Keller Williams,42.1055426,-87.979978,0
+9223612,Condo/Coop,Arlington Heights,IL,60004,125000,2,1.5,Arlington Heights,1100,1100,,1978,2,None,1,No,125000,No,,Berkshire Hathaway,42.0985641,-87.955233,0
+9224050,Single Family Residential,Arlington Heights,IL,60004,524900,4,2.5,Arlington Heights,2704,2704,10667,1968,2,Garage,1,No,524900,No,,Sergio & Banks Real Estate,42.107807,-87.954638,0
+9224230,Single Family Residential,Arlington Heights,IL,60004,349900,4,2,Arlington Heights,1113,1113,,1970,2,Garage,1,No,349900,Yes,302500,Coldwell Banker,42.120063,-87.996598,0
+9224216,Single Family Residential,Arlington Heights,IL,60004,799900,4,3.5,Arlington Heights,3120,3120,,2016,2,Garage,1,No,799900,Yes,215000,Greenscape Realty LLC,42.095206,-87.972172,1
+9224507,Single Family Residential,Arlington Heights,IL,60004,589000,4,2.5,Arlington Heights,3000,3000,,1978,2,Garage,1,No,589000,No,,Berkshire Hathaway,42.105138,-87.951473,0
+9224566,Condo/Coop,Arlington Heights,IL,60004,189900,2,1,Arlington Heights,1050,1050,,1991,1,Garage,1,No,189900,No,,@properties,42.1110562,-87.949957,1
+9224581,Single Family Residential,Arlington Heights,IL,60004,455000,4,2.5,Arlington Heights,2630,2630,10397,1970,2,Garage,1,No,455000,No,,RE/MAX,42.099338,-87.978355,0
+9224938,Single Family Residential,Arlington Heights,IL,60004,450000,4,2.5,Arlington Heights,2449,2449,9901,1967,2,Garage,1,No,450000,No,,Coldwell Banker,42.114319,-87.974632,1
+9225117,Single Family Residential,Arlington Heights,IL,60004,364900,3,2.5,Arlington Heights,1600,1600,8751,1973,2,Garage,1,No,364900,No,,Century 21,42.129535,-87.973173,0
+9225229,Single Family Residential,Arlington Heights,IL,60004,359000,3,2,Arlington Heights,1450,1450,8712,1954,2,Garage,1,No,359000,No,,Coldwell Banker,42.086335,-87.967961,0
+9225270,Single Family Residential,Arlington Heights,IL,60005,315000,3,2,Arlington Heights,,1629,9147,1955,2,Garage,1,No,315000,Yes,270000,,42.085106,-88.002032,0
+9104599,Multi-Family,Chicago,IL,60641,350000,5,2,Belmont Cragin,,2263,4356,1919,2,Garage,144,No,350000,Yes,165000,Millennial Realty Inc,41.934898,-87.748993,0
+9027348,Condo/Coop,Chicago,IL,60634,99900,2,1,Belmont Cragin,,1067,,1931,0,None,255,No,99900,Yes,70000,Diaz Homes Realty,41.9350142,-87.767292,0
+9141728,Multi-Family,Chicago,IL,60634,329900,3,3,Belmont Cragin,,2109,,,2,Garage,86,No,329900,Yes,287000,RE/MAX,41.936876,-87.777278,1
+3999783434,Single Family Residential,Chicago,IL,60639,220000,4,2,Chicago,,1920,,,1,None,256,No,220000,Yes,203000,BuyOwner.com via Oodle,41.918209,-87.748371,1
+9159789,Multi-Family,Chicago,IL,60639,549900,3,,Belmont Cragin,,,,1930,0,None,66,No,549900,Yes,510000,Berger & Co. Realtors Ltd,41.917455,-87.749477,0
+9031022,Single Family Residential,Chicago,IL,60639,237500,3,1,Belmont Cragin,1400,1400,4029,1916,2,Garage,252,Yes,265000,No,,RE/MAX,41.925777,-87.751098,0
+9097359,Single Family Residential,Chicago,IL,60639,254900,3,2,Belmont Cragin,1800,1800,,1927,2,Garage,161,Yes,265000,No,,PMA Real Estate,41.929843,-87.757499,0
+9156321,Multi-Family,Chicago,IL,60641,1250000,5,3,Belmont Cragin,14331,14331,,1922,2,None,70,No,1250000,No,,First Western Properties,41.933355,-87.756851,0
+9026440,Multi-Family,Chicago,IL,60639,230000,6,3,Belmont Cragin,,3453,,1944,2,Garage,256,No,180000,Yes,163000,Diaz Homes Realty,41.921382,-87.773533,1
+9142291,Multi-Family,Chicago,IL,60639,250000,3,2,Belmont Cragin,,1629,3049,1962,2,None,86,No,250000,Yes,70001,Galan Realty,41.9199328,-87.771272,1
+9149084,Single Family Residential,Chicago,IL,60641,240000,4,3,Belmont Cragin,1500,1500,3750,,2,Garage,77,Yes,250000,Yes,120000,Real Living City Residential,41.933944,-87.752329,1
+9168742,Condo/Coop,Chicago,IL,60641,54900,1,1,Belmont Cragin,650,650,,1929,0,None,57,No,54900,No,,Homeland Sales and Development,41.9345815,-87.756825,0
+9165338,Single Family Residential,Chicago,IL,60634,250000,4,3,Belmont Cragin,1865,1865,,1920,1,Garage,60,No,250000,Yes,103000,Exit Realty,41.933526,-87.786116,0
+9167156,Single Family Residential,Chicago,IL,60639,318000,4,2,Belmont Cragin,1803,1803,3628,1926,2,Garage,58,No,318000,Yes,350000,"Oak Park Avenue Realty, LTD",41.924405,-87.777286,0
+9170077,Multi-Family,Chicago,IL,60639,149500,5,2.5,Belmont Cragin,,2575,3049,1894,2,Garage,56,No,149500,Yes,130000,RE/MAX,41.922122,-87.759434,0
+9127876,Single Family Residential,Chicago,IL,60639,299900,5,2,Belmont Cragin,2400,2400,,2002,2,Garage,103,Yes,310000,Yes,315000,Chicagoland Brokers,41.92155,-87.751467,1
+9173579,Multi-Family,Chicago,IL,60639,330000,7,3,Belmont Cragin,,4070,,1963,2,None,51,No,330000,Yes,139000,"USRealty.com, LLP",41.922185,-87.772864,1
+3999781624,Single Family Residential,Chicago,IL,60639,350000,4,2,Chicago,,1920,,,0,None,256,No,350000,Yes,233000,BuyOwner.com via Oodle,41.926279,-87.752586,0
+3908987758,Single Family Residential,Chicago,IL,60639,299000,3,2,Chicago,,1629,,,0,None,376,No,299000,No,,BuyOwner.com via Oodle,41.929426,-87.749774,0
+3999782634,Single Family Residential,Chicago,IL,60639,160000,3,1.5,Chicago,,1431,,,1,None,256,No,160000,Yes,155000,BuyOwner.com via Oodle,41.9297306,-87.743175,0
+3999783331,Single Family Residential,Chicago,IL,60639,450000,6,3,Chicago,,3453,,,1,None,256,No,450000,Yes,200000,BuyOwner.com via Oodle,41.919272,-87.78373,0
+9213765,Single Family Residential,Chicago,IL,60634,284900,4,3,Belmont Cragin,2300,2300,,1951,3,Garage,10,No,284900,Yes,217000,Beaulieu Real Estate,41.936927,-87.787973,1
+9223372,Condo/Coop,Chicago,IL,60634,154900,2,2,Belmont Cragin,1000,1000,,1974,1,None,2,No,154900,Yes,78000,Crosstown Realty,41.9380211,-87.789871,0
+9218562,Single Family Residential,Chicago,IL,60639,249000,4,2.5,Belmont Cragin,1800,1800,37461,1923,2,Garage,7,No,249000,Yes,146000,Berkshire Hathaway,41.927547,-87.754364,0
+8998960,Multi-Family,Chicago,IL,60639,275000,4,3,Belmont Cragin,,2485,4356,1911,6,Garage,287,Yes,275000,Yes,35000,Solid Realty Services,41.920639,-87.753223,1
+9168216,Single Family Residential,Chicago,IL,60639,234900,3,2,Belmont Cragin,,1629,,1965,2,Garage,57,No,234900,No,,CHI Properties Inc.,41.92171,-87.773544,0
+9212323,Single Family Residential,Chicago,IL,60634,245000,3,1.5,Belmont Cragin,1069,1069,3497,1956,2,Garage,11,No,220000,No,,Century 21,41.932039,-87.786066,0
+9214060,Single Family Residential,Chicago,IL,60641,320000,4,2.5,Belmont Cragin,950,950,,1922,1,Garage,10,No,320000,Yes,175000,RE/MAX,41.933024,-87.752847,1
+9215531,Single Family Residential,Chicago,IL,60634,289000,3,2.5,Belmont Cragin,1580,1580,3720,1928,2,Garage,9,No,289000,Yes,276000,Infinity Realty Services 1 Inc,41.932628,-87.779305,1
+9195231,Single Family Residential,Chicago,IL,60634,424900,4,3.5,Belmont Cragin,2800,2800,3720,1926,2,Garage,29,No,424900,Yes,130000,Solid Realty Services,41.932497,-87.782429,1
+9210223,Single Family Residential,Chicago,IL,60634,349900,3,2.5,Belmont Cragin,1500,1500,,1969,2,Garage,14,No,349900,Yes,254000,Alpha-1 Real Estate,41.9367734,-87.779471,0
+9156684,Multi-Family,Chicago,IL,60641,359900,5,3,Belmont Cragin,,2930,,1924,2,Garage,70,No,359900,No,,RE/MAX,41.933483,-87.757662,0
+9207532,Multi-Family,Chicago,IL,60639,525000,3,3,Belmont Cragin,3298,3298,4791,1960,8,None,16,No,525000,No,,Baird & Warner,41.927374,-87.756618,0
+9140877,Single Family Residential,Chicago,IL,60634,379000,4,2,Belmont Cragin,,1920,,,3,Garage,87,Yes,389000,No,,American Realty,41.936308,-87.780621,0
+9124688,Single Family Residential,Chicago,IL,60639,134500,4,2,Belmont Cragin,1641,1641,3750,1920,2,Garage,108,Yes,149900,Yes,171000,"Hunter's Realty, Inc.",41.9216,-87.766236,0
+9203929,Single Family Residential,Chicago,IL,60641,201900,4,3,Belmont Cragin,,2485,,1924,2,Garage,21,No,201900,Yes,148000,"Broz Group Real Estate, Inc.",41.9361813,-87.760115,0
+9131648,Multi-Family,Chicago,IL,60639,353000,5,3,Belmont Cragin,,2930,,1955,3,None,99,Yes,365000,No,,@properties,41.923421,-87.783502,0
+9208555,Single Family Residential,Chicago,IL,60634,119600,4,2,Belmont Cragin,943,943,3920,1924,3,Garage,16,No,119600,Yes,206000,Anthony J.Trotto Real Estate,41.9322578,-87.773341,0
+9154011,Single Family Residential,Chicago,IL,60641,299900,5,3,Belmont Cragin,2260,2260,,1925,2,Garage,72,Yes,319900,No,,RE/MAX,41.934383,-87.758552,1
+9082159,Single Family Residential,Chicago,IL,60641,205000,2,2,Belmont Cragin,1133,1133,3781,1924,2,Garage,187,No,205000,No,,"MGS United Realty, LLC",41.933561,-87.762284,0
+9185130,Single Family Residential,Chicago,IL,60641,268500,5,3,Belmont Cragin,1015,1015,3781,1922,2,Garage,38,No,268500,No,,American Advantage Realty Inc.,41.93795,-87.762445,0
+9159315,Single Family Residential,Chicago,IL,60641,343500,5,3,Belmont Cragin,1767,1767,,1924,2,Garage,66,No,343500,No,,Beaulieu Real Estate,41.93371,-87.761063,0
+9152145,Multi-Family,Chicago,IL,60641,349900,6,3,Belmont Cragin,,3453,,1928,2,Garage,73,No,349900,No,,RE/MAX,41.933469,-87.763458,1
+9133144,Single Family Residential,Chicago,IL,60641,275000,4,3,Belmont Cragin,,2485,,1929,2,Garage,97,No,275000,No,,Berger & Co. Realtors Ltd,41.935257,-87.76106,0
+9169159,Single Family Residential,Chicago,IL,60639,339900,4,3,Belmont Cragin,1500,1500,,1922,2,Garage,56,No,339900,Yes,127900,American Realty,41.9302748,-87.769613,0
+9215353,Single Family Residential,Chicago,IL,60639,299999,3,3,Belmont Cragin,1300,1300,,1963,2,Garage,9,No,299999,Yes,100000,Su Familia Real Estate,41.926472,-87.762747,0
+9214697,Single Family Residential,Chicago,IL,60634,229000,4,3,Belmont Cragin,1830,1830,,1926,3,Garage,10,No,229000,Yes,184322,Chel Group Realty,41.935449,-87.772106,0
+9127855,Single Family Residential,Chicago,IL,60639,135000,4,1,Belmont Cragin,1400,1400,3781,1917,2,Garage,103,No,135000,Yes,129900,NHSRC Initiatives Inc,41.925569,-87.760773,1
+9218355,Single Family Residential,Chicago,IL,60639,124800,4,2,Belmont Cragin,,1920,,1920,2,Garage,7,No,124800,Yes,245000,"Chicago Realty Partners, Ltd",41.927023,-87.77251,0
+9218404,Single Family Residential,Chicago,IL,60639,193000,3,2,Belmont Cragin,931,931,3175,1955,2,Garage,7,No,193000,Yes,267000,Beaulieu Real Estate,41.924912,-87.765162,1
+9217629,Multi-Family,Chicago,IL,60641,380000,6,4,Belmont Cragin,,4470,3484,1965,2,Garage,7,No,380000,No,,Baird & Warner,41.934754,-87.759723,0
+9211507,Single Family Residential,Chicago,IL,60634,350000,3,3,Belmont Cragin,1300,1300,3720,1943,1,Garage,13,Yes,400000,Yes,297000,The Sokol Group,41.933698,-87.780559,0
+9214095,Single Family Residential,Chicago,IL,60639,238500,3,1.5,Belmont Cragin,1182,1182,3720,1953,1,Garage,10,Yes,249500,No,,RE/MAX,41.927777,-87.770105,1
+9220156,Single Family Residential,Chicago,IL,60634,339900,3,1.5,Belmont Cragin,1943,1943,3720,1918,2,Garage,4,No,339900,No,,Century 21,41.934028,-87.780568,0
+9221306,Single Family Residential,Chicago,IL,60634,269900,5,3,Belmont Cragin,2000,2000,3720,1926,2,Garage,3,No,269900,Yes,379000,VNT Realty,41.933451,-87.76908,0
+9221853,Single Family Residential,Chicago,IL,60641,250900,4,2,Belmont Cragin,1567,1567,,1947,2,Garage,3,No,250900,Yes,379000,Coldwell Banker,41.933836,-87.760067,0
+9221867,Single Family Residential,Chicago,IL,60639,179900,2,1,Belmont Cragin,899,899,4090,1956,2,Garage,3,No,179900,No,,"Realty Exchange, Inc.",41.9304578,-87.774496,0
+9208471,Single Family Residential,Chicago,IL,60634,347700,3,3,Belmont Cragin,1600,1600,3720,,0,None,16,No,347700,Yes,150777,Capital Real Estate Services,41.933823,-87.77205,0
+9197033,Single Family Residential,Chicago,IL,60639,229900,3,1,Belmont Cragin,1092,1092,3750,1923,2,Garage,28,No,229900,No,,Tina Loustropoulos,41.922909,-87.780888,0
+9222863,Multi-Family,Chicago,IL,60639,228000,4,3,Belmont Cragin,,2485,,1918,2,Garage,2,No,228000,Yes,102000,Jameson Sotheby's,41.926824,-87.76205,0
+9223394,Multi-Family,Chicago,IL,60639,330000,4,2,Belmont Cragin,,1920,3484,1927,2,Garage,2,No,330000,Yes,185000,Homevine Real Estate,41.9307493,-87.757426,1
+9206217,Single Family Residential,Chicago,IL,60639,264900,3,2,Belmont Cragin,1200,1200,,1960,2,Garage,17,Yes,274900,Yes,75000,Keller Williams,41.9287221,-87.778545,0
+9221000,Multi-Family,Chicago,IL,60639,88400,6,3,Belmont Cragin,,3453,4356,1916,2,None,3,No,88400,Yes,401000,Area Wide Realty,41.9286707,-87.781478,1
+9205103,Single Family Residential,Chicago,IL,60639,189900,4,2,Belmont Cragin,760,760,2748,1948,1,Garage,18,No,189900,No,,RE/MAX,41.916266,-87.755673,1
+9147382,Single Family Residential,Chicago,IL,60639,250000,5,2,Belmont Cragin,1469,1469,3781,1909,2,Garage,79,Yes,260000,No,,American Realty,41.920578,-87.785689,0
+9212605,Single Family Residential,Chicago,IL,60639,249900,3,2.5,Belmont Cragin,1562,1562,5492,1926,2,Garage,11,No,249900,No,,Coldwell Banker,41.917795,-87.757515,1
+9222096,Single Family Residential,Chicago,IL,60639,87500,2,1,Belmont Cragin,1129,1129,3807,1876,2,Garage,3,No,87500,Yes,112000,Berkshire Hathaway,41.915984,-87.753916,1
+9205110,Single Family Residential,Chicago,IL,60639,305900,5,3,Belmont Cragin,,2930,,1952,2,Garage,18,Yes,309900,Yes,272000,Sergio & Banks Real Estate,41.92073,-87.781344,0
+9214714,Single Family Residential,Chicago,IL,60641,384900,3,3.5,Belmont Cragin,2900,2900,4125,1913,2,Garage,9,No,384900,Yes,134000,Certified Realty Group LLC,41.9349544,-87.750359,0
+9215654,Multi-Family,Chicago,IL,60641,439000,8,4,Belmont Cragin,,6211,3484,1921,2,Garage,9,No,439000,Yes,170000,"North Clybourn Group, Inc.",41.933612,-87.747637,0
+9222075,Single Family Residential,Chicago,IL,60639,218000,4,2,Belmont Cragin,,1920,3001,1928,1,Garage,3,No,218000,Yes,216500,City Habitat Realty LLC,41.927002,-87.743596,0
+9204529,Single Family Residential,Chicago,IL,60639,200000,4,1,Belmont Cragin,1110,1110,,,2,Garage,20,Yes,215000,Yes,271500,Amerimax Real Estate Partners,41.928537,-87.748207,0
+9221605,Single Family Residential,Chicago,IL,60641,279000,3,2,Belmont Cragin,1650,1650,,1916,2,Garage,3,No,279000,Yes,172500,Beaulieu Real Estate,41.93722,-87.751018,0
+9191217,Single Family Residential,Chicago,IL,60634,359000,4,3,Belmont Cragin,1870,1870,4778,1938,3,Garage,32,Yes,364900,No,,Century 21,41.9316,-87.789018,1
+9218883,Single Family Residential,Chicago,IL,60634,245000,3,2,Belmont Cragin,3720,3720,,1922,2,Garage,6,No,245000,No,,Properties Indeed Corp,41.9317384,-87.783505,0
+9221891,Multi-Family,Chicago,IL,60639,2000000,2,2,Belmont Cragin,1500,1500,,1931,3,Garage,3,No,2000000,No,,Hometown Real Estate,41.9317149,-87.753337,0
+8884922,Multi-Family,Chicago,IL,60639,224900,4,2,Belmont Cragin,,1920,,1908,2,Garage,401,Yes,245000,Yes,267000,RE/MAX,41.9253514,-87.759659,0
+9199950,Single Family Residential,Chicago,IL,60641,219000,2,2,Belmont Cragin,1766,1766,3920,1928,1,Garage,24,No,219000,Yes,185000,Betancourt Realty,41.932988,-87.755532,0
+9204486,Single Family Residential,Chicago,IL,60639,289900,3,3,Belmont Cragin,1020,1020,,1924,1,Garage,20,No,289900,Yes,110000,"Joyce & Kerrigan Real Estate, LLC",41.924828,-87.754152,1
+9161323,Single Family Residential,Chicago,IL,60634,359000,3,2.5,Belmont Cragin,2000,2000,5993,1948,2,Garage,64,No,359000,Yes,342000,Century 21,41.936854,-87.778786,1
+9206779,Multi-Family,Chicago,IL,60639,595000,7,3,Belmont Cragin,5800,5800,5227,1912,3,Garage,17,No,595000,Yes,315000,Rockwell Partners LLC,41.9225269,-87.747058,1
+9171115,Single Family Residential,Chicago,IL,60634,264900,3,2,Belmont Cragin,1330,1330,3484,1937,2,Garage,53,Yes,269000,Yes,254000,RE/MAX,41.932596,-87.787829,1
+9208221,Single Family Residential,Chicago,IL,60639,117000,3,2,Belmont Cragin,,1629,3123,1925,0,None,16,No,117000,Yes,214000,Keller Williams,41.929764,-87.762921,0
+9207514,Single Family Residential,Chicago,IL,60639,330000,4,3.5,Belmont Cragin,2453,2453,,1957,3,Garage,16,No,330000,Yes,365000,Baird & Warner,41.9291569,-87.777965,1
+9203135,Condo/Coop,Chicago,IL,60634,189950,2,2,Belmont Cragin,1365,1365,,2006,1,Garage,21,Yes,197000,No,,American Realty,41.9319702,-87.79018,0
+9151861,Condo/Coop,Chicago,IL,60707,190000,2,2,Belmont Cragin,,1382,,2006,1,None,74,Yes,199000,Yes,140000,Millennial Realty Inc,41.9314286,-87.790245,0
+9203043,Single Family Residential,Chicago,IL,60639,200000,4,1,Belmont Cragin,,1483,,,1,Garage,21,No,200000,No,,@properties,41.9279982,-87.777969,1
+9049027,Single Family Residential,Chicago,IL,60634,365000,4,3,Belmont Cragin,,2485,3781,1937,2,Garage,230,Yes,399000,No,,Coldwell Banker,41.935043,-87.777544,0
+9188372,Multi-Family,Chicago,IL,60641,539000,4,3,Belmont Cragin,4840,4840,,1926,0,None,36,No,539000,No,,"Hunter's Realty, Inc.",41.9332418,-87.7642,0
+9181991,Multi-Family,Chicago,IL,60639,599999,5,5,Belmont Cragin,8000,8000,10890,1926,2,Garage,42,No,599999,Yes,165000,"Cogent Real Estate, LLC",41.931779,-87.748691,0
+9206913,Multi-Family,Chicago,IL,60639,525000,10,5,Belmont Cragin,3859,3859,3920,1955,2,Garage,17,No,525000,No,,RE/MAX,41.930761,-87.78428,0
+9211512,Single Family Residential,Chicago,IL,60634,259000,3,2,Belmont Cragin,1190,1190,3510,1956,2,Garage,13,No,259000,No,,RE/MAX,41.936138,-87.79038,0
+9145557,Single Family Residential,Chicago,IL,60634,144900,3,2,Belmont Cragin,960,960,3720,1925,1,None,81,Yes,153900,Yes,189500,Coldwell Banker,41.932517,-87.768356,0
+9201014,Single Family Residential,Chicago,IL,60639,229900,4,3,Belmont Cragin,2400,2400,,1932,2,Garage,23,No,229900,Yes,150500,Hometown Real Estate,41.9306231,-87.761515,0
+9205479,Multi-Family,Chicago,IL,60639,449900,8,4,Belmont Cragin,,6211,3484,1955,2,Garage,18,No,449900,No,,"Allgood Real Estate, LLC",41.928361,-87.760937,0
+9107028,Multi-Family,Chicago,IL,60634,215000,5,3,Belmont Cragin,,2930,,1918,2,Garage,136,No,215000,Yes,246000,Habloft LLC,41.9322047,-87.779852,0
+9092033,Multi-Family,Chicago,IL,60639,119500,7,3,Belmont Cragin,,4070,,1906,2,Garage,171,No,119500,Yes,115100,Domain Realty,41.918068,-87.74574,0
+9090990,Single Family Residential,Chicago,IL,60707,187000,3,2,Belmont Cragin,1472,1472,5671,1921,3,Garage,173,No,187000,No,,"Realty World All Pro, Inc.",41.92018,-87.786904,0
+9177742,Single Family Residential,Chicago,IL,60639,199000,2,1.5,Belmont Cragin,2166,2166,,1931,1,Garage,45,No,199000,Yes,61000,RE/MAX,41.9181732,-87.745604,0
+9189848,Multi-Family,Chicago,IL,60639,244000,4,2,Belmont Cragin,,1920,3484,1925,2,Garage,35,No,244000,No,,"Hunter's Realty, Inc.",41.917193,-87.78558,0
+9194869,Single Family Residential,Chicago,IL,60707,499000,5,4,Belmont Cragin,2580,2580,,2016,2,Garage,29,No,499000,No,,"Hunter's Realty, Inc.",41.9189603,-87.787725,1
+9192137,Multi-Family,Chicago,IL,60639,460000,9,4,Belmont Cragin,,7321,6098,1908,3,Garage,31,No,460000,No,,American Realty,41.9188421,-87.751564,1
+9145079,Single Family Residential,Chicago,IL,60639,64900,2,1,Belmont Cragin,,1067,3123,1918,0,None,81,Yes,79100,Yes,210000,Area Wide Realty,41.921613,-87.766756,0
+9204215,Single Family Residential,Chicago,IL,60639,77900,3,1,Belmont Cragin,1350,1350,3750,1922,0,None,20,No,77900,Yes,61000,RE/MAX,41.921063,-87.78205,0
+9204513,Single Family Residential,Chicago,IL,60639,275000,3,2.5,Belmont Cragin,1700,1700,,2007,2,Garage,20,No,275000,No,,RE/MAX,41.91535,-87.747535,0
+9191428,Multi-Family,Chicago,IL,60639,265000,4,3,Belmont Cragin,,2485,,,2,Garage,32,No,265000,No,,Diaz Homes Realty,41.924335,-87.760727,0
+9195276,Condo/Coop,Chicago,IL,60639,149000,3,2,Belmont Cragin,992,992,,1928,0,None,29,No,149000,Yes,62300,American Realty,41.924831,-87.753961,0
+9195811,Multi-Family,Chicago,IL,60641,309000,7,3,Belmont Cragin,,4070,,1923,2,Garage,28,No,309000,Yes,170000,Baird & Warner,41.935596,-87.744627,0
+9190429,Single Family Residential,Chicago,IL,60641,239900,5,2,Belmont Cragin,2000,2000,,1924,2,Garage,33,No,239900,No,,Coldwell Banker,41.935514,-87.763583,1
+9156660,Multi-Family,Chicago,IL,60639,139900,5,3,Belmont Cragin,,2930,3049,1916,2,Garage,70,Yes,160000,Yes,363000,Carrington Real Estate Services(US) LLC,41.926135,-87.762026,0
+9185419,Single Family Residential,Chicago,IL,60634,199500,2,1,Belmont Cragin,500,500,3781,,0,None,38,No,199500,No,,"Executive Home Realty, Inc.",41.936318,-87.779809,0
+9186695,Multi-Family,Chicago,IL,60639,239900,5,3,Belmont Cragin,,2930,,1910,2,Garage,37,No,239900,Yes,60000,Coldwell Banker,41.9265357,-87.763879,0
+9187601,Multi-Family,Chicago,IL,60639,339500,6,3,Belmont Cragin,,3453,3049,1924,2,Garage,36,No,339500,Yes,163500,@properties,41.9290316,-87.780492,0
+9188437,Multi-Family,Chicago,IL,60707,239900,3,3,Belmont Cragin,,2109,3484,1920,2,Garage,36,No,239900,No,,Caporale Realty,41.922148,-87.786269,1
+9218551,Single Family Residential,Chicago,IL,60707,210000,3,1,Belmont Cragin,,1258,3781,1913,2,Garage,7,No,210000,No,,First Class Realty,41.92066,-87.786213,0
+9175216,Single Family Residential,Chicago,IL,60641,420000,3,3,Belmont Cragin,2400,2400,,1921,2,Garage,49,No,420000,Yes,185000,Newman Realty,41.938064,-87.756493,0
+9095891,Multi-Family,Chicago,IL,60639,329900,5,3,Belmont Cragin,,2930,,1923,2,Garage,163,Yes,369500,No,,Beaulieu Real Estate,41.924815,-87.755035,0
+9224525,Single Family Residential,Chicago,IL,60634,229000,5,1.5,Belmont Cragin,,1989,,1926,2,Garage,1,No,229000,No,,RE/MAX,41.932407,-87.782945,1
+9225211,Single Family Residential,Chicago,IL,60634,324900,3,2.5,Belmont Cragin,2244,2244,5039,1940,5,Garage,1,No,324900,Yes,140000,,41.9367054,-87.783837,0
+9189525,Multi-Family,Chicago,IL,60639,84900,5,2,Belmont Cragin,,2263,,1881,2,Garage,35,No,84900,Yes,290000,Chicago Area Realty Inc,41.91814,-87.742171,0
+9115321,Multi-Family,Chicago,IL,60639,147000,3,2,Belmont Cragin,,1629,3049,1891,2,Garage,122,No,147000,Yes,210000,Carrington Real Estate Services(US) LLC,41.9209582,-87.742799,0
+9185592,Multi-Family,Chicago,IL,60639,235000,5,3,Belmont Cragin,,2930,3049,1912,2,Garage,38,No,235000,Yes,53000,Maria I Setla,41.922758,-87.772361,1
+9187980,Multi-Family,Chicago,IL,60639,371000,6,3,Belmont Cragin,,3453,4356,1918,0,None,36,No,371000,Yes,407000,"Oak Park Avenue Realty, LTD",41.922983,-87.77237,1
+9223759,Single Family Residential,Chicago,IL,60634,259000,2,2,Belmont Cragin,,1382,,,2,Garage,1,No,259000,No,,RE/MAX,41.9332537,-87.77081,1
+9151576,Multi-Family,Chicago,IL,60641,234900,4,3,Belmont Cragin,,2485,3484,1912,2,Garage,74,Yes,249900,Yes,310000,@properties,41.936727,-87.748423,1
+9224483,Multi-Family,Chicago,IL,60641,449900,7,3,Belmont Cragin,,4070,,1922,2,Garage,1,No,449900,Yes,490000,Jameson Sotheby's,41.9353526,-87.754729,0
+9223568,Single Family Residential,Chicago,IL,60639,229900,4,1.5,Belmont Cragin,1418,1418,4090,1918,2,Garage,1,No,229900,Yes,100001,Baird & Warner,41.928301,-87.773767,0
+9178134,Single Family Residential,Chicago,IL,60639,174900,3,2,Belmont Cragin,1900,1900,,1922,2,Garage,45,Yes,199900,No,,Beaulieu Real Estate,41.924617,-87.774161,1
+9152928,Single Family Residential,Chicago,IL,60634,298900,5,3,Belmont Cragin,,2930,,1924,2,Garage,73,Yes,307900,Yes,262000,Hometown Real Estate,41.93726,-87.777731,0
+9184930,Multi-Family,Chicago,IL,60639,239000,11,3,Belmont Cragin,,7857,,1924,2,Garage,38,No,239000,Yes,235000,"Home Owners Realty, Inc.",41.921303,-87.775966,1
+9150319,Single Family Residential,Chicago,IL,60639,219000,3,3,Belmont Cragin,801,801,,1922,2,Garage,76,No,219000,Yes,320000,"Internet Real Estate, LTD.",41.926104,-87.776642,0
+8865837,Single Family Residential,Des Plaines,IL,60016,749000,5,6,Des Plaines,5032,5032,,2007,3,Garage,421,Yes,799000,No,,Hometown Real Estate,42.065136,-87.91532,1
+8873624,Single Family Residential,Des Plaines,IL,60016,349000,5,3,Des Plaines,,2930,,1928,2,Garage,413,Yes,379000,No,,RE/MAX,42.03414,-87.882926,1
+8899761,Single Family Residential,Des Plaines,IL,60018,183000,3,1,Des Plaines,864,864,7501,1951,6,Garage,386,Yes,189900,Yes,195000,d'aprile properties,42.013674,-87.878583,0
+8987373,Single Family Residential,Des Plaines,IL,60016,269900,2,1,Des Plaines,1200,1200,29999,1950,1,Garage,298,No,269900,No,,"Realty World All Pro, Inc.",42.062863,-87.860617,1
+8990036,Condo/Coop,Des Plaines,IL,60016,168000,2,2,Des Plaines,1344,1344,,1980,2,Garage,296,Yes,219000,Yes,135000,"Onix Realty, Inc.",42.0399947,-87.883111,0
+8991271,Single Family Residential,Des Plaines,IL,60016,385500,4,4,Des Plaines,1765,1765,,1960,1,Garage,295,Yes,409900,No,,Century 21,42.058769,-87.915983,0
+8993143,Condo/Coop,Des Plaines,IL,60016,75000,1,1,Des Plaines,700,700,,1972,1,None,293,Yes,84900,No,,RE/MAX,42.03666,-87.89311,1
+8993433,Single Family Residential,Des Plaines,IL,60018,895000,4,5.5,Des Plaines,3750,3750,21780,2006,2,Garage,293,No,895000,Yes,560000,Coldwell Banker,42.010881,-87.903623,1
+8994854,Townhouse,Des Plaines,IL,60016,120000,3,1.5,Des Plaines,1225,1225,,1964,1,None,291,No,120000,No,,Core Realty & Investments Inc.,42.041269,-87.85402,0
+8997811,Single Family Residential,Des Plaines,IL,60018,244000,2,2,Des Plaines,1000,1000,4199,1925,1,Garage,288,No,244000,Yes,310000,Keller Williams,42.030042,-87.886728,0
+9006895,Condo/Coop,Des Plaines,IL,60016,76900,1,1,Des Plaines,800,800,,1972,1,None,278,Yes,139500,Yes,126000,Rohn Realty Company,42.044676,-87.893113,0
+9007559,Single Family Residential,Des Plaines,IL,60016,149000,2,1,Des Plaines,,1067,9086,1919,2,Garage,277,Yes,175000,Yes,150000,Century 21,42.040877,-87.900577,0
+9016645,Single Family Residential,Des Plaines,IL,60016,375000,3,2.5,Des Plaines,2214,2214,7501,1924,2,Garage,268,Yes,410000,Yes,331000,Century 21,42.040954,-87.891771,1
+9024180,Condo/Coop,Des Plaines,IL,60016,99000,1,1,Des Plaines,,906,,,2,None,259,Yes,110000,Yes,121500,Unique Realty LLC,42.035094,-87.939312,0
+3999784868,Single Family Residential,Des Plaines,IL,60016,385000,3,3.5,Des Plaines,2600,2600,,,0,None,256,No,385000,No,,BuyOwner.com via Oodle,42.040183,-87.896308,0
+3999784883,Single Family Residential,Des Plaines,IL,60016,245900,2,2,Des Plaines,,1382,,,0,None,256,No,245900,No,,BuyOwner.com via Oodle,42.041437,-87.881876,0
+3999784934,Single Family Residential,Des Plaines,IL,60018,289000,3,2,Des Plaines,,1629,,,0,None,256,No,289000,No,,BuyOwner.com via Oodle,42.00018,-87.873806,1
+3999785012,Single Family Residential,Des Plaines,IL,60016,269900,2,1.5,Des Plaines,,1214,,,0,None,256,No,269900,No,,BuyOwner.com via Oodle,42.045927,-87.912452,0
+3999785067,Single Family Residential,Des Plaines,IL,60016,400000,7,3,Des Plaines,1258,1258,,,0,None,256,No,400000,No,,BuyOwner.com via Oodle,42.0397,-87.8834,1
+3999784899,Condo/Coop,Des Plaines,IL,60016,119900,2,1,Des Plaines,1071,1071,,,0,None,256,Yes,149900,Yes,173000,BuyOwner.com via Oodle,42.0344257,-87.939115,1
+3999784907,Condo/Coop,Des Plaines,IL,60016,165000,2,1,Des Plaines,,1067,,,0,None,256,No,165000,No,,BuyOwner.com via Oodle,42.06298,-87.868599,1
+3999784922,Condo/Coop,Des Plaines,IL,60016,195000,2,1.5,Des Plaines,,1214,,,1,None,256,No,195000,Yes,168000,BuyOwner.com via Oodle,42.039814,-87.854265,0
+3999784961,Condo/Coop,Des Plaines,IL,60016,230000,2,1.5,Des Plaines,,1214,,,0,None,256,No,230000,Yes,110000,BuyOwner.com via Oodle,42.045475,-87.894883,0
+3999784979,Condo/Coop,Des Plaines,IL,60016,235000,1,1,Des Plaines,927,927,,,1,None,256,No,235000,Yes,230000,BuyOwner.com via Oodle,42.0420639,-87.886205,0
+3999785029,Condo/Coop,Des Plaines,IL,60016,99000,2,1,Des Plaines,,1067,,,0,None,256,No,99000,No,,BuyOwner.com via Oodle,42.0418,-87.8962,0
+9031383,Townhouse,Des Plaines,IL,60016,190000,3,1.5,Des Plaines,,1431,,1967,2,None,251,Yes,199000,Yes,220000,Berkshire Hathaway,42.041655,-87.854262,1
+9042835,Condo/Coop,Des Plaines,IL,60016,181000,3,2,Des Plaines,1340,1340,,1991,1,Garage,238,Yes,220000,Yes,210000,Century 21,42.038357,-87.892832,1
+9050005,Single Family Residential,Des Plaines,IL,60016,259000,3,1.5,Des Plaines,1250,1250,,,2,Garage,228,No,259000,Yes,242000,Taris Real Estate LLC,42.03352,-87.904476,0
+9051567,Single Family Residential,Des Plaines,IL,60018,389900,4,2.5,Des Plaines,1586,1586,8123,1979,2,Garage,226,No,389900,No,,Kale Realty,42.024808,-87.93436,1
+9052794,Multi-Family,Des Plaines,IL,60016,419800,7,4,Des Plaines,,5269,,1967,7,Garage,225,Yes,449900,Yes,367500,Ollus Realty & Investment Group,42.058557,-87.904215,1
+9053349,Single Family Residential,Des Plaines,IL,60016,439900,4,2.5,Des Plaines,2310,2310,11116,1978,2,Garage,225,Yes,474900,Yes,540000,Century 21,42.063807,-87.914101,0
+9055394,Condo/Coop,Des Plaines,IL,60016,66901,1,1,Des Plaines,900,900,,1965,2,None,222,Yes,74900,Yes,47324,"KMS Realty, Inc.",42.042303,-87.854804,0
+9059535,Single Family Residential,Des Plaines,IL,60016,795000,5,3.5,Des Plaines,3746,3746,23805,1990,3,Garage,218,No,795000,Yes,450000,Berkshire Hathaway,42.0552733,-87.865033,0
+9063430,Condo/Coop,Des Plaines,IL,60016,45000,1,1,Des Plaines,400,400,,1973,1,None,212,Yes,49000,Yes,31000,Berkshire Hathaway,42.0592488,-87.86578,1
+9064308,Single Family Residential,Des Plaines,IL,60018,298500,4,2,Des Plaines,1544,1544,,1955,2,Garage,211,Yes,329500,No,,Century 21,42.02496,-87.890429,0
+9075702,Single Family Residential,Des Plaines,IL,60016,254900,3,1.5,Des Plaines,1273,1273,6873,1964,5,Garage,196,No,254900,No,,"Bermes Properties, Inc",42.042456,-87.917149,0
+9081275,Single Family Residential,Des Plaines,IL,60016,224500,3,2,Des Plaines,1437,1437,,1950,1,Garage,189,Yes,245000,No,,Baird & Warner,42.046119,-87.891239,0
+9082902,Single Family Residential,Des Plaines,IL,60016,239900,3,2.5,Des Plaines,1900,1900,,1915,2,Garage,186,No,239900,Yes,187500,RE/MAX,42.034863,-87.894904,0
+9088574,Condo/Coop,Des Plaines,IL,60016,285500,2,2,Des Plaines,1703,1703,,2006,1,Garage,177,Yes,289900,No,,Coldwell Banker,42.037779,-87.892208,0
+9091241,Condo/Coop,Des Plaines,IL,60016,205000,2,1.5,Des Plaines,1371,1371,,2002,1,Garage,172,Yes,214900,No,,Century 21,42.04406,-87.887366,0
+9092915,Condo/Coop,Des Plaines,IL,60016,227900,2,2.5,Des Plaines,1700,1700,,1988,2,Garage,168,Yes,239900,Yes,215000,Coldwell Banker,42.037937,-87.888752,1
+9094267,Single Family Residential,Des Plaines,IL,60016,429900,3,2,Des Plaines,2042,2042,,1956,2,Garage,165,Yes,439900,No,,Keller Williams,42.0348474,-87.871703,0
+9094921,Single Family Residential,Des Plaines,IL,60016,284000,4,2.5,Des Plaines,1980,1980,,1967,2,Garage,164,Yes,299000,Yes,420000,RE/MAX,42.042922,-87.921453,1
+9096303,Condo/Coop,Des Plaines,IL,60016,147900,2,2,Des Plaines,1340,1340,,1979,1,Garage,162,Yes,149900,Yes,110000,RE/MAX,42.043406,-87.88904,0
+9099553,Single Family Residential,Des Plaines,IL,60018,449900,3,3,Des Plaines,2743,2743,11578,1968,4,Garage,156,Yes,454900,No,,Century 21,42.025931,-87.880247,1
+9103414,Condo/Coop,Des Plaines,IL,60016,117500,1,1,Des Plaines,,906,,1977,1,None,148,Yes,127500,Yes,39000,Real People Realty Inc,42.036211,-87.883748,0
+9104345,Condo/Coop,Des Plaines,IL,60018,84999,1,1,Des Plaines,600,600,,1988,1,None,146,No,84999,No,,Keller Williams,42.024678,-87.880922,1
+9118030,Single Family Residential,Des Plaines,IL,60016,249900,3,1.5,Des Plaines,1100,1100,,1927,2,Garage,118,Yes,260000,Yes,186000,"Rising Realty, LLC",42.042251,-87.90498,0
+9121039,Single Family Residential,Des Plaines,IL,60016,479900,4,2.5,Des Plaines,2675,2675,,1991,2,Garage,113,Yes,499000,No,,Troy Realty Ltd,42.070519,-87.906576,0
+9121033,Condo/Coop,Des Plaines,IL,60016,249900,3,2,Des Plaines,1555,1555,,2006,1,Garage,113,No,249900,No,,Century 21,42.037272,-87.892616,0
+9121382,Townhouse,Des Plaines,IL,60016,174500,2,1.5,Des Plaines,1140,1140,,1963,0,None,113,Yes,177500,Yes,71000,Homesmart Connect LLC,42.041322,-87.852867,0
+9124438,Single Family Residential,Des Plaines,IL,60018,114900,4,1,Des Plaines,,1483,7387,1952,2,Garage,108,Yes,155000,Yes,255000,Coldwell Banker,42.0278494,-87.87864,0
+9127348,Single Family Residential,Des Plaines,IL,60018,479900,5,3,Des Plaines,2700,2700,26101,1940,3,Garage,104,Yes,489900,No,,Family First Realty,42.0097661,-87.900029,0
+9129802,Single Family Residential,Des Plaines,IL,60016,554000,5,3.5,Des Plaines,3576,3576,10010,2008,3,Garage,101,Yes,581700,Yes,214000,Century 21,42.036259,-87.917795,0
+9131764,Condo/Coop,Des Plaines,IL,60016,157500,2,2,Des Plaines,,1382,,1976,1,None,99,Yes,165000,Yes,147000,RE/MAX,42.038261,-87.886954,0
+9133465,Condo/Coop,Des Plaines,IL,60016,107000,1,1,Des Plaines,900,900,,1972,1,None,95,No,107000,No,,Coldwell Banker,42.04209,-87.857788,0
+9134940,Condo/Coop,Des Plaines,IL,60016,134900,2,2,Des Plaines,,1382,,1980,1,Garage,94,Yes,149900,No,,Keller Williams,42.0399947,-87.883111,1
+9135900,Single Family Residential,Des Plaines,IL,60018,599000,5,5,Des Plaines,4670,4670,,2007,3,Garage,93,Yes,625000,No,,RE/MAX,42.026196,-87.91031,0
+9136978,Single Family Residential,Des Plaines,IL,60016,248500,3,1.5,Des Plaines,1100,1100,,1953,2,Garage,92,No,248500,Yes,187000,Century 21,42.031106,-87.90628,0
+9138864,Single Family Residential,Des Plaines,IL,60016,435000,4,2.5,Des Plaines,2682,2682,8960,1960,2,Garage,90,No,435000,Yes,352000,Century 21,42.035896,-87.929941,0
+9139007,Single Family Residential,Des Plaines,IL,60016,239900,4,2,Des Plaines,1666,1666,,1964,2,None,90,Yes,250000,No,,RE/MAX,42.06188,-87.906143,0
+9140569,Single Family Residential,Des Plaines,IL,60018,184900,2,1,Des Plaines,736,736,,1929,3,Garage,87,Yes,199900,Yes,94500,Tanis Group Realty,42.02709,-87.880277,1
+9142983,Townhouse,Des Plaines,IL,60016,272000,3,2.5,Des Plaines,1721,1721,,2005,2,Garage,85,No,272000,No,,Coldwell Banker,42.0506689,-87.906601,0
+9142997,Condo/Coop,Des Plaines,IL,60016,225000,2,2,Des Plaines,1365,1365,,2001,1,Garage,85,Yes,239000,Yes,128000,Coldwell Banker,42.0396397,-87.886759,0
+9144245,Single Family Residential,Des Plaines,IL,60016,225000,3,1.5,Des Plaines,,1431,7501,1964,1,Garage,84,Yes,250000,Yes,330000,Keller Williams,42.035747,-87.883952,0
+24057740,Single Family Residential,Des Plaines,IL,60016,539000,5,3.5,Des Plaines,3255,3255,,1990,2,Garage,83,No,539000,No,,ForSaleByOwner.com,42.070459,-87.906345,1
+9144907,Condo/Coop,Des Plaines,IL,60016,114900,2,1,Des Plaines,850,850,,1975,1,None,82,Yes,119900,No,,Amber Realty Inc.,42.04116,-87.883491,1
+9145921,Condo/Coop,Des Plaines,IL,60016,152000,2,2,Des Plaines,1275,1275,,1980,1,Garage,81,Yes,155000,Yes,159000,"Classic Realty Group, Inc.",42.0399947,-87.883111,0
+9149634,Single Family Residential,Des Plaines,IL,60016,259000,3,1.5,Des Plaines,1478,1478,,1925,2,Garage,77,Yes,269000,Yes,150000,Keller Williams,42.031623,-87.890866,0
+9150382,Single Family Residential,Des Plaines,IL,60018,289000,3,1.5,Des Plaines,1040,1040,7374,1966,2,Garage,76,Yes,299900,Yes,225000,"LTV Real Estate Services, LTD",42.023965,-87.931736,1
+9151602,Condo/Coop,Des Plaines,IL,60016,209900,2,2,Des Plaines,1482,1482,,1996,1,Garage,74,Yes,215900,Yes,240000,Homesmart Connect LLC,42.040455,-87.882173,0
+9151788,Townhouse,Des Plaines,IL,60016,182000,2,1.5,Des Plaines,1500,1500,,1980,1,Garage,74,No,182000,No,,RE/MAX,42.043435,-87.881141,1
+9154976,Condo/Coop,Des Plaines,IL,60016,154900,2,2,Des Plaines,1340,1340,,1980,1,Garage,71,Yes,159900,No,,Baird & Warner,42.0402121,-87.883579,1
+9155891,Single Family Residential,Des Plaines,IL,60018,579900,5,4.5,Des Plaines,4226,4226,8951,2004,3,Garage,70,Yes,624900,Yes,773000,Coldwell Banker,42.01306,-87.906376,1
+9156821,Condo/Coop,Des Plaines,IL,60016,64900,1,1,Des Plaines,750,750,,1966,1,None,70,No,64900,No,,Coldwell Banker,42.032529,-87.937482,1
+9157516,Single Family Residential,Des Plaines,IL,60016,470995,4,2.5,Des Plaines,2268,2268,11251,1995,3,Garage,68,Yes,519900,No,,RE/MAX,42.078104,-87.905532,0
+9157815,Condo/Coop,Des Plaines,IL,60016,214000,2,2,Des Plaines,1356,1356,,2004,1,Garage,67,Yes,219000,No,,Berkshire Hathaway,42.036279,-87.88318,0
+9158116,Condo/Coop,Des Plaines,IL,60016,144900,2,2,Des Plaines,1400,1400,,1980,1,None,67,Yes,159900,No,,Century 21,42.036076,-87.887174,0
+9158510,Single Family Residential,Des Plaines,IL,60016,274900,4,2.5,Des Plaines,1612,1612,12418,1927,2,Garage,67,No,274900,Yes,387000,Amber Realty Inc.,42.049018,-87.885404,0
+9159506,Single Family Residential,Des Plaines,IL,60016,499000,4,3,Des Plaines,2388,2388,9226,1993,2,Garage,66,No,499000,No,,Century 21,42.07146,-87.907345,0
+9160318,Single Family Residential,Des Plaines,IL,60018,312000,4,2.5,Des Plaines,1700,1700,7000,1960,2,Garage,65,Yes,326000,No,,RE/MAX,42.014731,-87.903849,0
+9160867,Condo/Coop,Des Plaines,IL,60016,87999,1,1,Des Plaines,900,900,,1967,1,None,65,Yes,89999,No,,United Real Estate - Chicago,42.0344257,-87.939115,1
+9161708,Condo/Coop,Des Plaines,IL,60016,144900,2,2,Des Plaines,1000,1000,,1979,1,Garage,64,No,144900,Yes,125000,RE/MAX,42.043406,-87.88904,1
+9162213,Single Family Residential,Des Plaines,IL,60018,315000,3,2,Des Plaines,1378,1378,,1928,2,Garage,64,Yes,325000,Yes,227000,Mondo Estate Realty Inc,42.025244,-87.879338,0
+9162412,Condo/Coop,Des Plaines,IL,60016,204900,2,2,Des Plaines,1258,1258,,,1,Garage,63,Yes,209900,Yes,207500,Baird & Warner,42.04325,-87.88384,0
+9163255,Single Family Residential,Des Plaines,IL,60018,315000,3,2,Des Plaines,,1629,,1956,4,Garage,63,Yes,329900,No,,Realty Professionals Group,42.00245,-87.875221,1
+9163380,Single Family Residential,Des Plaines,IL,60016,699900,5,3.5,Des Plaines,5000,5000,25264,2001,3,Garage,63,No,699900,No,,Baird & Warner,42.056372,-87.867213,0
+9164356,Condo/Coop,Des Plaines,IL,60016,84900,1,1,Des Plaines,,906,,1976,2,None,60,No,84900,No,,RE/MAX,42.051604,-87.855989,0
+9165601,Single Family Residential,Des Plaines,IL,60016,499900,5,2.5,Des Plaines,3800,3800,9239,1987,2,Garage,59,Yes,529000,No,,"Realty World All Pro, Inc.",42.048554,-87.920144,1
+9166172,Condo/Coop,Des Plaines,IL,60016,89900,1,1,Des Plaines,,906,,1975,1,None,59,Yes,99000,Yes,50000,iProperties,42.035941,-87.882781,1
+9166985,Condo/Coop,Des Plaines,IL,60016,55000,1,1,Des Plaines,,906,,1973,1,None,58,Yes,58000,Yes,23100,Sky High Real Estate Inc.,42.061427,-87.866023,1
+9167023,Single Family Residential,Des Plaines,IL,60016,185000,2,1.5,Des Plaines,1190,1190,4752,1924,2,None,58,Yes,199900,No,,Century 21,42.041738,-87.892097,0
+9167149,Condo/Coop,Des Plaines,IL,60016,157000,2,1,Des Plaines,,1067,,1973,2,Garage,58,Yes,159000,No,,Keller Williams,42.046345,-87.888714,1
+9167403,Townhouse,Des Plaines,IL,60016,294900,2,2.5,Des Plaines,1775,1775,,2011,2,Garage,58,Yes,299900,No,,@properties,42.048604,-87.892177,0
+9169077,Single Family Residential,Des Plaines,IL,60016,549950,3,2.5,Des Plaines,2156,2156,8115,1930,2,Garage,56,Yes,589950,Yes,400000,Coldwell Banker,42.057669,-87.9111,0
+9169177,Single Family Residential,Des Plaines,IL,60016,480000,3,3,Des Plaines,2078,2078,8999,1923,2,Garage,56,Yes,500000,Yes,400000,Keller Williams,42.041445,-87.891343,0
+9169384,Single Family Residential,Des Plaines,IL,60016,570000,6,4.5,Des Plaines,5350,5350,20037,1998,6,Garage,56,Yes,575000,No,,Baird & Warner,42.065059,-87.862448,0
+9169876,Single Family Residential,Des Plaines,IL,60018,379900,3,2,Des Plaines,2100,2100,,1967,2,Garage,56,Yes,389900,No,,Parkvue Realty Corporation,42.024482,-87.927313,0
+9170327,Single Family Residential,Des Plaines,IL,60018,487500,4,3,Des Plaines,2926,2926,7196,1979,2,Garage,55,No,487500,No,,Interdome Realty,42.026671,-87.896618,1
+9170778,Condo/Coop,Des Plaines,IL,60016,289900,2,2,Des Plaines,1730,1730,,2008,1,Garage,54,Yes,299900,Yes,282500,Baird & Warner,42.038659,-87.891495,0
+9171355,Condo/Coop,Des Plaines,IL,60016,134000,1,1,Des Plaines,950,950,,1972,1,None,53,Yes,139000,Yes,101000,Coldwell Banker,42.04209,-87.857788,0
+9171760,Condo/Coop,Des Plaines,IL,60016,51000,1,1,Des Plaines,,906,,1973,2,None,53,Yes,56900,Yes,86000,Unique Realty LLC,42.061427,-87.866023,0
+9172446,Single Family Residential,Des Plaines,IL,60018,299000,3,2.5,Des Plaines,1250,1250,,1964,2,Garage,52,Yes,315000,Yes,226000,Century 21,42.025346,-87.931972,0
+9173171,Single Family Residential,Des Plaines,IL,60016,465000,4,3.5,Des Plaines,2950,2950,,1920,2,Garage,51,No,465000,Yes,102500,Rexx Real Estate Inc.,42.038408,-87.893605,0
+9173526,Condo/Coop,Des Plaines,IL,60016,229900,2,1.5,Des Plaines,1182,1182,,2007,1,Garage,51,No,229900,No,,Berkshire Hathaway,42.0462622,-87.894386,0
+9175258,Condo/Coop,Des Plaines,IL,60016,169900,2,2,Des Plaines,1344,1344,,1980,1,Garage,49,No,169900,No,,RE/MAX,42.0399947,-87.883111,1
+9175791,Single Family Residential,Des Plaines,IL,60016,184900,4,2,Des Plaines,1156,1156,,1955,2,Garage,49,Yes,196900,Yes,320000,Prospective Realty,42.04783,-87.88232,0
+9176982,Single Family Residential,Des Plaines,IL,60016,119900,2,1,Des Plaines,,1067,,1924,3,None,46,No,119900,No,,Coldwell Banker,42.031241,-87.887336,0
+9177560,Condo/Coop,Des Plaines,IL,60016,109000,2,1,Des Plaines,1000,1000,,1972,1,None,46,Yes,119900,Yes,158000,Keller Williams,42.04209,-87.857788,1
+9177745,Single Family Residential,Des Plaines,IL,60016,798000,5,6,Des Plaines,7500,7500,40881,1992,3,Garage,45,No,798000,No,,JS 4U Realty Inc.,42.055585,-87.865338,0
+9177764,Single Family Residential,Des Plaines,IL,60016,549888,4,3.5,Des Plaines,4202,4202,29777,1976,3,Garage,45,Yes,599888,No,,Unique Realty LLC,42.055281,-87.864434,1
+9178773,Single Family Residential,Des Plaines,IL,60016,234000,2,1,Des Plaines,1300,1300,14143,1960,2,Garage,45,No,234000,Yes,140000,Coldwell Banker,42.0318482,-87.88109,0
+9178786,Condo/Coop,Des Plaines,IL,60016,247900,2,2,Des Plaines,1702,1702,,1994,1,Garage,45,Yes,264900,Yes,125000,"Negotiable Realty Services, In",42.037691,-87.88408,0
+9179245,Single Family Residential,Des Plaines,IL,60016,575000,5,3,Des Plaines,4050,4050,9147,1992,2,Garage,44,Yes,594000,No,,Realty Professionals Group,42.069282,-87.902602,1
+9179254,Townhouse,Des Plaines,IL,60016,319750,3,2.5,Des Plaines,2162,2162,,2010,4,Garage,44,No,319750,Yes,305000,Coldwell Banker,42.0466719,-87.894126,0
+9179388,Single Family Residential,Des Plaines,IL,60016,595000,5,3,Des Plaines,3348,3348,,1994,2,Garage,44,No,595000,No,,Dream Town Realty,42.069462,-87.902602,0
+9179824,Single Family Residential,Des Plaines,IL,60016,249900,3,2,Des Plaines,2025,2025,6651,1914,1,Garage,44,No,249900,Yes,204000,Coldwell Banker,42.042271,-87.904491,1
+9179924,Condo/Coop,Des Plaines,IL,60016,159900,1,1,Des Plaines,900,900,,1989,1,Garage,43,No,159000,Yes,168000,RE/MAX,42.04325,-87.88384,1
+9180089,Single Family Residential,Des Plaines,IL,60016,599900,4,3.5,Des Plaines,3450,3450,7435,2006,2,Garage,43,Yes,624900,Yes,621000,RE/MAX,42.065269,-87.915736,1
+9180125,Condo/Coop,Des Plaines,IL,60016,99900,1,1,Des Plaines,670,670,,1972,2,None,43,No,99900,Yes,35000,Coldwell Banker,42.0344257,-87.939115,0
+9181041,Single Family Residential,Des Plaines,IL,60016,550000,4,3.5,Des Plaines,3104,3104,,1999,2,Garage,43,No,550000,Yes,550000,Baird & Warner,42.056976,-87.905411,1
+9181619,Single Family Residential,Des Plaines,IL,60016,379000,4,2.5,Des Plaines,2086,2086,9500,1957,2,Garage,42,Yes,399000,Yes,120000,RE/MAX,42.036919,-87.892901,0
+9181942,Single Family Residential,Des Plaines,IL,60018,599000,5,4,Des Plaines,3650,3650,,2007,2,Garage,42,No,599000,Yes,590000,RE/MAX,42.010965,-87.877641,0
+9182914,Single Family Residential,Des Plaines,IL,60018,289800,3,2,Des Plaines,1600,1600,5279,1952,2,None,41,Yes,289900,Yes,215000,Vedad Alijagic,42.012964,-87.872956,0
+9182929,Townhouse,Des Plaines,IL,60016,299900,2,2.5,Des Plaines,1775,1775,,2009,2,Garage,41,No,299900,Yes,279000,Hometown Real Estate,42.0468627,-87.893936,1
+9185084,Condo/Coop,Des Plaines,IL,60016,129900,2,1,Des Plaines,,1067,,1976,1,None,38,No,129900,Yes,138000,Coldwell Banker,42.044653,-87.888995,0
+9185752,Single Family Residential,Des Plaines,IL,60018,294900,3,1.5,Des Plaines,1763,1763,8712,1962,2,Garage,38,Yes,298900,Yes,228000,Century 21,42.028663,-87.92606,0
+9186189,Multi-Family,Des Plaines,IL,60018,229000,5,4.5,Des Plaines,,4315,,,5,Garage,37,No,229000,Yes,152500,Michael E. Zaucha,42.02328,-87.936228,0
+9186250,Condo/Coop,Des Plaines,IL,60016,144500,2,1.5,Des Plaines,1150,1150,,1970,2,None,37,No,144500,Yes,165000,Century 21,42.050701,-87.855993,0
+9186615,Single Family Residential,Des Plaines,IL,60016,299900,3,2,Des Plaines,2300,2300,,1965,2,Garage,37,No,299900,Yes,245000,"Jay C Realty, Inc.",42.058819,-87.905932,0
+9187838,Single Family Residential,Des Plaines,IL,60016,239900,3,2,Des Plaines,1500,1500,12959,1942,2,Garage,36,Yes,244900,Yes,255000,"Admiral Realty, Inc.",42.045272,-87.862828,0
+9188847,Single Family Residential,Des Plaines,IL,60018,474000,4,2.5,Des Plaines,2400,2400,,1985,2,Garage,35,No,474000,Yes,415000,RE/MAX,42.025691,-87.903793,0
+9189009,Single Family Residential,Des Plaines,IL,60016,275000,4,2,Des Plaines,1625,1625,7501,1960,2,Garage,35,Yes,289900,Yes,205000,RE/MAX,42.066944,-87.905186,1
+9189372,Condo/Coop,Des Plaines,IL,60016,132900,2,2,Des Plaines,1400,1400,,1978,1,Garage,35,No,132900,No,,Century 21,42.038083,-87.893058,1
+9189409,Single Family Residential,Des Plaines,IL,60016,349900,4,2.5,Des Plaines,,2184,,1972,2,Garage,35,No,349900,No,,@properties,42.037818,-87.918928,1
+9189672,Condo/Coop,Des Plaines,IL,60016,91000,1,1,Des Plaines,900,900,,1967,1,None,35,Yes,95000,Yes,45000,Keller Williams,42.035094,-87.939312,0
+9190577,Condo/Coop,Des Plaines,IL,60016,119000,1,1,Des Plaines,1000,1000,,1980,1,Garage,33,Yes,130000,No,,RE/MAX,42.0399947,-87.883111,0
+9191117,Single Family Residential,Des Plaines,IL,60016,290000,4,2.5,Des Plaines,1170,1170,,1959,2,Garage,32,Yes,295000,Yes,360000,Berkshire Hathaway,42.05751,-87.916647,1
+9192285,Single Family Residential,Des Plaines,IL,60018,599900,4,4,Des Plaines,3600,3600,,1955,2,Garage,31,No,599900,No,,"Koller & Associates, L.L.C",42.006328,-87.883148,0
+9192465,Single Family Residential,Des Plaines,IL,60016,99000,1,1,Des Plaines,535,535,6246,1952,1,Garage,31,Yes,110000,No,,RE/MAX,42.042775,-87.901103,0
+9192520,Single Family Residential,Des Plaines,IL,60016,475000,4,2.5,Des Plaines,2850,2850,12776,1992,3,Garage,31,Yes,499900,No,,RE/MAX,42.073262,-87.907257,0
+9192963,Condo/Coop,Des Plaines,IL,60016,63000,2,1,Des Plaines,,1067,,1977,2,None,31,No,63000,No,,RE/MAX,42.0610724,-87.865069,0
+9193293,Condo/Coop,Des Plaines,IL,60016,205900,2,2,Des Plaines,1260,1260,,,1,Garage,30,Yes,214900,No,,Keller Williams,42.04325,-87.88384,0
+9193378,Condo/Coop,Des Plaines,IL,60016,184900,3,2,Des Plaines,1300,1300,,1972,2,None,30,No,184900,Yes,90000,"Suburban Life Realty, Ltd.",42.035094,-87.939312,1
+9193380,Condo/Coop,Des Plaines,IL,60016,192850,2,2,Des Plaines,1200,1200,,,1,Garage,30,No,192850,No,,Coldwell Banker,42.04325,-87.88384,1
+9194067,Condo/Coop,Des Plaines,IL,60016,314900,2,2,Des Plaines,1738,1738,,2003,2,Garage,30,No,314900,No,,Coldwell Banker,42.040617,-87.883117,0
+9194955,Condo/Coop,Des Plaines,IL,60016,64500,2,1,Des Plaines,,1067,,1973,2,None,29,No,64500,Yes,35000,Realty Advisors North,42.0634776,-87.866686,0
+9195603,Condo/Coop,Des Plaines,IL,60016,140000,2,1,Des Plaines,,1067,,1976,2,Garage,29,No,140000,Yes,142500,Rexx Real Estate Inc.,42.044889,-87.887805,1
+9195846,Single Family Residential,Des Plaines,IL,60016,228500,3,1,Des Plaines,1504,1504,6098,1939,5,Garage,28,Yes,232500,No,,Home Sweet Home,42.040223,-87.907713,0
+9197146,Single Family Residential,Des Plaines,IL,60016,330000,3,2,Des Plaines,2000,2000,,1963,2,Garage,27,No,330000,Yes,212500,Chicago Newstar Realty Inc.,42.041459,-87.857231,0
+9197250,Single Family Residential,Des Plaines,IL,60016,250000,4,2,Des Plaines,1854,1854,,1953,2,Garage,27,No,250000,No,,Keller Williams,42.037317,-87.917014,0
+9197421,Single Family Residential,Des Plaines,IL,60018,588600,5,4.5,Des Plaines,3400,3400,,1996,3,Garage,27,No,588600,No,,Baird & Warner,42.012998,-87.908321,0
+9197942,Single Family Residential,Des Plaines,IL,60018,399900,4,2.5,Des Plaines,2508,2508,10018,1988,2,Garage,26,No,399900,No,,Coldwell Banker,42.012583,-87.901944,1
+9198370,Single Family Residential,Des Plaines,IL,60018,309000,3,2,Des Plaines,1600,1600,6699,1963,2,Garage,25,No,309000,Yes,252000,Brick Stone International Inc.,42.022973,-87.879954,0
+9198673,Single Family Residential,Des Plaines,IL,60018,299900,3,2,Des Plaines,1315,1315,,1965,2,Garage,25,No,299900,No,,RE/MAX,42.027904,-87.938238,0
+9198774,Condo/Coop,Des Plaines,IL,60016,209900,2,2,Des Plaines,1334,1334,,1999,1,Garage,25,No,209900,Yes,176000,Coldwell Banker,42.0367565,-87.883523,0
+9200557,Condo/Coop,Des Plaines,IL,60016,194900,2,2,Des Plaines,1380,1380,,1994,1,Garage,23,Yes,199900,No,,Coldwell Banker,42.044364,-87.891046,0
+9200953,Condo/Coop,Des Plaines,IL,60016,79900,1,1,Des Plaines,,906,,1972,1,None,23,Yes,84500,Yes,144000,Coldwell Banker,42.044676,-87.893113,1
+9201203,Condo/Coop,Des Plaines,IL,60016,389900,3,2,Des Plaines,2426,2426,,2001,2,Garage,23,No,389900,No,,Century 21,42.0396397,-87.886759,0
+9201243,Single Family Residential,Des Plaines,IL,60016,329900,3,2,Des Plaines,1997,1997,8258,1978,2,Garage,23,Yes,349900,No,,Century 21,42.060079,-87.910643,1
+9201682,Townhouse,Des Plaines,IL,60016,229000,3,2,Des Plaines,,1629,,1963,2,None,22,Yes,249900,Yes,279000,Achieve Real Estate Group Inc,42.047906,-87.857383,1
+9202071,Single Family Residential,Des Plaines,IL,60016,295000,3,2,Des Plaines,1300,1300,,1964,2,Garage,22,No,295000,Yes,429000,RE/MAX,42.066407,-87.905967,0
+9202194,Condo/Coop,Des Plaines,IL,60016,255000,2,2,Des Plaines,1767,1767,,2001,1,Garage,22,No,255000,Yes,275000,JS 4U Realty Inc.,42.0396397,-87.886759,0
+9202252,Condo/Coop,Des Plaines,IL,60016,182000,2,2,Des Plaines,,1382,,,1,Garage,22,No,182000,No,,Century 21,42.043135,-87.888335,1
+9202326,Condo/Coop,Des Plaines,IL,60016,149900,2,2,Des Plaines,,1382,,1980,2,Garage,22,No,149900,No,,Century 21,42.0399947,-87.883111,0
+9202827,Single Family Residential,Des Plaines,IL,60016,275000,3,2,Des Plaines,1015,1015,6969,1958,2,Garage,22,No,275000,Yes,285000,"Realty 25, Inc",42.062363,-87.914558,1
+9203894,Single Family Residential,Des Plaines,IL,60018,339500,3,2,Des Plaines,2823,2823,7379,1958,2,None,21,Yes,349900,Yes,267500,Baird & Warner,42.027846,-87.897957,0
+9204074,Condo/Coop,Des Plaines,IL,60016,225000,2,2,Des Plaines,1500,1500,,2003,1,Garage,21,Yes,255000,Yes,251000,Chicago Brokers Corp.,42.044402,-87.889992,0
+9204128,Condo/Coop,Des Plaines,IL,60016,189900,2,2,Des Plaines,1200,1200,,1977,1,None,21,Yes,194900,Yes,116500,"Arc Realtors, Inc",42.038261,-87.886954,1
+9204272,Single Family Residential,Des Plaines,IL,60018,399900,4,3.5,Des Plaines,2608,2608,15128,1958,2,Garage,20,Yes,419900,No,,Baird & Warner,42.02671,-87.911148,1
+9204429,Townhouse,Des Plaines,IL,60016,149900,2,1,Des Plaines,900,900,,1945,1,Garage,20,No,149900,Yes,180000,@properties,42.047606,-87.888437,1
+9204454,Condo/Coop,Des Plaines,IL,60016,229000,2,2,Des Plaines,1374,1374,,2003,1,Garage,20,No,229000,Yes,250000,RE/MAX,42.04406,-87.887366,0
+9204750,Single Family Residential,Des Plaines,IL,60016,309900,3,2,Des Plaines,1230,1230,,1964,2,Garage,19,No,309900,No,,Coachlight Realty,42.046772,-87.929125,0
+9204813,Single Family Residential,Des Plaines,IL,60016,299900,3,2,Des Plaines,,1629,,1958,3,Garage,19,No,299900,No,,USA Real Estate Ltd.,42.012272,-87.876233,0
+9205279,Single Family Residential,Des Plaines,IL,60016,299900,3,2.5,Des Plaines,1614,1614,8084,1973,2,Garage,18,Yes,334900,No,,Master Key Realty Inc.,42.03063,-87.923817,1
+9205471,Single Family Residential,Des Plaines,IL,60016,265000,3,2,Des Plaines,1413,1413,7535,1953,2,Garage,18,No,265000,No,,Coldwell Banker,42.032368,-87.904715,0
+9205705,Townhouse,Des Plaines,IL,60016,179000,3,2.5,Des Plaines,1538,1538,,1965,1,None,18,No,179000,Yes,95000,RE/MAX,42.04039,-87.855603,1
+9205729,Single Family Residential,Des Plaines,IL,60016,339000,3,2.5,Des Plaines,1640,1640,,1996,2,Garage,18,No,339000,Yes,240500,Berkshire Hathaway,42.030002,-87.925738,0
+9205777,Condo/Coop,Des Plaines,IL,60016,279900,2,2,Des Plaines,1570,1570,,2004,1,Garage,18,No,279900,No,,Baird & Warner,42.0461475,-87.888769,0
+9206564,Single Family Residential,Des Plaines,IL,60016,239900,3,3,Des Plaines,1308,1308,,1957,1,Garage,17,No,239900,Yes,166500,Century 21,42.057032,-87.918204,0
+9207292,Townhouse,Des Plaines,IL,60016,220000,4,2,Des Plaines,1800,1800,,,1,None,17,No,220000,Yes,315000,Ryan Realty,42.034801,-87.93597,0
+9207336,Condo/Coop,Des Plaines,IL,60016,124900,1,1,Des Plaines,950,950,,1972,1,None,17,Yes,129900,Yes,47000,United Real Estate - Chicago,42.042917,-87.859074,0
+9207606,Single Family Residential,Des Plaines,IL,60016,389900,5,2.5,Des Plaines,2011,2011,11268,1960,2,Garage,16,No,389900,No,,RE/MAX,42.059736,-87.917926,0
+9207848,Single Family Residential,Des Plaines,IL,60016,299000,4,2,Des Plaines,2400,2400,,1932,1,Garage,16,No,299000,No,,@properties,42.032285,-87.883079,1
+9208304,Condo/Coop,Des Plaines,IL,60016,169950,1,1.5,Des Plaines,1200,1200,,2004,1,Garage,16,No,169950,No,,Century 21,42.0461475,-87.888769,0
+9209984,Single Family Residential,Des Plaines,IL,60016,315000,3,1,Des Plaines,1010,1010,,1962,2,Garage,14,No,315000,No,,"Stachurska Real Estate, Inc.",42.041527,-87.863524,0
+9210151,Single Family Residential,Des Plaines,IL,60016,225000,4,2,Des Plaines,1243,1243,7740,1950,2,Garage,14,No,225000,No,,Century 21,42.052531,-87.905946,1
+9210466,Single Family Residential,Des Plaines,IL,60016,574900,4,3.5,Des Plaines,3100,3100,,2006,2,Garage,14,No,574900,Yes,285000,Chicagoland Brokers,42.039403,-87.928898,0
+9210845,Single Family Residential,Des Plaines,IL,60016,419000,5,3.5,Des Plaines,2437,2437,7034,1928,2,Garage,14,No,419000,No,,RE/MAX,42.043331,-87.901468,0
+9211077,Single Family Residential,Des Plaines,IL,60016,489000,4,2.5,Des Plaines,2498,2498,7270,1996,2,Garage,14,No,489000,No,,"Suburban Life Realty, Ltd.",42.038116,-87.91591,0
+9211303,Single Family Residential,Des Plaines,IL,60018,420000,3,3,Des Plaines,2236,2236,8450,1987,2,Garage,13,No,420000,No,,Baird & Warner,42.014877,-87.905044,0
+9211737,Single Family Residential,Des Plaines,IL,60016,174000,4,2,Des Plaines,1719,1719,8951,1926,2,Garage,12,No,174000,No,,Century 21,42.047113,-87.883395,0
+9211815,Single Family Residential,Des Plaines,IL,60016,309900,3,2,Des Plaines,,1629,,1960,2,Garage,12,No,309900,Yes,305500,RE/MAX,42.062374,-87.919761,0
+9212060,Single Family Residential,Des Plaines,IL,60016,249899,5,2,Des Plaines,1800,1800,,1958,1,Garage,11,No,249899,No,,Keller Williams,42.034166,-87.918495,0
+9212580,Single Family Residential,Des Plaines,IL,60016,280000,6,2.5,Des Plaines,3234,3234,8276,1974,2,Garage,11,No,280000,Yes,305000,Tanis Group Realty,42.038183,-87.934257,0
+9212634,Single Family Residential,Des Plaines,IL,60016,400000,3,2.5,Des Plaines,1836,1836,6246,2008,2,Garage,11,No,400000,No,,The Royal Family Real Estate,42.043694,-87.902264,0
+9213001,Single Family Residential,Des Plaines,IL,60016,275000,3,1.5,Des Plaines,1765,1765,,1948,1,Garage,11,No,275000,No,,Baird & Warner,42.045799,-87.917989,0
+9215561,Condo/Coop,Des Plaines,IL,60016,175000,2,2,Des Plaines,1177,1177,,1986,1,Garage,9,No,175000,No,,Baird & Warner,42.040311,-87.891264,0
+9216168,Single Family Residential,Des Plaines,IL,60018,355000,3,2,Des Plaines,1308,1308,,1962,2,Garage,8,No,355000,No,,Platinum Partners Realtors,42.015913,-87.900374,0
+9216200,Single Family Residential,Des Plaines,IL,60016,339000,3,2.5,Des Plaines,1600,1600,7148,1953,1,Garage,8,No,339000,Yes,121500,Royal Serv Rlty Chgo Metro Pro,42.03595,-87.909908,0
+9216365,Condo/Coop,Des Plaines,IL,60016,344900,3,2,Des Plaines,2426,2426,,2001,2,Garage,8,No,344900,No,,@properties,42.0396397,-87.886759,1
+9216670,Condo/Coop,Des Plaines,IL,60016,169000,1,1,Des Plaines,925,925,,,1,Garage,8,No,169000,Yes,194000,Coldwell Banker,42.043225,-87.887074,1
+9216733,Townhouse,Des Plaines,IL,60016,299000,3,2.5,Des Plaines,2162,2162,,2010,2,Garage,8,No,299000,No,,Baird & Warner,42.0478899,-87.893028,0
+9216914,Single Family Residential,Des Plaines,IL,60016,374900,3,3,Des Plaines,1861,1861,7932,1964,2,Garage,8,Yes,379900,Yes,350000,Hometown Real Estate,42.046655,-87.929948,0
+9217144,Condo/Coop,Des Plaines,IL,60016,124900,2,1,Des Plaines,,1067,,,1,None,8,No,124900,No,,@properties,42.0510681,-87.86586,1
+9217757,Single Family Residential,Des Plaines,IL,60016,275000,3,2,Des Plaines,2003,2003,,1952,2,Garage,7,No,275000,Yes,253500,Century 21,42.034108,-87.902527,1
+9218091,Townhouse,Des Plaines,IL,60016,269900,3,2.5,Des Plaines,1721,1721,,2008,2,Garage,7,No,269900,No,,RE/MAX,42.0524472,-87.904034,0
+9218682,Single Family Residential,Des Plaines,IL,60018,525000,4,2.5,Des Plaines,,2184,,2015,2,Garage,7,No,525000,Yes,60500,RE/MAX,42.018202,-87.89691,0
+9218804,Condo/Coop,Des Plaines,IL,60016,90000,1,1,Des Plaines,712,712,,1989,2,None,6,No,90000,No,,Coldwell Banker,42.045192,-87.893526,0
+9219121,Condo/Coop,Des Plaines,IL,60016,169000,2,2,Des Plaines,1450,1450,,1977,2,Garage,6,No,169000,Yes,134500,Coldwell Banker,42.036697,-87.890239,0
+9219506,Single Family Residential,Des Plaines,IL,60018,519900,4,3,Des Plaines,2980,2980,,1999,3,Garage,5,No,519900,No,,Coldwell Banker,42.024945,-87.912271,1
+179390,Condo/Coop,Des Plaines,IL,60016,257000,2,2,Des Plaines,1540,1540,,2003,1,Garage,5,No,257000,No,,FSBO.com,42.040617,-87.883117,0
+9220030,Condo/Coop,Des Plaines,IL,60016,160000,2,2,Des Plaines,,1382,,1977,1,None,4,No,160000,No,,RE/MAX,42.036158,-87.885123,0
+9220228,Single Family Residential,Des Plaines,IL,60016,434900,4,2.5,Des Plaines,2640,2640,,1989,2,Garage,4,No,434900,No,,Keller Williams,42.065692,-87.903787,1
+9220407,Single Family Residential,Des Plaines,IL,60018,274900,3,2,Des Plaines,1750,1750,,1960,2,Garage,4,No,274900,Yes,240000,Coldwell Banker,42.013655,-87.903843,1
+9220718,Condo/Coop,Des Plaines,IL,60016,298900,2,2,Des Plaines,1400,1400,,2008,1,Garage,4,No,298900,No,,SR Realty Group Inc.,42.0381666,-87.891784,0
+9220737,Condo/Coop,Des Plaines,IL,60016,129900,2,1,Des Plaines,900,900,,1977,2,None,4,No,129900,No,,RE/MAX,42.042164,-87.859538,0
+9220867,Single Family Residential,Des Plaines,IL,60016,429900,4,3,Des Plaines,2978,2978,7562,2000,2,Garage,4,No,429900,Yes,551000,Keller Williams,42.058754,-87.91065,0
+9221021,Condo/Coop,Des Plaines,IL,60016,60000,2,1,Des Plaines,866,866,,1966,2,None,3,No,60000,No,,"Four Seasons Realty, Inc.",42.032529,-87.937482,0
+9221105,Single Family Residential,Des Plaines,IL,60016,269000,3,2,Des Plaines,,1629,7675,1959,2,Garage,3,No,269000,Yes,220000,Century 21,42.063582,-87.918198,0
+9221362,Single Family Residential,Des Plaines,IL,60016,349000,4,3,Des Plaines,2360,2360,,1962,2,Garage,3,No,349000,Yes,495000,Property Economics Inc.,42.044291,-87.925125,1
+9221404,Single Family Residential,Des Plaines,IL,60016,259000,3,1.5,Des Plaines,,1431,,1962,2,Garage,3,No,259000,No,,Baird & Warner,42.059283,-87.90502,0
+9221545,Condo/Coop,Des Plaines,IL,60016,112000,2,1,Des Plaines,1000,1000,,,2,None,3,No,112000,No,,Berkshire Hathaway,42.0540052,-87.853852,1
+9222019,Condo/Coop,Des Plaines,IL,60016,124900,2,2,Des Plaines,794,794,,1976,2,Garage,3,No,124900,No,,Keller Williams,42.043135,-87.888335,0
+9222032,Single Family Residential,Des Plaines,IL,60018,699900,5,4.5,Des Plaines,4400,4400,,2004,3,Garage,3,No,699900,Yes,805000,Chicagoland Brokers,42.01256,-87.905018,1
+9222213,Condo/Coop,Des Plaines,IL,60016,257000,2,2,Des Plaines,1540,1540,,2003,1,Garage,3,No,257000,Yes,135000,"4 Sale Realty, Inc.",42.040617,-87.883117,0
+9222483,Single Family Residential,Des Plaines,IL,60016,239900,3,3,Des Plaines,,2109,,1946,2,Garage,2,No,239900,Yes,239000,Sebastian Co. Real Estate,42.047425,-87.890277,1
+9222460,Condo/Coop,Des Plaines,IL,60016,190000,2,2,Des Plaines,1300,1300,,1981,1,Garage,2,No,190000,Yes,122000,RE/MAX,42.043406,-87.88904,1
+9222568,Condo/Coop,Des Plaines,IL,60016,119900,2,1,Des Plaines,,1067,,,1,None,2,No,119900,No,,@properties,42.044346,-87.891539,1
+9223578,Single Family Residential,Des Plaines,IL,60016,499750,4,3.5,Des Plaines,2500,2500,,1951,2,Garage,1,No,499750,Yes,82199,Runway Realty Inc,42.056411,-87.913042,0
+9223979,Condo/Coop,Des Plaines,IL,60016,225000,2,2,Des Plaines,1349,1349,,2006,1,Garage,1,No,225000,No,,Keller Williams,42.045895,-87.895569,0
+9223987,Single Family Residential,Des Plaines,IL,60016,350000,3,1.5,Des Plaines,1812,1812,6099,1979,2,Garage,1,No,350000,No,,Charles Rutenberg,42.058325,-87.910652,0
+9224070,Condo/Coop,Des Plaines,IL,60016,229900,2,2,Des Plaines,,1382,,2002,1,Garage,1,No,229900,No,,Redfin Corporation,42.039584,-87.887093,0
+9224565,Single Family Residential,Des Plaines,IL,60018,329000,4,3,Des Plaines,2080,2080,11761,1975,2,Garage,1,No,329000,No,,RE/MAX,42.027665,-87.882507,1
+9224579,Single Family Residential,Des Plaines,IL,60018,599000,5,5.5,Des Plaines,4000,4000,,2007,3,Garage,1,No,599000,Yes,275000,RE/MAX,42.029362,-87.896453,0
+9224654,Condo/Coop,Des Plaines,IL,60016,279900,3,2,Des Plaines,1577,1577,,1998,2,Garage,1,No,279900,Yes,235000,Real People Realty Inc,42.0407276,-87.884198,0
+9224916,Condo/Coop,Des Plaines,IL,60016,154900,3,2.5,Des Plaines,1500,1500,,1966,0,None,1,No,154900,Yes,74000,American Realty,42.039973,-87.85569,0
+9225232,Single Family Residential,Des Plaines,IL,60016,369900,3,3,Des Plaines,1617,1617,,1959,2,Garage,1,No,369900,Yes,335000,,42.065691,-87.90978,0
+9072954,Single Family Residential,Norridge,IL,60706,399000,3,2,Norridge,1600,1600,,,2,Garage,200,Yes,429000,Yes,200000,Chicago Brokers Corp.,41.973578,-87.833679,0
+9109741,Multi-Family,Norridge,IL,60706,449000,6,2,Norridge,,2667,4791,1964,2,Garage,129,No,449000,No,,"Roppolo Realty, Inc.",41.967067,-87.827467,0
+9158287,Single Family Residential,Norridge,IL,60706,384000,3,2,Norridge,1031,1031,4024,1953,2,Garage,67,No,384000,No,,"Oak Park Avenue Realty, LTD",41.965131,-87.831944,0
+8612413,Single Family Residential,Norridge,IL,60706,299900,3,1,Norridge,1009,1009,,1950,6,Garage,732,Yes,320000,Yes,245000,Zerillo Realty Inc.,41.971446,-87.8334,0
+9132699,Single Family Residential,Norridge,IL,60706,998000,4,4.5,Norridge,4800,4800,10720,2005,3,Garage,98,No,998000,Yes,320000,RE/MAX,41.9700592,-87.83275,1
+3999789448,Single Family Residential,Norridge,IL,60706,599000,5,3,Norridge,,2930,,,0,None,256,No,599000,No,,BuyOwner.com via Oodle,41.96898,-87.84001,1
+9177373,Multi-Family,Norridge,IL,60706,329900,7,4,Norridge,,5269,,1940,0,None,46,Yes,349000,Yes,300000,Century 21,41.954855,-87.811296,1
+9215257,Single Family Residential,Norridge,IL,60706,479900,4,4,Norridge,3200,3200,3750,1997,2,Garage,9,No,479900,Yes,475000,RE/MAX,41.954956,-87.810594,0
+9199812,Single Family Residential,Norridge,IL,60706,639000,3,3.5,Norridge,3381,3381,,2016,2,Garage,24,Yes,649000,Yes,163319,Century 21,41.955865,-87.810584,0
+9204618,Single Family Residential,Norridge,IL,60706,199000,5,1.5,Norridge,1542,1542,3781,1927,2,Garage,20,Yes,225000,Yes,330000,Berkshire Hathaway,41.953079,-87.81916,1
+9222308,Single Family Residential,Norridge,IL,60706,350000,3,3,Norridge,2000,2000,3781,1992,2,Garage,2,No,350000,Yes,230000,VNT Realty,41.953926,-87.821076,0
+9212701,Single Family Residential,Norridge,IL,60706,389500,3,2.5,Norridge,1345,1345,,1961,2,Garage,11,No,389500,No,,Century 21,41.961007,-87.83612,0
+9154772,Single Family Residential,Norridge,IL,60706,355000,3,3,Norridge,1345,1345,,1964,2,Garage,71,Yes,365000,Yes,342500,RE/MAX,41.96055,-87.834075,1
+9199522,Single Family Residential,Norridge,IL,60706,949000,5,4.5,Norridge,6000,6000,10044,2005,3,Garage,24,Yes,985000,Yes,290000,RE/MAX,41.972394,-87.829334,1
+9223353,Single Family Residential,Norridge,IL,60706,495000,5,2,Norridge,8500,8500,8498,1951,2,Garage,2,No,495000,No,,DreamWerks Realty Services,41.972622,-87.826066,0
+9184610,Condo/Coop,Norridge,IL,60706,225900,2,2,Norridge,1400,1400,,1994,1,Garage,39,Yes,239000,Yes,130000,Unique Realty LLC,41.974315,-87.839923,1
+9163130,Single Family Residential,Norridge,IL,60706,374900,4,3,Norridge,1615,1615,7871,1941,1,Garage,63,Yes,425000,No,,RE/MAX,41.957007,-87.815446,0
+9214168,Single Family Residential,Norridge,IL,60706,339900,3,2,Norridge,,1629,,1954,2,Garage,10,No,339900,Yes,227000,RE/MAX,41.959301,-87.810624,0
+9214991,Single Family Residential,Norridge,IL,60706,569900,4,3.5,Norridge,3000,3000,5079,1959,2,Garage,9,No,569900,Yes,621000,Century 21,41.959775,-87.83089,1
+9185514,Single Family Residential,Norridge,IL,60706,295000,4,2,Norridge,,1920,,1947,1,Garage,38,Yes,305000,Yes,250000,Charles Rutenberg,41.958494,-87.817391,0
+9219307,Single Family Residential,Norridge,IL,60706,269900,3,1.5,Norridge,1276,1276,5532,1955,2,Garage,5,No,269900,No,,Century 21,41.958311,-87.813717,1
+9219909,Single Family Residential,Norridge,IL,60706,263900,3,1,Norridge,1066,1066,5357,1952,2,Garage,4,No,263900,No,,Century 21,41.957525,-87.811768,1
+9222115,Single Family Residential,Norridge,IL,60706,249900,3,2,Norridge,1054,1054,5357,1956,2,Garage,3,No,249900,No,,Coldwell Banker,41.960137,-87.823527,0
+9212014,Single Family Residential,Norridge,IL,60706,299000,3,1.5,Norridge,1104,1104,,1961,4,Garage,12,No,299000,No,,Keller Williams,41.9685317,-87.837567,1
+9210203,Single Family Residential,Norridge,IL,60706,929000,5,5.5,Norridge,6500,6500,,2009,2,Garage,14,No,929000,No,,Jameson Sotheby's,41.969274,-87.834413,0
+9217297,Single Family Residential,Norridge,IL,60706,329750,3,2,Norridge,1200,1200,,1954,2,Garage,8,No,329750,Yes,210000,Runway Realty Inc,41.968645,-87.824104,0
+9116833,Single Family Residential,Norridge,IL,60706,285000,3,1,Norridge,1269,1269,11199,1951,2,Garage,120,Yes,362500,No,,JGL Realty Inc.,41.967969,-87.833856,0
+9169329,Single Family Residential,Norridge,IL,60706,155000,2,1,Norridge,836,836,,1927,1,None,56,No,155000,Yes,120000,Coldwell Banker,41.953671,-87.811826,0
+9201962,Condo/Coop,Norridge,IL,60706,192000,2,2,Norridge,1560,1560,,1991,2,Garage,22,No,192000,No,,@properties,41.974295,-87.841137,0
+9202462,Condo/Coop,Norridge,IL,60706,269000,2,2,Norridge,1400,1400,,2000,1,Garage,22,No,269000,Yes,163000,Brookline Real Estate LLC,41.964067,-87.835813,0
+9203904,Single Family Residential,Norridge,IL,60706,379400,5,2,Norridge,2000,2000,3685,1944,3,Garage,21,No,379400,Yes,286000,RE/MAX,41.968544,-87.841247,1
+9173422,Condo/Coop,Norridge,IL,60656,212000,2,2,Norridge,1560,1560,,1991,1,Garage,51,Yes,219000,Yes,257542,American Realty,41.974295,-87.841137,1
+9203168,Single Family Residential,Norridge,IL,60706,329900,2,2,Norridge,1056,1056,5458,1954,2,Garage,21,No,329900,No,,Century 21,41.960667,-87.82723,0
+9183012,Condo/Coop,Norridge,IL,60706,179900,2,1.5,Norridge,1080,1080,,1979,2,Garage,41,Yes,189900,Yes,249000,Select a Fee RE System,41.967391,-87.818864,0
+9203671,Single Family Residential,Norridge,IL,60706,269900,2,1,Norridge,,1067,7901,1942,3,None,21,No,269900,Yes,165000,Coldwell Banker,41.95504,-87.815465,0
+9206614,Single Family Residential,Norridge,IL,60706,329000,3,3,Norridge,,2109,,1933,2,Garage,17,No,329000,Yes,150000,M B One Realty,41.955713,-87.810068,1
+9209754,Single Family Residential,Norridge,IL,60706,435000,4,2,Norridge,,1920,,1956,1,Garage,15,No,435000,Yes,300000,Home Gallery Realty Corp.,41.971691,-87.826065,0
+9115980,Single Family Residential,Norridge,IL,60706,214999,2,1,Norridge,1455,1455,3781,1927,2,Garage,121,Yes,225000,Yes,134000,Jameson Sotheby's,41.953633,-87.819853,1
+9182410,Single Family Residential,Norridge,IL,60706,146300,2,1,Norridge,891,891,,1948,2,Garage,42,Yes,179000,Yes,120000,Mid-America Realty,41.956195,-87.821074,0
+9192209,Single Family Residential,Norridge,IL,60706,689000,4,3.5,Norridge,3500,3500,,2007,2,Garage,31,No,689000,Yes,355000,"Anchor Realty Group, Inc",41.963974,-87.822768,0
+9197796,Single Family Residential,Norridge,IL,60706,669000,5,4,Norridge,2938,2938,,2005,2,Garage,26,No,669000,Yes,340500,Hometown Real Estate,41.96981,-87.823012,0
+9182191,Condo/Coop,Norridge,IL,60706,229900,2,2,Norridge,1425,1425,,1993,1,Garage,42,No,229900,No,,Dream Town Realty,41.974305,-87.840543,0
+9183848,Single Family Residential,Norridge,IL,60706,259900,3,1.5,Norridge,1285,1285,10018,1950,1,Garage,39,No,259900,Yes,370000,Coldwell Banker,41.969596,-87.836168,0
+9199693,Single Family Residential,Norridge,IL,60706,319900,3,2,Norridge,1500,1500,7405,1954,2,Garage,24,Yes,329900,Yes,210000,RE/MAX,41.968842,-87.838779,1
+9225037,Condo/Coop,Norridge,IL,60656,214900,2,2,Norridge,1300,1300,,1994,1,Garage,1,No,214900,Yes,149000,Sergio & Banks Real Estate,41.974305,-87.840543,1
+9199649,Single Family Residential,Norridge,IL,60706,295000,3,2,Norridge,981,981,5166,1954,2,Garage,24,Yes,299900,No,,Rickert Realtors,41.968697,-87.822377,0
+9210590,Condo/Coop,Norridge,IL,60706,254000,2,2,Norridge,1500,1500,,1996,1,Garage,14,No,254000,Yes,265000,Century 21,41.952923,-87.812956,1
+9201158,Single Family Residential,Norridge,IL,60706,289900,3,1,Norridge,1561,1561,,1952,1,Garage,23,Yes,299900,Yes,200000,RE/MAX,41.969518,-87.82754,1
+9223776,Single Family Residential,Norridge,IL,60706,369000,3,2,Norridge,1800,1800,8015,1954,1,Garage,1,No,369000,No,,Century 21,41.964558,-87.829009,0
+9134046,Single Family Residential,Norridge,IL,60706,845000,4,4.5,Norridge,4170,4170,,2008,3,Garage,95,No,845000,No,,RE/MAX,41.97005,-87.833245,0
+9194949,Single Family Residential,Norridge,IL,60706,259900,3,2,Norridge,1113,1113,5357,1953,3,Garage,29,Yes,279900,No,,Zerillo Realty Inc.,41.958159,-87.814939,1
+9109323,Single Family Residential,Oak Park,IL,60302,399900,4,2.5,Oak Park,2012,2012,5458,1898,4,Garage,130,Yes,409900,Yes,498000,Classic Properties,41.886452,-87.788374,0
+9153249,Condo/Coop,Oak Park,IL,60302,136000,2,2,Oak Park,,1382,,1956,1,None,73,No,136000,Yes,189000,Pav Realtors,41.880595,-87.799483,0
+9013575,Single Family Residential,Oak Park,IL,60304,630000,5,2.5,Oak Park,,2575,7501,1909,4,Garage,270,No,630000,No,,Coldwell Banker,41.87401,-87.798218,0
+9039253,Townhouse,Oak Park,IL,60302,149000,2,2,Oak Park,,1382,,,1,None,241,No,149000,Yes,247500,RE/MAX,41.8804599,-87.778169,0
+9048104,Multi-Family,Oak Park,IL,60304,1150000,10,6,Oak Park,6825,6825,9147,1917,9,None,231,No,1150000,Yes,450000,Charles Rutenberg,41.878612,-87.787735,0
+9067815,Multi-Family,Oak Park,IL,60304,659000,2,1,Oak Park,,1067,,1960,5,None,207,No,659000,No,,Vollman Real Estate,41.865482,-87.795997,0
+9048106,Multi-Family,Oak Park,IL,60304,585000,8,4,Oak Park,,6211,6534,1952,6,None,231,No,585000,Yes,243000,Charles Rutenberg,41.866461,-87.794162,1
+9018961,Single Family Residential,Oak Park,IL,60304,339900,5,3,Oak Park,1500,1500,,1914,2,Garage,266,Yes,364900,Yes,250000,Green Street Capital LTD,41.869342,-87.783745,1
+3030551,Single Family Residential,Oak Park,IL,60304,350000,5,2,Oak Park,2800,2800,7500,1917,0,None,272,No,350000,Yes,332000,Fizber.com,41.871255,-87.786274,0
+9060055,Single Family Residential,Oak Park,IL,60302,597080,4,2.5,Oak Park,3064,3064,,1930,2,Garage,217,Yes,697080,No,,Classic Properties,41.904367,-87.795342,0
+9169191,Multi-Family,Oak Park,IL,60302,499000,4,2,Oak Park,,1920,6098,1892,4,None,56,No,499000,Yes,405000,RE/MAX,41.900522,-87.801978,1
+9055737,Single Family Residential,Oak Park,IL,60302,539000,5,1.5,Oak Park,,1989,,,2,Garage,221,Yes,550000,No,,Gloor Realty Company,41.897186,-87.798182,0
+9149249,Condo/Coop,Oak Park,IL,60302,159000,2,2,Oak Park,,1382,,1972,0,None,77,No,159000,No,,RE/MAX,41.882966,-87.801198,0
+9123685,Condo/Coop,Oak Park,IL,60302,109000,1,1,Oak Park,,906,,1964,1,None,109,No,109000,No,,Coldwell Banker,41.881762,-87.799523,1
+9136786,Single Family Residential,Oak Park,IL,60302,825000,5,2,Oak Park,,2263,8550,1909,3,Garage,92,No,825000,Yes,764500,@properties,41.896782,-87.795174,0
+9169245,Single Family Residential,Oak Park,IL,60302,515000,4,4,Oak Park,3000,3000,3872,1922,2,Garage,56,No,515000,Yes,135000,American Realty,41.894372,-87.777778,0
+9146710,Multi-Family,Oak Park,IL,60302,777000,6,4.5,Oak Park,,5086,6098,1892,2,Garage,80,No,777000,Yes,2062500,Baird & Warner,41.885571,-87.798228,0
+9026688,Condo/Coop,Oak Park,IL,60301,102000,2,1,Oak Park,880,880,,1967,1,None,256,Yes,110000,No,,Century 21,41.887568,-87.798999,0
+9173770,Condo/Coop,Oak Park,IL,60302,194000,2,1,Oak Park,,1067,,1928,0,None,51,No,194000,No,,@properties,41.881301,-87.790571,1
+9121939,Condo/Coop,Oak Park,IL,60302,99900,1,1,Oak Park,538,538,,1968,1,None,112,No,99900,Yes,85000,Michals Realty,41.881109,-87.800361,1
+3953036958,Single Family Residential,Oak Park,IL,60304,177500,2,1,Oak Park,1100,1100,,,0,None,316,No,157500,Yes,120000,BuyOwner.com via Oodle,41.874659,-87.80325,0
+3974374502,Condo/Coop,Oak Park,IL,60302,180000,1,1,Oak Park,,906,,,0,None,286,No,180000,No,,BuyOwner.com via Oodle,41.881793,-87.795267,0
+4024046470,Single Family Residential,Oak Park,IL,60302,165000,1,1,Oak Park,850,850,,,0,None,226,No,165000,Yes,74500,BuyOwner.com via Oodle,41.881469,-87.781703,0
+9122062,Single Family Residential,Oak Park,IL,60302,584000,3,2,Oak Park,,1629,,1919,2,Garage,112,Yes,614900,Yes,315000,"IMB Realty, LLC.",41.901581,-87.792065,0
+9178299,Single Family Residential,Oak Park,IL,60302,845000,5,4.5,Oak Park,2866,2866,9374,1921,4,Garage,45,Yes,864900,No,,Baird & Warner,41.898973,-87.790776,1
+9193856,Single Family Residential,Oak Park,IL,60302,690000,4,2.5,Oak Park,,2184,,1903,2,Garage,30,No,690000,Yes,585000,Gloor Realty Company,41.899306,-87.798879,1
+9192238,Single Family Residential,Oak Park,IL,60302,433000,4,2,Oak Park,2206,2206,6298,1906,5,Garage,31,Yes,457000,No,,RE/MAX,41.899033,-87.777337,0
+9196856,Single Family Residential,Oak Park,IL,60302,889900,4,2.5,Oak Park,,2184,,,2,Garage,28,Yes,909900,Yes,362501,Coldwell Banker,41.904196,-87.797469,0
+9177980,Single Family Residential,Oak Park,IL,60302,899000,4,3,Oak Park,2872,2872,8001,1939,2,Garage,45,Yes,924000,Yes,465000,@properties,41.906726,-87.796896,0
+9154495,Single Family Residential,Oak Park,IL,60302,824800,4,3.5,Oak Park,3053,3053,6198,1931,2,Garage,71,Yes,849000,Yes,843000,Weichert Realtors,41.906388,-87.792896,1
+9202192,Single Family Residential,Oak Park,IL,60302,849900,5,2.5,Oak Park,,2575,7200,1899,4,Garage,22,No,849900,No,,Baird & Warner,41.90011,-87.798255,0
+9042991,Single Family Residential,Oak Park,IL,60302,749000,4,3.5,Oak Park,2328,2328,,1928,2,Garage,238,Yes,769000,Yes,569000,Gagliardo Realty Associates LLC,41.90085,-87.795247,1
+9176487,Single Family Residential,Oak Park,IL,60302,475000,3,1.5,Oak Park,,1431,,,3,Garage,46,Yes,498800,Yes,519500,Weichert Realtors,41.902656,-87.802934,0
+9198169,Single Family Residential,Oak Park,IL,60302,929000,4,3.5,Oak Park,3314,3314,7130,1928,2,Garage,25,Yes,979000,Yes,532500,Gagliardo Realty Associates LLC,41.903856,-87.789639,1
+9162096,Single Family Residential,Oak Park,IL,60302,849900,5,4.5,Oak Park,3655,3655,9744,1915,7,Garage,64,Yes,874500,No,,Weichert Realtors,41.901991,-87.802028,0
+9213105,Townhouse,Oak Park,IL,60302,225000,2,2.5,Oak Park,1819,1819,,2006,2,None,11,No,225000,No,,Baird & Warner,41.894914,-87.782616,1
+9201740,Single Family Residential,Oak Park,IL,60302,430000,4,2.5,Oak Park,1883,1883,,1940,3,Garage,22,Yes,445000,Yes,307500,Baird & Warner,41.889581,-87.780297,0
+9208222,Single Family Residential,Oak Park,IL,60302,477000,5,1.5,Oak Park,2200,2200,,1903,6,Garage,16,Yes,479000,No,,Nick K Lambros,41.88948,-87.777745,0
+9206587,Condo/Coop,Oak Park,IL,60301,178000,1,1,Oak Park,852,852,,2005,0,None,17,No,178000,Yes,104860,RE/MAX,41.888351,-87.792954,0
+9219841,Single Family Residential,Oak Park,IL,60302,1150000,5,4.5,Oak Park,3000,3000,,1905,3,Garage,4,No,1150000,No,,Gloor Realty Company,41.895616,-87.789337,0
+9221210,Condo/Coop,Oak Park,IL,60302,165000,1,1,Oak Park,,906,,1928,0,None,3,No,165000,Yes,181500,North Star Real Estate Group,41.891035,-87.795037,1
+9169482,Single Family Residential,Oak Park,IL,60302,419000,4,2.5,Oak Park,2118,2118,,1904,2,Garage,56,Yes,450000,No,,Baird & Warner,41.886694,-87.78368,1
+9221182,Condo/Coop,Oak Park,IL,60302,197000,2,2,Oak Park,,1382,,1968,1,None,3,No,197000,Yes,229000,Gagliardo Realty Associates LLC,41.892206,-87.802317,1
+9221353,Condo/Coop,Oak Park,IL,60301,199000,2,1,Oak Park,1100,1100,,,2,Garage,3,No,199000,Yes,170000,Ask Nagel,41.888249,-87.795386,0
+9188272,Single Family Residential,Oak Park,IL,60302,474000,4,2.5,Oak Park,2128,2128,8598,1895,4,Garage,36,Yes,489000,No,,Baird & Warner,41.889163,-87.787514,1
+9221933,Condo/Coop,Oak Park,IL,60302,155000,2,1,Oak Park,,1067,,1920,1,None,3,No,155000,No,,Coldwell Banker,41.886626,-87.787652,1
+9189200,Condo/Coop,Oak Park,IL,60301,189000,2,2,Oak Park,1182,1182,,,0,None,35,Yes,209900,Yes,299900,Berkshire Hathaway,41.8874573,-87.794904,0
+9208710,Single Family Residential,Oak Park,IL,60302,739000,5,2.5,Oak Park,2880,2880,,1889,2,None,15,No,739000,Yes,687000,Gagliardo Realty Associates LLC,41.884018,-87.798971,0
+9203155,Single Family Residential,Oak Park,IL,60302,525000,4,3,Oak Park,,2485,,1909,3,Garage,21,Yes,535000,Yes,520000,Berg Properties,41.895534,-87.780478,0
+9208814,Single Family Residential,Oak Park,IL,60302,649000,4,3.5,Oak Park,3316,3316,5771,1942,4,Garage,15,No,649000,Yes,350000,Baird & Warner,41.907454,-87.78562,1
+9221457,Single Family Residential,Oak Park,IL,60302,775000,3,3.5,Oak Park,,2399,6821,1928,2,Garage,3,No,775000,Yes,647000,RE/MAX,41.906642,-87.793421,0
+9175167,Single Family Residential,Oak Park,IL,60302,535000,4,2.5,Oak Park,,2184,4900,1927,3,Garage,49,Yes,549000,Yes,570000,Gagliardo Realty Associates LLC,41.907125,-87.78054,0
+9216409,Single Family Residential,Oak Park,IL,60302,819995,4,3.5,Oak Park,2991,2991,,1913,4,Garage,8,No,819995,Yes,750000,Gloor Realty Company,41.897675,-87.797294,0
+9128370,Single Family Residential,Oak Park,IL,60302,845000,5,4,Oak Park,2800,2800,8123,1915,2,Garage,102,Yes,929000,No,,Baird & Warner,41.899212,-87.791999,1
+9202518,Single Family Residential,Oak Park,IL,60302,599000,4,3,Oak Park,3066,3066,6216,1924,5,Garage,22,No,599000,Yes,559000,Baird & Warner,41.901771,-87.8031,0
+9221632,Single Family Residential,Oak Park,IL,60302,479000,4,1.5,Oak Park,2584,2584,8150,1922,2,Garage,3,No,479000,No,,Baird & Warner,41.903212,-87.795971,0
+9167547,Single Family Residential,Oak Park,IL,60302,569999,4,1.5,Oak Park,1605,1605,8633,1908,2,Garage,58,Yes,634999,Yes,623000,RE/MAX,41.899051,-87.797378,0
+9196944,Single Family Residential,Oak Park,IL,60302,799900,4,2.5,Oak Park,2601,2601,,1928,2,Garage,28,No,799900,Yes,745000,Baird & Warner,41.906662,-87.789081,0
+9217588,Single Family Residential,Oak Park,IL,60302,585000,3,2.5,Oak Park,2376,2376,7801,1928,2,Garage,7,No,585000,No,,Weichert Realtors,41.90767,-87.789751,1
+9219106,Single Family Residential,Oak Park,IL,60302,839300,4,3,Oak Park,2500,2500,5976,1933,2,Garage,6,No,839300,Yes,695000,Classic Properties,41.907346,-87.794651,0
+9165538,Single Family Residential,Oak Park,IL,60302,525000,3,1.5,Oak Park,,1431,4403,1930,3,Garage,59,Yes,545000,Yes,547000,Gagliardo Realty Associates LLC,41.907935,-87.794149,1
+9128017,Single Family Residential,Oak Park,IL,60302,699900,4,3,Oak Park,2555,2555,,1937,2,Garage,102,Yes,739000,No,,Gloor Realty Company,41.906212,-87.787649,0
+9143925,Single Family Residential,Oak Park,IL,60302,524500,3,2.5,Oak Park,,1853,7400,1951,2,Garage,84,Yes,549800,Yes,493000,Weichert Realtors,41.907953,-87.799175,0
+9206427,Single Family Residential,Oak Park,IL,60302,278500,4,2,Oak Park,1300,1300,4125,1917,2,None,17,Yes,315000,No,,Gloor Realty Company,41.9053439,-87.779988,0
+9208172,Single Family Residential,Oak Park,IL,60302,239900,4,2,Oak Park,1920,1920,4125,,1,Garage,16,Yes,259900,No,,"Hunter's Realty, Inc.",41.905456,-87.778778,0
+9135087,Single Family Residential,Oak Park,IL,60302,919000,4,3.5,Oak Park,4700,4700,,1920,3,Garage,94,Yes,939000,No,,Baird & Warner,41.905025,-87.784073,0
+9138007,Single Family Residential,Oak Park,IL,60302,375000,2,2,Oak Park,1590,1590,6198,1955,2,Garage,91,Yes,385000,Yes,252500,Baird & Warner,41.903145,-87.79454,1
+9184269,Single Family Residential,Oak Park,IL,60302,474900,4,1.5,Oak Park,2017,2017,6198,1958,2,Garage,39,Yes,499000,No,,Weichert Realtors,41.904775,-87.790942,0
+9156918,Single Family Residential,Oak Park,IL,60302,385000,3,1.5,Oak Park,1838,1838,5000,1923,4,Garage,69,Yes,395000,No,,RE/MAX,41.904914,-87.777023,0
+9220424,Single Family Residential,Oak Park,IL,60302,1175000,5,4.5,Oak Park,3200,3200,,1920,3,Garage,4,No,1175000,Yes,371400,Beyond Properties Realty Group,41.903766,-87.798431,0
+9209802,Single Family Residential,Oak Park,IL,60302,724900,4,3,Oak Park,2322,2322,8550,1908,2,Garage,15,No,724900,No,,Beyond Properties Realty Group,41.891239,-87.778723,0
+9210678,Condo/Coop,Oak Park,IL,60302,280000,3,2,Oak Park,,1629,,1926,1,Garage,14,No,280000,No,,Gloor Realty Company,41.889848,-87.798937,1
+9207499,Condo/Coop,Oak Park,IL,60302,159900,1,1,Oak Park,1015,1015,,,0,None,16,No,159900,No,,Coldwell Banker,41.890367,-87.797106,1
+9211960,Single Family Residential,Oak Park,IL,60302,750000,4,4,Oak Park,2418,2418,,1919,2,Garage,12,No,750000,Yes,575000,Baird & Warner,41.892215,-87.779455,1
+9212689,Single Family Residential,Oak Park,IL,60302,519000,4,2.5,Oak Park,2500,2500,,1910,2,Garage,11,No,519000,No,,Gagliardo Realty Associates LLC,41.889099,-87.786804,0
+9214487,Condo/Coop,Oak Park,IL,60302,129000,1,1,Oak Park,,906,,1920,0,None,10,No,129000,Yes,157500,RE/MAX,41.890399,-87.798785,1
+9187849,Single Family Residential,Oak Park,IL,60302,675000,5,2,Oak Park,3992,3992,9918,1894,2,Garage,36,Yes,699000,No,,RE/MAX,41.892579,-87.795047,0
+9144456,Condo/Coop,Oak Park,IL,60302,130000,1,1,Oak Park,900,900,,,1,None,83,Yes,155900,No,,Coldwell Banker,41.890907,-87.795658,0
+9190977,Condo/Coop,Oak Park,IL,60302,174500,1,1,Oak Park,1100,1100,,1923,0,None,32,Yes,179900,No,,Gagliardo Realty Associates LLC,41.8915599,-87.793969,0
+9208867,Single Family Residential,Oak Park,IL,60302,517900,3,1.5,Oak Park,1872,1872,,1912,2,Garage,15,No,517900,Yes,1047000,Gloor Realty Company,41.894675,-87.788504,1
+9173591,Single Family Residential,Oak Park,IL,60302,769900,6,4.5,Oak Park,3500,3500,,1910,2,Garage,51,Yes,795000,No,,Century 21,41.891834,-87.788509,0
+9184075,Condo/Coop,Oak Park,IL,60301,79000,1,1,Oak Park,,906,,,2,Garage,39,Yes,94500,Yes,110000,RE/MAX,41.889431,-87.803046,0
+9205564,Single Family Residential,Oak Park,IL,60302,1249000,5,3,Oak Park,3411,3411,,1887,2,Garage,18,Yes,1298000,Yes,890000,Gloor Realty Company,41.891875,-87.799825,1
+9048506,Condo/Coop,Oak Park,IL,60302,202000,2,1,Oak Park,1398,1398,,1915,1,None,231,Yes,212000,Yes,185000,Baird & Warner,41.8865582,-87.789371,0
+9217623,Single Family Residential,Oak Park,IL,60302,449900,3,2,Oak Park,,1629,2178,1890,2,None,7,No,449900,No,,@properties,41.885123,-87.79825,0
+9217799,Condo/Coop,Oak Park,IL,60302,248800,2,1,Oak Park,,1067,,1909,1,Garage,7,No,248800,Yes,277000,RE/MAX,41.88498,-87.779231,0
+9186102,Condo/Coop,Oak Park,IL,60301,159900,1,1,Oak Park,755,755,,2005,0,None,37,No,159900,Yes,162000,@properties,41.888351,-87.792954,1
+9197160,Condo/Coop,Oak Park,IL,60302,215000,2,2,Oak Park,,1382,,,1,Garage,27,No,215000,Yes,217000,RE/MAX,41.883988,-87.79392,1
+9191453,Single Family Residential,Oak Park,IL,60302,875000,5,3.5,Oak Park,,3333,,,3,Garage,32,No,875000,Yes,900000,Gloor Realty Company,41.883998,-87.787359,1
+9067493,Townhouse,Oak Park,IL,60302,615000,3,3.5,Oak Park,2700,2700,,2015,2,Garage,207,No,615000,No,,Gloor Realty Company,41.8867657,-87.800207,0
+9203700,Townhouse,Oak Park,IL,60301,595000,3,2.5,Oak Park,2502,2502,,2003,2,Garage,21,No,595000,Yes,555000,RE/MAX,41.887787,-87.793138,1
+9219826,Single Family Residential,Oak Park,IL,60302,1125000,5,3.5,Oak Park,3365,3365,,1905,4,Garage,4,No,1125000,No,,Gloor Realty Company,41.884861,-87.787382,0
+9133943,Single Family Residential,Oak Park,IL,60302,564000,4,3,Oak Park,,2485,,,6,Garage,95,Yes,589000,No,,Weichert Realtors,41.882889,-87.779166,0
+9143867,Condo/Coop,Oak Park,IL,60302,189000,2,2,Oak Park,,1382,,1971,1,Garage,84,No,189000,No,,Weichert Realtors,41.883988,-87.79392,0
+9118573,Condo/Coop,Oak Park,IL,60302,269000,3,1.5,Oak Park,1540,1540,,1910,1,Garage,116,Yes,290000,No,,Baird & Warner,41.884198,-87.798973,1
+9145035,Condo/Coop,Oak Park,IL,60302,182900,2,1,Oak Park,,1067,,1926,0,None,81,Yes,189900,Yes,218000,Coldwell Banker,41.884964,-87.796686,0
+9223079,Condo/Coop,Oak Park,IL,60302,239900,2,1,Oak Park,,1067,,1909,1,Garage,2,No,239900,Yes,260000,RE/MAX,41.88498,-87.779231,0
+9181545,Single Family Residential,Oak Park,IL,60302,1200000,5,3.5,Oak Park,3798,3798,18739,1913,4,Garage,42,Yes,1250000,No,,Gloor Realty Company,41.898737,-87.789437,0
+9210482,Single Family Residential,Oak Park,IL,60302,525000,5,2,Oak Park,1974,1974,7448,1924,2,Garage,14,No,525000,No,,Baird & Warner,41.896511,-87.80237,0
+9123543,Condo/Coop,Oak Park,IL,60302,509000,2,2,Oak Park,1962,1962,,1924,2,Garage,109,Yes,520000,No,,Gloor Realty Company,41.889831,-87.794038,0
+9202554,Condo/Coop,Oak Park,IL,60302,99000,1,1,Oak Park,,906,,,0,None,22,No,99000,No,,Baird & Warner,41.891107,-87.803044,1
+9201800,Condo/Coop,Oak Park,IL,60301,184900,2,2,Oak Park,,1382,,1971,0,None,22,No,184900,Yes,182000,American Realty,41.889021,-87.797929,1
+9164619,Condo/Coop,Oak Park,IL,60302,179000,1,1,Oak Park,,906,,1928,0,None,60,Yes,185000,Yes,193000,Dream Town Realty,41.891767,-87.794092,0
+9198858,Townhouse,Oak Park,IL,60302,515000,4,3.5,Oak Park,,2828,,1994,3,Garage,25,No,515000,Yes,375000,Charles Rutenberg,41.890509,-87.785214,0
+9204914,Condo/Coop,Oak Park,IL,60302,99000,1,1,Oak Park,,906,,,0,None,19,No,99000,Yes,95000,Baird & Warner,41.891107,-87.803044,0
+9119478,Single Family Residential,Oak Park,IL,60302,849900,4,3.5,Oak Park,6115,6115,,1899,7,Garage,115,Yes,899000,Yes,533000,"Click Properties, Inc.",41.8838497,-87.794465,1
+9203433,Condo/Coop,Oak Park,IL,60302,99900,1,1,Oak Park,,906,,1967,1,Garage,21,No,99900,No,,@properties,41.883975,-87.802027,0
+9201727,Condo/Coop,Oak Park,IL,60302,112350,1,1,Oak Park,800,800,,1928,0,None,22,No,112350,No,,RE/MAX,41.8848747,-87.798829,1
+9071051,Condo/Coop,Oak Park,IL,60302,240000,2,2,Oak Park,1226,1226,,2003,1,Garage,203,Yes,259000,No,,Baird & Warner,41.886634,-87.784568,0
+9203298,Single Family Residential,Oak Park,IL,60302,290000,4,2.5,Oak Park,1610,1610,,1893,2,Garage,21,No,290000,No,,RE/MAX,41.896082,-87.780498,1
+9202920,Single Family Residential,Oak Park,IL,60302,995000,5,3.5,Oak Park,4000,4000,8298,1880,2,Garage,22,No,995000,Yes,1145000,Baird & Warner,41.892818,-87.791691,1
+9182007,Single Family Residential,Oak Park,IL,60302,799900,5,3.5,Oak Park,3567,3567,,,3,Garage,42,Yes,839900,Yes,350000,@properties,41.895005,-87.785338,0
+9157730,Single Family Residential,Oak Park,IL,60302,895000,4,3.5,Oak Park,,2828,,1927,3,Garage,67,Yes,919000,Yes,418000,Gagliardo Realty Associates LLC,41.905179,-87.796025,0
+9197906,Single Family Residential,Oak Park,IL,60302,519000,3,1.5,Oak Park,2107,2107,,1929,2,Garage,26,No,519000,Yes,346000,RE/MAX,41.902433,-87.800529,0
+9202596,Single Family Residential,Oak Park,IL,60302,575000,3,3,Oak Park,2000,2000,,1940,2,Garage,22,No,575000,Yes,470000,Berger & Co. Realtors Ltd,41.901838,-87.795927,1
+9188957,Single Family Residential,Oak Park,IL,60302,569900,4,2.5,Oak Park,2594,2594,,1931,2,Garage,35,No,569900,No,,Baird & Warner,41.904435,-87.786388,0
+9184233,Single Family Residential,Oak Park,IL,60302,354999,4,2,Oak Park,1498,1498,,,6,Garage,39,Yes,363900,Yes,148000,Baird & Warner,41.904361,-87.781187,0
+9196986,Single Family Residential,Oak Park,IL,60302,699000,3,3.5,Oak Park,2000,2000,,1929,2,Garage,28,No,699000,Yes,624000,Realty Alive,41.907884,-87.786934,0
+9198941,Single Family Residential,Oak Park,IL,60304,925000,5,3.5,Oak Park,4100,4100,,1900,5,Garage,25,No,925000,No,,Dream Town Realty,41.8954639,-87.795132,0
+9192687,Condo/Coop,Oak Park,IL,60304,72000,1,1,Oak Park,,906,,,0,None,31,No,72000,No,,Baird & Warner,41.8780914,-87.791452,0
+9089135,Single Family Residential,Oak Park,IL,60304,449000,3,2,Oak Park,1520,1520,4726,1921,3,Garage,177,Yes,479000,Yes,403000,Keller Williams,41.8791734,-87.788983,0
+9180109,Condo/Coop,Oak Park,IL,60304,135000,2,1,Oak Park,,1067,,1928,0,None,43,Yes,155000,No,,Gagliardo Realty Associates LLC,41.8780914,-87.791452,0
+9182551,Single Family Residential,Oak Park,IL,60304,329000,3,2,Oak Park,1900,1900,4094,1927,2,Garage,41,No,329000,Yes,195000,Beyond Properties Realty Group,41.879203,-87.78233,1
+9182746,Condo/Coop,Oak Park,IL,60304,184900,2,1,Oak Park,1250,1250,,,0,None,41,Yes,189900,No,,Baird & Warner,41.8780914,-87.791452,0
+9198284,Multi-Family,Oak Park,IL,60302,499000,4,2,Oak Park,,1920,,1883,2,None,25,No,499000,Yes,500000,Maia Homes,41.892866,-87.803294,0
+9151030,Multi-Family,Oak Park,IL,60302,399000,4,3,Oak Park,,2485,,1909,4,Garage,74,Yes,419000,No,,Baird & Warner,41.88949,-87.777036,0
+9138012,Condo/Coop,Oak Park,IL,60302,169900,2,2,Oak Park,,1382,,,1,None,91,No,169900,No,,@properties,41.880871,-87.78986,0
+9194684,Condo/Coop,Oak Park,IL,60302,165000,2,1,Oak Park,1360,1360,,,1,None,29,No,165000,Yes,207000,RE/MAX,41.880645,-87.779106,1
+9189399,Condo/Coop,Oak Park,IL,60302,224900,3,1,Oak Park,1200,1200,,1915,1,Garage,35,No,224900,No,,RE/MAX,41.88139,-87.785133,1
+9196039,Townhouse,Oak Park,IL,60302,424000,3,2.5,Oak Park,2000,2000,,1998,2,Garage,28,No,424000,No,,Goodwin & Assoc. Real Estate Llc,41.880879,-87.801894,1
+9200146,Condo/Coop,Oak Park,IL,60302,299900,2,2,Oak Park,,1382,,2005,1,Garage,24,No,299900,Yes,338000,@properties,41.880805,-87.784946,1
+9200031,Condo/Coop,Oak Park,IL,60302,88000,1,1,Oak Park,515,515,,1965,1,None,24,No,88000,Yes,81500,Gloor Realty Company,41.886553,-87.78679,0
+9198195,Single Family Residential,Oak Park,IL,60302,1995000,6,4,Oak Park,5600,5600,29185,1898,5,Garage,25,No,1995000,No,,Gloor Realty Company,41.899165,-87.792962,1
+9198557,Single Family Residential,Oak Park,IL,60302,865000,6,3.5,Oak Park,,3929,7501,1887,5,Garage,25,No,865000,Yes,220000,"Elisabeth Jacobsen, REALTOR",41.897771,-87.798947,1
+9198822,Single Family Residential,Oak Park,IL,60302,875000,5,2.5,Oak Park,3292,3292,,1919,2,Garage,25,No,875000,Yes,767500,Berkshire Hathaway,41.899223,-87.790264,1
+8958055,Single Family Residential,Oak Park,IL,60304,389000,4,1,Oak Park,1584,1584,5623,1909,4,None,330,Yes,414000,No,,@properties,41.869349,-87.800139,1
+9199827,Single Family Residential,Oak Park,IL,60304,287000,2,1.5,Oak Park,,1214,5039,1951,2,Garage,24,No,287000,No,,RE/MAX,41.868478,-87.790543,0
+9191216,Condo/Coop,Oak Park,IL,60302,87000,1,1,Oak Park,,906,,,0,None,32,No,87000,Yes,151500,Berkshire Hathaway,41.881865,-87.796598,0
+9200215,Condo/Coop,Oak Park,IL,60302,161000,2,2,Oak Park,900,900,,1970,1,None,24,No,161000,No,,"Catalano Realty, Inc",41.881964,-87.788212,0
+9199757,Single Family Residential,Oak Park,IL,60302,480000,5,1.5,Oak Park,,1989,8751,1895,5,Garage,24,No,480000,Yes,240000,RE/MAX,41.882892,-87.785002,0
+9098727,Single Family Residential,Oak Park,IL,60304,220000,4,2,Oak Park,1553,1553,,1919,2,Garage,157,Yes,225900,No,,RE/MAX,41.866203,-87.799405,1
+9184777,Townhouse,Oak Park,IL,60304,395900,3,4,Oak Park,2397,2397,,2005,2,Garage,38,Yes,399900,Yes,385500,RE/MAX,41.865481,-87.789503,0
+9162212,Condo/Coop,Oak Park,IL,60302,214000,2,2,Oak Park,1357,1357,,1928,0,None,64,No,214000,No,,Baird & Warner,41.894334,-87.780434,1
+9205940,Single Family Residential,Oak Park,IL,60304,279900,2,1,Oak Park,,1067,,,2,Garage,18,No,279900,No,,"Pach Realty, Inc.",41.87053,-87.781323,0
+9180957,Single Family Residential,Oak Park,IL,60304,189900,3,2,Oak Park,969,969,,1961,2,Garage,43,Yes,194900,Yes,254000,Chicago Area Realty Inc,41.866697,-87.779968,1
+9155949,Condo/Coop,Oak Park,IL,60302,52000,1,1,Oak Park,840,840,,,1,None,70,Yes,89000,No,,RE/MAX,41.882098,-87.780671,0
+9159864,Multi-Family,Oak Park,IL,60302,469500,4,4,Oak Park,,3217,5662,1914,4,None,66,Yes,479000,No,,RE/MAX,41.881206,-87.77912,1
+9161955,Condo/Coop,Oak Park,IL,60302,169900,3,1,Oak Park,1500,1500,,1920,0,None,64,Yes,189900,Yes,205000,Sky High Real Estate Inc.,41.88172,-87.77925,0
+9179569,Condo/Coop,Oak Park,IL,60302,199000,2,1,Oak Park,,1067,,,0,None,44,No,199000,No,,RE/MAX,41.885747,-87.799335,0
+9190840,Single Family Residential,Oak Park,IL,60302,2500000,6,6,Oak Park,9500,9500,39639,1905,4,Garage,32,No,2500000,No,,Coldwell Banker,41.894828,-87.795114,0
+9189191,Condo/Coop,Oak Park,IL,60302,288800,3,2,Oak Park,1800,1800,,1926,1,Garage,35,Yes,298800,Yes,125000,RE/MAX,41.882185,-87.794702,0
+9200502,Single Family Residential,Oak Park,IL,60302,469900,4,1.5,Oak Park,2379,2379,8001,1907,3,Garage,23,No,469900,No,,Burlington Realty,41.88096,-87.798014,1
+9187762,Single Family Residential,Oak Park,IL,60304,898800,4,3.5,Oak Park,,2828,7126,1909,2,Garage,36,No,898800,Yes,366500,RE/MAX,41.874659,-87.796804,0
+9153429,Condo/Coop,Oak Park,IL,60302,105000,1,1,Oak Park,,906,,1965,1,Garage,72,Yes,114900,Yes,140500,Baird & Warner,41.881909,-87.794695,1
+9180528,Condo/Coop,Oak Park,IL,60304,89900,1,1,Oak Park,,906,,,0,None,43,No,89900,No,,RE/MAX,41.872784,-87.78995,0
+9137940,Condo/Coop,Oak Park,IL,60304,159495,2,1,Oak Park,,1067,,1920,0,None,91,Yes,161900,Yes,86500,Berkshire Hathaway,41.872772,-87.790641,0
+24061340,Single Family Residential,Oak Park,IL,60304,315000,2,2,Oak Park,1163,1163,1306800,1917,2,Garage,52,No,315000,No,,ForSaleByOwner.com,41.8671546,-87.779116,0
+9143691,Condo/Coop,Oak Park,IL,60302,145000,2,1.5,Oak Park,,1214,,1969,1,None,84,Yes,147000,No,,Baird & Warner,41.882098,-87.780671,0
+9201910,Single Family Residential,Oak Park,IL,60304,385000,3,1.5,Oak Park,,1431,,1918,2,Garage,22,Yes,390000,No,,Gloor Realty Company,41.879382,-87.780416,0
+9186773,Single Family Residential,Oak Park,IL,60304,559000,3,3.5,Oak Park,,2399,,,2,Garage,37,No,559000,No,,Weichert Realtors,41.878486,-87.780387,1
+9124727,Condo/Coop,Oak Park,IL,60302,159000,2,2,Oak Park,1000,1000,,1969,1,None,107,Yes,179900,No,,Baird & Warner,41.882098,-87.780671,0
+9146744,Single Family Residential,Oak Park,IL,60302,598500,4,2.5,Oak Park,2500,2500,,1909,4,Garage,80,Yes,624000,Yes,245000,Gagliardo Realty Associates LLC,41.88083,-87.778398,1
+9174598,Condo/Coop,Oak Park,IL,60302,129900,2,1.5,Oak Park,900,900,,1969,1,None,50,Yes,135000,Yes,94900,Beyond Properties Realty Group,41.882098,-87.780671,0
+9202433,Single Family Residential,Oak Park,IL,60304,399000,3,2,Oak Park,1525,1525,3123,1915,2,Garage,22,Yes,415000,Yes,397500,Baird & Warner,41.879052,-87.779892,0
+9224574,Single Family Residential,Oak Park,IL,60304,369000,3,1.5,Oak Park,1800,1800,,,2,Garage,1,No,369000,Yes,286000,Beyond Properties Realty Group,41.877317,-87.781049,1
+9223697,Single Family Residential,Oak Park,IL,60302,269900,3,1,Oak Park,1200,1200,5248,1907,2,Garage,1,No,269900,Yes,130000,Weichert Realtors,41.901643,-87.780564,0
+9225183,Condo/Coop,Oak Park,IL,60302,183500,2,1,Oak Park,,1067,,1928,1,None,1,No,183500,Yes,186000,,41.894453,-87.781142,0
+9203999,Single Family Residential,Oak Park,IL,60304,345000,3,2,Oak Park,1500,1500,,,2,Garage,21,No,345000,Yes,329000,Dream Town Realty,41.869149,-87.788637,0
+9205622,Condo/Coop,Oak Park,IL,60304,139000,2,1,Oak Park,,1067,,,0,None,18,No,139000,Yes,182000,Baird & Warner,41.872772,-87.790641,0
+9208330,Single Family Residential,Oak Park,IL,60304,239900,3,2,Oak Park,1854,1854,,1919,2,Garage,16,No,239900,Yes,160000,"Rising Realty, LLC",41.866511,-87.790997,1
+9165286,Single Family Residential,Oak Park,IL,60304,459900,3,1.5,Oak Park,1740,1740,,1910,2,Garage,60,Yes,479900,No,,"OMG Equity Investments,LLC",41.868558,-87.791776,0
+9216209,Single Family Residential,Oak Park,IL,60304,595000,5,2,Oak Park,2200,2200,,,2,Garage,8,No,595000,Yes,535000,Gloor Realty Company,41.873458,-87.791236,1
+9156728,Condo/Coop,Oak Park,IL,60304,68900,1,1,Oak Park,,906,,,0,None,70,Yes,80900,No,,Pav Realtors,41.871536,-87.790913,1
+9179296,Single Family Residential,Oak Park,IL,60304,309000,3,1,Oak Park,1494,1494,3123,1923,2,Garage,44,Yes,314000,Yes,235000,Baird & Warner,41.872809,-87.78852,1
+9072396,Condo/Coop,Oak Park,IL,60302,149000,2,2,Oak Park,,1382,,1960,1,None,200,Yes,155000,Yes,140000,Gagliardo Realty Associates LLC,41.881964,-87.788212,0
+9223589,Condo/Coop,Oak Park,IL,60304,100000,1,1,Oak Park,600,600,,1927,1,None,1,No,100000,No,,Baird & Warner,41.8729263,-87.790043,1
+9166416,Single Family Residential,Oak Park,IL,60304,424900,3,2.5,Oak Park,1415,1415,3175,1917,1,Garage,59,Yes,429900,Yes,220000,"Rising Realty, LLC",41.870647,-87.78572,0
+9207958,Condo/Coop,Oak Park,IL,60302,154900,2,1,Oak Park,1180,1180,,1915,0,None,16,No,154900,No,,Classic Properties,41.88139,-87.785133,0
+9208440,Single Family Residential,Oak Park,IL,60304,579000,4,2.5,Oak Park,5320,5320,5318,1911,1,None,16,No,579000,Yes,355000,Berg Properties,41.8795462,-87.785373,1
+9209115,Condo/Coop,Oak Park,IL,60302,162500,2,1,Oak Park,1100,1100,,1969,1,Garage,15,No,162500,No,,RE/MAX,41.881988,-87.787146,0
+9207420,Single Family Residential,Oak Park,IL,60304,624000,4,2.5,Oak Park,2025,2025,3149,1913,2,Garage,16,Yes,629900,No,,"USRealty.com, LLP",41.877513,-87.787698,0
+9164348,Single Family Residential,Oak Park,IL,60304,329900,3,1,Oak Park,,1258,,,2,Garage,60,Yes,360000,No,,Weichert Realtors,41.875829,-87.787123,0
+9218882,Condo/Coop,Oak Park,IL,60304,174900,1,1,Oak Park,,906,,2006,1,Garage,6,No,174900,No,,Baird & Warner,41.8655472,-87.785759,0
+9219134,Single Family Residential,Oak Park,IL,60304,350000,4,2,Oak Park,,1920,,1915,2,Garage,6,No,350000,Yes,228500,Coldwell Banker,41.870837,-87.785016,0
+9223691,Condo/Coop,Oak Park,IL,60302,259900,2,1,Oak Park,,1067,,1915,1,Garage,1,No,259900,No,,Gloor Realty Company,41.882014,-87.785683,1
+9223929,Single Family Residential,Oak Park,IL,60304,368800,4,2.5,Oak Park,,2184,4761,1912,2,Garage,1,No,368800,Yes,355000,RE/MAX,41.871138,-87.786255,0
+9224504,Single Family Residential,Oak Park,IL,60304,365000,3,1,Oak Park,1688,1688,4199,1918,2,Garage,1,No,365000,No,,Baird & Warner,41.877463,-87.787179,0
+9138317,Single Family Residential,Oak Park,IL,60302,894900,4,3.5,Oak Park,,2828,,1917,2,Garage,91,Yes,899900,Yes,383500,Weichert Realtors,41.900712,-87.786242,1
+8961108,Single Family Residential,Oak Park,IL,60302,724500,4,2.5,Oak Park,3412,3412,5087,1928,2,Garage,326,Yes,749500,Yes,707500,Gagliardo Realty Associates LLC,41.907052,-87.794127,0
+9104785,Condo/Coop,Oak Park,IL,60304,52000,1,1,Oak Park,750,750,,1925,0,None,144,Yes,56000,No,,Casey & Wagner Real Estate,41.870454,-87.794304,0
+9213267,Townhouse,Oak Park,IL,60304,417400,3,3,Oak Park,2800,2800,,2005,2,Garage,11,No,417400,No,,Keller Williams,41.8673962,-87.79384,0
+9195801,Condo/Coop,Oak Park,IL,60304,134900,2,1,Oak Park,1000,1000,,1926,1,None,28,Yes,149900,Yes,173000,Select a Fee RE System,41.870461,-87.794306,0
+9133673,Condo/Coop,Oak Park,IL,60302,311000,3,2.5,Oak Park,1500,1500,,2003,2,None,95,No,311000,Yes,410000,Baird & Warner,41.881211,-87.794676,0
+9198349,Single Family Residential,Oak Park,IL,60304,445000,5,2,Oak Park,,2263,,1913,3,Garage,25,No,445000,Yes,487500,Weichert Realtors,41.873309,-87.794903,1
+9220608,Single Family Residential,Oak Park,IL,60304,264000,2,2,Oak Park,1134,1134,,1919,2,None,4,No,264000,Yes,102500,Gagliardo Realty Associates LLC,41.874322,-87.795875,0
+9137573,Single Family Residential,Oak Park,IL,60302,874000,4,3.5,Oak Park,3400,3400,,1935,4,Garage,92,Yes,899000,Yes,855000,Baird & Warner,41.907078,-87.789734,0
+9137047,Single Family Residential,Oak Park,IL,60302,1170000,4,4,Oak Park,4359,4359,8712,1930,2,Garage,92,Yes,1199700,Yes,1250000,Beyond Properties Realty Group,41.9068244,-87.799861,0
+9205694,Condo/Coop,Oak Park,IL,60302,179000,2,1,Oak Park,,1067,,1928,0,None,18,No,179000,No,,Gagliardo Realty Associates LLC,41.881301,-87.790571,0
+9207327,Condo/Coop,Oak Park,IL,60302,119500,1,1,Oak Park,725,725,,1970,1,None,17,No,119500,Yes,89900,Illinois Real Estate Partners Inc,41.881909,-87.794695,0
+9210695,Single Family Residential,Oak Park,IL,60302,795000,4,2.5,Oak Park,,2184,,1891,2,Garage,14,No,795000,Yes,245000,Gloor Realty Company,41.882373,-87.791535,0
+9154664,Townhouse,Oak Park,IL,60302,544900,4,3.5,Oak Park,2700,2700,,2015,2,Garage,71,No,529900,No,,Baird & Warner,41.8808594,-87.80072,0
+9213051,Condo/Coop,Oak Park,IL,60302,259000,2,1.5,Oak Park,,1214,,1930,1,None,11,No,259000,No,,Baird & Warner,41.8820603,-87.79059,0
+9177229,Condo/Coop,Oak Park,IL,60302,79000,1,1,Oak Park,,906,,,1,None,46,Yes,89000,No,,@properties,41.88182,-87.792347,0
+9193410,Townhouse,Oak Park,IL,60302,489900,3,4,Oak Park,2850,2850,,2007,2,Garage,30,No,489900,Yes,501000,Baird & Warner,41.8798096,-87.80077,0
+9218038,Condo/Coop,Oak Park,IL,60302,94900,1,1,Oak Park,526,526,,1968,1,Garage,7,No,94900,Yes,107000,Pav Realtors,41.880791,-87.791494,0
+9196010,Single Family Residential,Oak Park,IL,60304,389500,3,2,Oak Park,1676,1676,3149,1923,2,Garage,28,Yes,399000,Yes,256000,@properties,41.879274,-87.788983,1
+9219917,Townhouse,Oak Park,IL,60302,449000,3,3.5,Oak Park,2394,2394,,2006,2,Garage,4,No,449000,Yes,405000,Weichert Realtors,41.880755,-87.800972,1
+9220268,Single Family Residential,Oak Park,IL,60304,599000,4,2.5,Oak Park,1854,1854,,1900,2,Garage,4,No,599000,Yes,516000,Gloor Realty Company,41.878484,-87.795698,0
+9220518,Single Family Residential,Oak Park,IL,60302,484900,4,3,Oak Park,2800,2800,,1892,4,Garage,4,No,484900,No,,Gullo & Associates,41.88214,-87.796606,1
+9221463,Condo/Coop,Oak Park,IL,60302,204500,2,1,Oak Park,,1067,,1970,1,None,3,No,204500,No,,RE/MAX,41.8812149,-87.800926,0
+9115866,Condo/Coop,Oak Park,IL,60302,70000,1,1,Oak Park,,906,,,1,None,121,Yes,82500,Yes,55000,@properties,41.880656,-87.796564,0
+9222805,Single Family Residential,Oak Park,IL,60304,359000,3,1.5,Oak Park,1273,1273,,1912,2,Garage,2,No,359000,Yes,168000,Classic Properties,41.875084,-87.79077,0
+9208702,Condo/Coop,Oak Park,IL,60302,239000,2,1,Oak Park,1445,1445,,,1,None,15,Yes,249000,Yes,250000,Gagliardo Realty Associates LLC,41.882343,-87.794707,0
+9175200,Townhouse,Oak Park,IL,60302,325000,3,2.5,Oak Park,1620,1620,,1978,1,None,49,Yes,335000,Yes,287000,Weichert Realtors,41.888216,-87.791276,0
+9224852,Condo/Coop,Oak Park,IL,60302,225000,2,1,Oak Park,1100,1100,,1905,1,None,1,No,225000,Yes,202000,RE/MAX,41.8867499,-87.789414,1
+9225090,Townhouse,Oak Park,IL,60302,459000,3,3.5,Oak Park,2450,2450,,2007,2,Garage,1,No,459000,No,,Gloor Realty Company,41.880453,-87.800844,0
+9184893,Condo/Coop,Oak Park,IL,60301,180000,1,1,Oak Park,895,895,,2004,0,None,38,Yes,184000,Yes,251000,Gloor Realty Company,41.888351,-87.792954,0
+9175129,Condo/Coop,Oak Park,IL,60302,134900,1,1,Oak Park,1100,1100,,1930,1,None,50,No,134900,No,,Century 21,41.881469,-87.781703,0
+9187761,Single Family Residential,Oak Park,IL,60302,799000,6,3,Oak Park,3100,3100,8550,1924,2,Garage,36,No,799000,No,,Baird & Warner,41.895795,-87.782819,1
+9093062,Single Family Residential,Oak Park,IL,60302,279000,4,2,Oak Park,1959,1959,,1917,0,None,168,Yes,289000,No,,Weichert Realtors,41.89668,-87.78299,0
+9173264,Single Family Residential,Oak Park,IL,60304,519000,5,2,Oak Park,2600,2600,5039,1904,3,Garage,51,Yes,529000,Yes,545000,@properties,41.875657,-87.784669,0
+9208435,Single Family Residential,Oak Park,IL,60304,450000,4,2.5,Oak Park,2050,2050,3149,1938,2,Garage,16,No,450000,No,,"Suburban Life Realty, Ltd.",41.866715,-87.783651,1
+9214317,Condo/Coop,Oak Park,IL,60302,67000,1,1,Oak Park,900,900,,1960,1,None,10,No,67000,No,,Pennan Properties LLC,41.881457,-87.782299,1
+9216623,Condo/Coop,Oak Park,IL,60302,180000,2,1,Oak Park,,1067,,1935,2,None,8,No,180000,No,,RE/MAX,41.882544,-87.784061,0
+9101488,Condo/Coop,Oak Park,IL,60301,157000,2,2,Oak Park,1200,1200,,1971,0,None,151,Yes,175000,Yes,173000,Royal Serv Rlty Chgo Metro Pro,41.889021,-87.797929,0
+9162310,Single Family Residential,Oak Park,IL,60304,489000,4,1.5,Oak Park,,1687,5623,1904,2,Garage,64,Yes,510000,No,,Historic Homes Realty,41.869865,-87.800159,1
+9185242,Condo/Coop,Oak Park,IL,60302,249700,3,2,Oak Park,1300,1300,,1965,1,None,29,Yes,249900,Yes,139100,Puzzle Realty Co,41.8812843,-87.800295,0
+9131784,Single Family Residential,Oak Park,IL,60304,644900,4,3.5,Oak Park,,2828,,,2,Garage,99,Yes,649000,Yes,244500,Weichert Realtors,41.871378,-87.798839,0
+9209381,Single Family Residential,Oak Park,IL,60304,342800,3,1,Oak Park,,1258,3123,1917,2,Garage,15,No,342800,No,,RE/MAX,41.876155,-87.800086,0
+9157299,Single Family Residential,Oak Park,IL,60304,639000,3,2.5,Oak Park,,1853,5000,1921,4,Garage,68,Yes,649900,No,,Baird & Warner,41.875555,-87.800067,0
+9206720,Condo/Coop,Oak Park,IL,60302,84000,1,1,Oak Park,900,900,,,1,None,17,No,84000,No,,Baird & Warner,41.8804182,-87.799583,0
+8843247,Single Family Residential,Oak Park,IL,60304,499000,3,2,Oak Park,2900,2900,,1909,2,Garage,448,Yes,539900,Yes,180000,Weichert Realtors,41.876474,-87.798297,0
+9223349,Single Family Residential,Oak Park,IL,60304,375000,4,1.5,Oak Park,,1687,,1911,2,Garage,2,No,375000,No,,RE/MAX,41.870005,-87.796915,0
+9155835,Single Family Residential,Oak Park,IL,60304,524900,5,3,Oak Park,2736,2736,,1915,2,Garage,70,Yes,559900,No,,Gloor Realty Company,41.8778677,-87.797502,1
+9223842,Condo/Coop,Oak Park,IL,60302,185000,2,1.5,Oak Park,1000,1000,,1965,1,None,1,No,185000,Yes,104000,Baird & Warner,41.885211,-87.799314,0
+9223732,Single Family Residential,Oak Park,IL,60304,1095000,6,4.5,Oak Park,5347,5347,,1909,2,Garage,1,No,1095000,Yes,300000,Baird & Warner,41.895353,-87.798125,1
+9162205,Condo/Coop,Oak Park,IL,60301,72000,2,2,Oak Park,,1382,,,0,None,64,Yes,89900,No,,Chicago Area Realty Inc,41.888262,-87.799398,0
+24067313,Single Family Residential,Oak Park,IL,60302,892000,4,2.5,Oak Park,2541,2541,10890,1893,1,Garage,10,Yes,899500,Yes,887000,ForSaleByOwner.com,41.897394,-87.798808,0
+9187957,Single Family Residential,Oak Park,IL,60302,1195000,6,4.5,Oak Park,4454,4454,,1888,2,Garage,36,Yes,1295000,No,,Baird & Warner,41.892233,-87.797989,0
+9164338,Single Family Residential,Oak Park,IL,60302,420000,5,1.5,Oak Park,1810,1810,,1914,2,Garage,60,Yes,490000,No,,Gagliardo Realty Associates LLC,41.901334,-87.790325,0
+9188517,Single Family Residential,Oak Park,IL,60302,499900,3,1.5,Oak Park,2058,2058,6198,1954,2,Garage,36,No,499900,No,,d'aprile properties,41.907532,-87.792231,1
+9196563,Single Family Residential,Oak Park,IL,60302,899000,3,3,Oak Park,3336,3336,,1925,2,Garage,28,No,899000,Yes,869000,Baird & Warner,41.90516,-87.797504,0
+9225017,Single Family Residential,Oak Park,IL,60302,825000,4,3.5,Oak Park,,2828,,1933,2,Garage,1,No,825000,Yes,879000,@properties,41.904693,-87.800609,0
+9155669,Condo/Coop,Oak Park,IL,60302,119900,1,1,Oak Park,,906,,,1,None,70,Yes,129900,Yes,176000,Redfin Corporation,41.8798061,-87.801883,0
+9189004,Condo/Coop,Oak Park,IL,60302,95000,1,1,Oak Park,800,800,,,2,None,35,No,95000,Yes,140000,Gloor Realty Company,41.880629,-87.802769,0
+8973468,Condo/Coop,Oak Park,IL,60302,106490,1,1,Oak Park,,906,,1971,1,None,312,Yes,118900,Yes,132500,Baird & Warner,41.883775,-87.80202,0
+9162857,Single Family Residential,Oak Park,IL,60302,650000,4,2.5,Oak Park,3500,3500,8498,1904,4,Garage,63,No,650000,Yes,730000,@properties,41.881869,-87.80281,0
+9207414,Condo/Coop,Oak Park,IL,60302,120000,1,1,Oak Park,1000,1000,,1970,1,None,16,No,120000,Yes,143500,RE/MAX,41.881127,-87.801132,0
+9157692,Condo/Coop,Oak Park,IL,60302,209000,2,1,Oak Park,1490,1490,,,1,Garage,67,Yes,224900,Yes,233500,@properties,41.880304,-87.803456,0
+9205424,Townhouse,Oak Park,IL,60302,469000,3,3.5,Oak Park,2450,2450,,2006,2,Garage,18,No,469000,Yes,372000,Baird & Warner,41.8801678,-87.801176,0
+9122881,Condo/Coop,Oak Park,IL,60302,62000,1,1,Oak Park,492,492,,,0,None,110,Yes,67000,No,,RE/MAX,41.880629,-87.802769,1
+9193231,Single Family Residential,Oak Park,IL,60304,595000,4,2.5,Oak Park,,2184,,1908,3,Garage,30,Yes,615000,No,,Baird & Warner,41.876079,-87.802605,1
+9220369,Single Family Residential,Oak Park,IL,60304,949900,5,5,Oak Park,3800,3800,6899,2016,3,Garage,4,No,949900,No,,RE/MAX,41.86779,-87.80148,0
+9220516,Single Family Residential,Oak Park,IL,60304,724500,5,4,Oak Park,,3792,8550,1909,4,Garage,4,No,724500,Yes,589500,Weichert Realtors,41.86836,-87.802333,0
+9193756,Condo/Coop,Oak Park,IL,60302,79000,1,1,Oak Park,,906,,,1,None,30,Yes,89000,Yes,127000,Gagliardo Realty Associates LLC,41.882284,-87.802824,0
+9195147,Condo/Coop,Oak Park,IL,60302,140000,1,1,Oak Park,,906,,1925,0,None,29,Yes,160000,No,,Baird & Warner,41.8819492,-87.803396,0
+9212410,Condo/Coop,Oak Park,IL,60302,575000,2,2.5,Oak Park,1932,1932,,2008,2,Garage,11,No,575000,No,,@properties,41.8863993,-87.802218,0
+9202167,Condo/Coop,Oak Park,IL,60302,393000,3,2,Oak Park,2100,2100,,1929,1,Garage,22,Yes,399000,Yes,390000,Baird & Warner,41.885988,-87.801168,1
+9155017,Single Family Residential,Oak Park,IL,60302,894900,4,3.5,Oak Park,,2828,,1899,2,Garage,71,Yes,899900,Yes,293500,Weichert Realtors,41.898467,-87.802787,0
+9188696,Condo/Coop,Oak Park,IL,60302,109000,1,1,Oak Park,800,800,,1925,1,Garage,35,No,109000,Yes,110000,Niche Realty LLC,41.881761,-87.776581,1
+8995937,Multi-Family,Oak Park,IL,60302,459000,6,3,Oak Park,,3453,5227,1924,3,Garage,290,Yes,479000,Yes,550000,Historic Homes Realty,41.882384,-87.776949,0
+9206783,Single Family Residential,Oak Park,IL,60302,545000,6,3.5,Oak Park,3134,3134,6189,1907,3,Garage,17,No,545000,Yes,370000,Xi Zhang,41.881357,-87.776782,1
+9209526,Single Family Residential,Oak Park,IL,60304,312500,3,2,Oak Park,1544,1544,5292,1918,2,Garage,15,No,312500,Yes,207500,RE/MAX,41.86604,-87.776952,0
+9151878,Multi-Family,Oak Park,IL,60304,739900,7,3,Oak Park,,4070,,1909,2,Garage,73,Yes,749900,Yes,230000,Baird & Warner,41.8731,-87.777209,0
+9117187,Condo/Coop,Oak Park,IL,60302,103000,1,1,Oak Park,,906,,1925,0,None,119,Yes,115900,No,,Coldwell Banker,41.881761,-87.776581,0
+9195424,Single Family Residential,Oak Park,IL,60304,339900,4,2,Oak Park,1227,1227,4181,1926,3,Garage,29,Yes,359000,No,,Baird & Warner,41.865912,-87.778174,0
