@@ -1,0 +1,234 @@
+#  R-Scripts for Handout 2
+#  Download Diamonds.csv from workshop webpage
+#  http://http://course1.winona.edu/bdeppa/dsciwork.html
+#
+#
+
+Diamonds = read.table(file.choose(),header=T,sep=",")
+
+names(Diamonds)
+head(Diamonds,6)
+str(Diamonds)
+summary(Diamonds)
+
+boxplot(Price~Clarity,col="lightblue",xlab="Clarity",ylab="Price ($)",data=Diamonds)
+
+clarity = ordered(Diamonds$Clarity,levels=c("SI2","SI1","VS2","VS1",
+"VVS2","VVS1","IF"))  
+boxplot(Price~clarity,data=Diamonds,col="lightblue",xlab="Clarity",
+ylab="Price ($)")
+by(Diamonds$Price,clarity,summary)
+
+
+lm1 = lm(Price~Clarity,data=Diamonds)
+summary(lm1)
+
+plot(Carats~clarity,data=Diamonds,xlab="Clarity",ylab="Carat Size",col="yellow")
+
+
+lm2 = lm(Price~Carats+Clarity,data=Diamonds)
+summary(lm2)
+
+lm3 = lm(Price~Carats*Clarity,data=Diamonds)
+summary(lm3)
+anova(lm3)
+
+plot(Price~Carats,data=Diamonds)
+abline(-1608.2,7695.61,lwd=3,col=1)
+abline(-1608.2 - 1309.86,7695.61-327.02,lwd=3,col=2)
+abline(-1608.2 - 1263.88,7695.61-897.44,lwd=3,col=3)
+abline(-1608.2 - 913.41,7695.61-110.29,lwd=3,col=4)
+abline(-1608.2 - 659.17,7695.61+76.61,lwd=3,col=5)
+abline(-1608.2 - 386.98,7695.61+153.78,lwd=3,col=6)
+abline(-1608.2 - 159.64,7695.61-17.79,lwd=3,col=7)
+
+plot(lm3)
+
+# Install package car
+
+library(car)
+lm3 = lm(Price~Carats*Clarity,data=Diamonds)
+inverseResponsePlot(lm3)
+
+hist(Diamonds$Price,xlab="Price",col="blue",main="Distribution of Diamond Prices")
+hist(log(Diamonds$Price),xlab="log(Price)",main="Distribution of log(Price)",col="green")
+
+results = powerTransform(Diamonds$Price)
+summary(results)
+
+temp = Diamonds
+temp$Price = log(Diamonds$Price)
+lm4 = lm(Price~Carats*Clarity,data=temp)
+plot(lm4)
+
+
+Diamonds$Price = log(Diamonds$Price)
+plot(Diamonds$Carat,Diamonds$Price,xlab="Carat Size",ylab="Price ($)")
+
+lines(lowess(Diamonds$Carat[Diamonds$Clarity=="SI2"],
+Diamonds$Price[Diamonds$Clarity=="SI2"]),col=1,lty=1,lwd=3)
+lines(lowess(Diamonds$Carat[Diamonds$Clarity=="SI1"],
+Diamonds$Price[Diamonds$Clarity=="SI1"]),col=2,lty=1,lwd=3)
+lines(lowess(Diamonds$Carat[Diamonds$Clarity=="VS2"],
+Diamonds$Price[Diamonds$Clarity=="VS2"]),col=3,lty=1,lwd=3)
+lines(lowess(Diamonds$Carat[Diamonds$Clarity=="VS1"],
+Diamonds$Price[Diamonds$Clarity=="VS1"]),col=4,lty=1,lwd=3)
+lines(lowess(Diamonds$Carat[Diamonds$Clarity=="VVS2"],
+Diamonds$Price[Diamonds$Clarity=="VVS2"]),col=5,lty=1,lwd=3)
+lines(lowess(Diamonds$Carat[Diamonds$Clarity=="VVS1"],
+Diamonds$Price[Diamonds$Clarity=="VVS1"]),col=6,lty=1,lwd=3)
+lines(lowess(Diamonds$Carat[Diamonds$Clarity=="IF"],
+Diamonds$Price[Diamonds$Clarity=="IF"]),col=7,lty=1,lwd=3)
+
+legend(1.5,8.0,levels(clarity),lty=1,lwd=3,col=1:7)
+
+par(mfrow=c(2,2))
+lm5 = lm(Price~poly(Carats,2)*Clarity,data=Diamonds)
+lm5.2 = lm(Price~(Carats+I(Carats^2))*Clarity,data=Diamonds)
+summary(lm5)
+plot(lm5)
+
+lm6 = lm(Price~poly(Carats,3)*Clarity,data=Diamonds)
+summary(lm6)
+plot(lm6)
+par(mfrow=c(1,1))
+
+# Code for Tasks on page 28, you will first re-load the Diamonds.csv file
+
+Diamonds = read.table(file.choose(),header=T,sep=",")
+Diamonds$Price = log(Diamonds$Price)
+Diamonds.train = Diamonds[Diamonds$Test<2,]
+Diamonds.test = Diamonds[Diamonds$Test==2,]
+
+# Prediction Accuracy function we will be using extensively
+
+PredAcc = function(y,ypred){
+  	RMSEP = sqrt(mean((y-ypred)^2))
+  	MAE = mean(abs(y-ypred))
+  	MAPE = mean(abs(y-ypred)/y)*100
+  	cat("RMSEP\n")
+  	cat("===============\n")
+  	cat(RMSEP,"\n\n")
+  	cat("MAE\n")
+ 	cat("===============\n")
+  	cat(MAE,"\n\n")
+  	cat("MAPE\n")
+  	cat("===============\n")
+  	cat(MAPE,"\n\n")
+  	return(data.frame(RMSEP=RMSEP,MAE=MAE,MAPE=MAPE))
+}
+
+
+#
+#  Chicago Homes Example - first read in the .csv files ChiHomes(train).csv and ChiHomes(test).csv from
+#  the workshop webpage: http://course1.winona.edu/bdeppa/dsciwork.html
+#
+
+ChiTrain = read.table(file.choose(),header=T,sep=",")
+ChiTest = read.table(file.choose(),header=T,sep=",")
+names(ChiTrain)
+head(ChiTrain)
+str(ChiTrain)
+
+ChiTrain$ZIP = as.factor(ChiTrain$ZIP)
+ChiTest$ZIP = as.factor(ChiTest$ZIP)
+
+pairs(ChiTrain[,c(4:8,10,13,14)])
+
+base.lm = lm(ListPrice~.,data=ChiTrain)
+summary(base.lm)
+par(mfrow=c(2,2))
+plot(base.lm)
+par(mfrow=c(1,1))
+
+table(ChiTrain$City,ChiTrain$ZIP)
+
+table(ChiTrain$City)
+
+base.lm2 = lm(ListPrice~.-ZIP,data=ChiTrain)
+summary(base.lm2)
+par(mfrow=c(2,2))
+plot(base.lm2)
+par(mfrow=c(1,1))
+
+ChiTrain[c(325,650),]
+
+base.lm3 = lm(ListPrice~.-ZIP,data=ChiTrain,subset=-325)
+ChiTrain2 = ChiTrain[-325,-3]
+plot(base.lm3)
+
+hist(ChiTrain2$ListPrice,xlab=”List Price ($)”)
+summary(ChiTrain2$ListPrice)
+
+require(car)
+results = powerTransform(ChiTrain2$ListPrice)
+summary(results)
+
+log.lm1 = lm(log(ListPrice)~.,data=ChiTrain2)
+summary(log.lm1)
+par(mfrow=c(2,2))
+plot(log.lm1)
+par(mfrow=c(1,1))
+
+results = powerTransform(ChiTrain2$ImputedSQFT)
+summary(results)
+
+tSQFT = -(1/(ChiTrain2$ImputedSQFT)^.25)
+ChiTrain3 = ChiTrain2
+ChiTrain3$ImputedSQFT = tSQFT
+log.lm2 = lm(log(ListPrice)~.,data=ChiTrain3)
+summary(log.lm2)
+
+par(mfrow=c(2,2))
+plot(log.lm2)
+par(mfrow=c(1,1))
+
+log.step = step(log.lm2)
+summary(log.step)
+
+ChiTest2 = ChiTest
+ChiTest2$ImputedSQFT = -(1/(ChiTest$ImputedSQFT)^.25)
+ypredlog = predict(log.step,newdata=ChiTest2)
+ypred = exp(ypredlog)
+
+PredAcc(ChiTest2$ListPrice,ypred)
+
+plot(ChiTest2$ListPrice,ypred,xlab="Actual List Price",ylab="Predicted List Price")
+abline(0,1,lwd=3,col="blue")
+bad = identify(ChiTest2$ListPrice,ypred)
+bad
+
+yact = ChiTest2$ListPrice[-bad]
+ypred2 = ypred[-bad]
+PredAcc(yact,ypred2)
+
+ChiTest2[bad,]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

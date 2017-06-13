@@ -1,0 +1,188 @@
+#
+# R Code for Handout 3 
+#
+#  First read in the Diamonds.csv file again.
+#
+#
+Diamonds = read.table(file.choose(),header=T,sep=",")
+names(Diamonds)
+
+Diamonds$Price = log(Diamonds$Price)
+Diamonds = Diamonds[,-c(5,6,10)]
+str(Diamonds)
+
+dim(Diamonds)     
+n = nrow(Diamonds)
+n
+
+train = sample(1:n,floor(.66666*n),replace=F)
+length(train)
+
+.66666*n
+
+Diamonds.train = Diamonds[train,]
+Diamonds.valid = Diamonds[-train,]
+
+dim(Diamonds.train)
+dim(Diamonds.valid)
+
+n = nrow(Diamonds)
+m1 = floor(n*.60)                                                             
+m2 = floor(n*.20)                         
+RO = sample(1:n,size=n,replace=F)            
+train = RO[1:m1]
+valid = RO[(m1+1):(m1+m2+1)]
+test = RO[(m1+m2+2):n]
+length(train)
+length(valid)
+length(test)
+1614+539+537
+
+Diamonds.train = Diamonds[train,]
+Diamonds.valid = Diamonds[valid,]
+Diamonds.test = Diamonds[test,]
+
+PredAcc = function(y,ypred){
+    RMSEP = sqrt(mean((y-ypred)^2))
+    MAE = mean(abs(y-ypred))
+    MAPE = mean(abs(y-ypred)/y)*100
+    cat("RMSEP\n")
+    cat("===============\n")
+    cat(RMSEP,"\n\n")
+    cat("MAE\n")
+    cat("===============\n")
+    cat(MAE,"\n\n")
+    cat("MAPE\n")
+    cat("===============\n")
+    cat(MAPE,"\n\n")
+    return(data.frame(RMSEP=RMSEP,MAE=MAE,MAPE=MAPE))
+}
+
+diam.lm1 = lm(Price~.,data=Diamonds.train)
+summary(diam.lm1)
+
+yact = exp(Diamonds.valid$Price)
+ypred = exp(predict(diam.lm1,newdata=Diamonds.valid))
+
+results = PredAcc(yact,ypred)
+results
+
+results$RMSEP
+results$MAE
+results$MAPE
+
+diam.lm2 = lm(Price~poly(Carats,3)+Clarity+Color+Cut+TDdiff+TDratio,data=Diamonds.train)
+summary(diam.lm2)
+
+ypred = exp(predict(diam.lm2,newdata=Diamonds.valid))
+results2 = PredAcc(yact,ypred)
+
+diam.lm3 = lm(Price~poly(Carats,3)+Clarity*Color+Clarity*Cut+Color*Cut+TDdiff+TDratio,
+data=Diamonds.train)
+summary(diam.lm3)
+
+ypred = exp(predict(diam.lm3,newdata=Diamonds.valid))
+results3 = PredAcc(yact,ypred)
+
+diam.step = step(diam.lm3)
+summary(diam.step)
+
+ypred = exp(predict(diam.step,newdata=Diamonds.valid))
+results.step = PredAcc(yact,ypred)
+
+ypred = exp(predict(diam.step,newdata=Diamonds.test))
+yact = exp(Diamonds.test$Price)
+results.test = PredAcc(yact,ypred)
+
+kfold.MLR = function(fit,data,k=10) {
+  sum.sqerr = rep(0,k)
+  sum.abserr = rep(0,k)
+  sum.pererr = rep(0,k)
+  n = nrow(data)
+  y = exp(fit$model[,1])
+  folds = sample(1:k,nrow(data),replace=T)
+  for (i in 1:k) {
+    fit2 <- lm(formula(fit),data=data[folds!=i,])
+    ypred = exp(predict(fit2,newdata=data[folds==i,]))
+    sum.sqerr[i] = sum((y[folds==i]-ypred)^2)
+    sum.abserr[i] = sum(abs(y[folds==i]-ypred))
+    sum.pererr[i] = sum(abs(y[folds==i]-ypred)/y[folds==i])
+  }
+  cv = return(data.frame(RMSEP=sqrt(sum(sum.sqerr)/n),
+                         MAE=sum(sum.abserr)/n,
+                         MAPE=100*sum(sum.pererr)/n))
+}
+
+diam.lm1 = lm(formula(diam.lm1),data=Diamonds)  
+diam.lm2 = lm(formula(diam.lm2),data=Diamonds)
+diam.lm3 = lm(formula(diam.lm3),data=Diamonds)
+diam.step = lm(formula(diam.step),data=Diamonds)
+
+kfold.MLR(diam.lm1,data=Diamonds)
+kfold.MLR(diam.lm2,data=Diamonds)
+kfold.MLR(diam.lm3,data=Diamonds)
+kfold.MLR(diam.step,data=Diamonds)
+
+kfold.MLR(diam.step,data=Diamonds)
+
+MLR.sscv = function(fit,data,p=.667,M=100) {
+  RMSEP = rep(0,M)
+  MAEP = rep(0,M)
+  MAPEP = rep(0,M)
+  y = exp(fit$model[,1])
+  n = nrow(data)
+  for (i in 1:M) {
+    ss = floor(n*p)
+    sam = sample(1:n,ss,replace=F)
+    fit2 = lm(formula(fit),data=data[sam,])
+    ypred = exp(predict(fit2,newdata=data[-sam,]))
+    RMSEP[i] = sqrt(mean((y[-sam]-ypred)^2))
+    MAEP[i] = mean(abs(y[-sam]-ypred))
+    MAPEP[i]=mean(abs(y[-sam]-ypred)/y[-sam])*100
+  }
+  cv = return(data.frame(RMSEP=RMSEP,MAEP=MAEP,MAPEP=MAPEP))
+}
+
+MLR.sscv(diam.step,data=Diamonds,M=1)
+
+results = MLR.sscv(diam.step,Diamonds,M=1000)
+hist(results$RMSEP)
+hist(results$MAE)
+hist(results$MAPE)
+
+summary(results)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
