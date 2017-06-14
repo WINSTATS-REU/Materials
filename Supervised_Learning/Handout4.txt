@@ -1,0 +1,741 @@
+#
+# R Code for Handout 4 - Tree-based Regression
+#
+#
+# For the preliminary example read in the file Ozone.csv from the workshop
+# webpage - http://course1.winona.edu/bdeppa/dsciwork.html
+#
+
+Ozdata = read.table(file.choose(),header=T,sep=",")
+library(rpart)
+library(rpart.plot)
+oz.rpart <- rpart(upoz ~ inbh + safb,data=Ozdata)
+summary(oz.rpart)
+plot(oz.rpart)
+text(oz.rpart)
+
+post(oz.rpart,"Regression Tree for Upper Ozone Concentration")
+
+x1 = seq(min(Ozdata$inbh),max(Ozdata$inbh),length=100) 
+x2 = seq(min(Ozdata$safb),max(Ozdata$safb),length=100) 
+x = expand.grid(inbh=x1,safb=x2) 
+ypred = predict(oz.rpart,newdata=x)
+persp(x1,x2,z=matrix(ypred,100,100),theta=45,xlab="INBH",ylab="SAFB",zlab="UPOZ")
+
+plot(oz.rpart,uniform=T,branch=1,compress=T,margin=0.05,cex=.5)
+text(oz.rpart,all=T,use.n=T,fancy=T,cex=.7)
+title(main="Regression Tree for Upper Ozone Concentration")
+
+require(rpart.plot)
+prp(oz.rpart,main="Tree for Upper Ozone Concentration",type=4)
+
+# Example 1 - Diamonds data
+
+Diamonds = read.table(file.choose(),header=T,sep=",")
+names(Diamonds)
+
+table(Diamonds$Test)
+
+#  We will use these again so save them
+
+diam.train = Diamonds[Diamonds$Test==0,-10]
+diam.valid = Diamonds[Diamonds$Test==1,-10]
+diam.test = Diamonds[Diamonds$Test==2,-10]
+
+tree1 = rpart(Price~.,data=diam.train)
+prp(tree1,type=3,main="Regression Tree for Diamond Prices")
+
+summary(tree1)
+
+par(mfrow=c(1,2))
+plot(diam.train$Price,predict(tree1),xlab="Actual Price",ylab="Fitted Values")
+abline(0,1)
+plot(predict(tree1),resid(tree1),xlab="Fitted Values",ylab="Residuals")
+abline(h=0)
+par(mfrow=c(1,1))
+
+tree2 = rpart(Price~.,data=diam.train,control=rpart.control(cp=.0001))
+prp(tree2,main="Large Regression Tree for Diamond Prices",cex=0.5)
+
+par(mfrow=c(1,2))
+plot(diam.train$Price,predict(tree2),xlab="Actual Price",ylab="Fitted Price")
+abline(0,1,lwd=2,col=”blue”)
+plot(predict(tree2),resid(tree2),xlab=”Fitted Values”,ylab="Residuals")
+abline(h=0,lwd=2,col="red")
+par(mfrow=c(1,1))
+
+PredAcc = function(y,ypred){
+    RMSEP = sqrt(mean((y-ypred)^2))
+    MAE = mean(abs(y-ypred))
+    MAPE = mean(abs(y-ypred)/y)*100
+    cat("RMSEP\n")
+    cat("===============\n")
+    cat(RMSEP,"\n\n")
+    cat("MAE\n")
+    cat("===============\n")
+    cat(MAE,"\n\n")
+    cat("MAPE\n")
+    cat("===============\n")
+    cat(MAPE,"\n\n")
+    return(data.frame(RMSEP=RMSEP,MAE=MAE,MAPE=MAPE))
+}
+
+ypred = predict(tree1,newdata=diam.valid)
+PredAcc(diam.valid$Price,ypred)
+
+ypred2 = predict(tree2,newdata=diam.valid)
+PredAcc(diam.valid$Price,ypred2)
+
+bestMLR = lm(log(Price)~poly(Carats,3)+Clarity*Color + Cut + TDdiff + TDratio,data=diam.train)
+ypredlog = predict(bestMLR,newdata=diam.valid)
+ypredMLR = exp(ypredlog)
+PredAcc(diam.valid$Price,ypredMLR)
+
+tree3 = rpart(log(Price)~.,data=diam.train,cp=.0001)
+ypredlog = predict(tree3,newdata=diam.valid)
+ypred3 = exp(ypredlog)
+PredAcc(diam.valid$Price,ypred3)
+
+tree4 = rpart(log(Price)~.,data=diam.train,cp=.0001)
+plotcp(tree4)
+
+tree.opt = rpart(log(Price)~.,data=diam.train,cp=.00058)
+ypredlog = predict(tree.opt,newdata=diam.valid)
+ypred = exp(ypredlog)
+PredAcc(diam.valid$Price,ypred)
+
+?rpart.control
+
+tree.opt = rpart(log(Price)~.,data=diam.train,control=rpart.control(cp=.00005,minsplit=5))
+ypredlog = predict(tree.opt,newdata=diam.valid)
+ypred = exp(ypredlog)
+PredAcc(diam.valid$Price,ypred)
+
+rpart.sscv = function(fit,data,p=.667,B=100,
+                      cp=fit$control$cp,minsplit=fit$control$minsplit) {
+    MSE = rep(0,B)
+    MAE = rep(0,B)
+    MAPE = rep(0,B)
+    y = fit$y
+    n = nrow(data)
+    ss <- floor(n*p)
+    for (i in 1:B) {
+        sam = sample(1:n,ss,replace=F)
+        fit2 = rpart(formula(fit),data=data[sam,],cp=cp,minsplit=minsplit)
+        ynew = predict(fit2,newdata=data[-sam,])
+        MSE[i] = mean((y[-sam]-ynew)^2)
+        MAE[i] = mean(abs(y[-sam]-ynew))
+        MAPE[i] = mean((abs(y[-sam]-ynew)/y[-sam]))
+    }
+    RMSEP = sqrt(mean(MSE))
+    MAEP = mean(MAE)
+    MAPEP = mean(MAPE)
+    cat("RMSEP\n")
+    cat("===============\n")
+    cat(RMSEP,"\n\n")
+    cat("MAEP\n")
+    cat("===============\n")
+    cat(MAEP,"\n\n")
+    cat("MAPEP\n")
+    cat("===============\n")
+    cat(MAPEP,"\n\n")
+    temp = data.frame(MSEP=MSE,MAEP=MAE,MAPEP=MAPE)
+    return(temp)
+}
+
+rpart.logsscv = function(fit,data,p=.667,B=100,
+                      cp=fit$control$cp,minsplit=fit$control$minsplit) {
+    MSE = rep(0,B)
+    MAE = rep(0,B)
+    MAPE = rep(0,B)
+    y = exp(fit$y)
+    n = nrow(data)
+    ss <- floor(n*p)
+    for (i in 1:B) {
+        sam = sample(1:n,ss,replace=F)
+        fit2 = rpart(formula(fit),data=data[sam,],cp=cp,minsplit=minsplit)
+        ynew = exp(predict(fit2,newdata=data[-sam,]))
+        MSE[i] = mean((y[-sam]-ynew)^2)
+        MAE[i] = mean(abs(y[-sam]-ynew))
+        MAPE[i] = mean((abs(y[-sam]-ynew)/y[-sam]))*100
+    }
+    RMSEP = sqrt(mean(MSE))
+    MAEP = mean(MAE)
+    MAPEP = mean(MAPE)
+    cat("RMSEP\n")
+    cat("===============\n")
+    cat(RMSEP,"\n\n")
+    cat("MAEP\n")
+    cat("===============\n")
+    cat(MAEP,"\n\n")
+    cat("MAPEP\n")
+    cat("===============\n")
+    cat(MAPEP,"\n\n")
+    temp = data.frame(MSEP=MSE,MAEP=MAE,MAPEP=MAPE)
+    return(temp)
+}
+
+#
+# Read in the Diamonds.csv file again!
+#
+
+Diamonds = read.table(file.choose(),header=T,sep=",")
+Diamonds = Diamonds[,-10]
+tree1 = rpart(log(Price)~.,data=Diamonds)
+
+results = rpart.logsscv(tree1,data=Diamonds,cp=.00005,minsplit=5)
+results = rpart.logsscv(tree1,data=Diamonds,cp=.0005,minsplit=5)
+results = rpart.logsscv(tree1,data=Diamonds,cp=.000025,minsplit=5)
+results = rpart.logsscv(tree1,data=Diamonds,cp=.00005,minsplit=3)
+
+# Combine the training and validation sets to fit the final model
+# before predicting the test diamonds.
+#
+temp = rbind(diam.train,diam.valid)
+rpart.final = rpart(log(Price)~.,data=temp,cp=.00005,minsplit=5)
+
+# Predict for the test cases using the model fit to the combined 
+# training and validation sets.
+#
+ypredlog = predict(rpart.final,newdata=diam.test)
+ypred.test = exp(ypredlog)
+
+# 
+# Tasks - you will need to read in the ChiHomes(train).csv and 
+# ChiHomes(test).csv files.
+#
+library(rpart)
+library(rpart.plot)
+
+ChiTrain = read.table(file.choose(),header=T,sep=",")
+ChiTest = read.table(file.choose(),header=T,sep=",")
+
+ChiTrain2 = ChiTrain[,-3]
+ChiTest2 = ChiTest[,-3]
+
+chi.rpart = rpart(log(ListPrice)~.,data=ChiTrain2)
+par(mfrow=c(1,1))
+plot(chi.rpart)
+text(chi.rpart)
+prp(chi.rpart,type=4,digits=4)
+
+
+#
+# Code for Task 3 on pg. 20
+#
+Diamonds = read.table(file.choose(),header=T,sep=",")
+library(rpart)
+library(rpart.plot)
+fit = rpart(log(Price)~.,data=Diamonds)
+
+tree.vary = function(fit,data) {
+    n = nrow(data)
+    sam = sample(1:n,floor(n*.5),replace=F)
+    temp = rpart(formula(fit),data=data[sam,])
+    prp(temp,type=4,digits=3)
+}
+
+tree.vary(fit,data=Diamonds)
+tree.vary(fit,data=Diamonds)
+tree.vary(fit,data=Diamonds)
+
+# Etc.
+
+library(ipred)
+
+diam.train = Diamonds[Diamonds$Test==0,-10]
+diam.valid = Diamonds[Diamonds$Test==1,-10]
+diam.test = Diamonds[Diamonds$Test==2,-10]
+
+diam.bag = bagging(log(Price)~.,data=diam.train,coob=T,nbagg=10,
+  control=rpart.control(cp=.005,minsplit=5,xval=0))
+diam.bag
+
+ypredlog = predict(diam.bag,newdata=diam.valid)
+ypred = exp(ypredlog)
+PredAcc(diam.valid$Price,ypred)
+
+
+diam.bag2 = bagging(log(Price)~.,data=diam.train,coob=T,nbagg=25,
+control=rpart.control(cp=.00005,minsplit=5,xval=0))
+diam.bag2
+ypredlog = predict(diam.bag2,newdata=diam.valid)
+ypred = exp(ypredlog)
+PredAcc(diam.valid$Price,ypred)
+
+
+diam.bag2 = bagging(log(Price)~.,data=diam.train,coob=T,nbagg=100,
+control=rpart.control(cp=.00005,minsplit=5,xval=0))
+diam.bag2
+ypredlog = predict(diam.bag2,newdata=diam.valid)
+ypred = exp(ypredlog)
+PredAcc(diam.valid$Price,ypred)
+
+
+diam.bag2 = bagging(log(Price)~.,data=diam.train,coob=T,nbagg=1000,
+control=rpart.control(cp=.00005,minsplit=5,xval=0))
+diam.bag2
+ypredlog = predict(diam.bag2,newdata=diam.valid)
+ypred = exp(ypredlog)
+PredAcc(diam.valid$Price,ypred)
+
+
+# WARNING DON'T RUN THE MODEL BELOW (VERY VERY SLOW)!
+diam.bag2 = bagging(log(Price)~.,data=diam.train,coob=T,nbagg=10000,
+control=rpart.control(cp=.00005,minsplit=5,xval=0))
+diam.bag2
+ypredlog = predict(diam.bag2,newdata=diam.valid)
+ypred = exp(ypredlog)
+PredAcc(diam.valid$Price,ypred)
+
+#
+# Split-sample CV for Bagged RPART models
+#
+bag.sscv = function(fit,data,p=.667,M=100,B=25,
+cp=fit$control$cp,minbucket=fit$control$minbucket,minsplit=fit$control$minsplit) {
+    OOBMSE = rep(0,M)
+    MSE = rep(0,M)
+    MAE = rep(0,M)
+    MAPE = rep(0,M)
+    y = fit$y
+    n = nrow(data)
+    ss <- floor(n*p)
+    for (i in 1:M) {
+         sam = sample(1:n,ss,replace=F)
+  fit2 = bagging(formula(fit),data=data[sam,],nbagg=B,coob=T,
+  control=rpart.control(cp=cp,
+                        minbucket=minbucket,
+                        minsplit=minsplit,
+                        xval=0))
+        ynew = predict(fit2,newdata=data[-sam,])
+        OOBMSE[i] = fit2$err
+        MSE[i] = mean((y[-sam]-ynew)^2)
+        MAE[i] = mean(abs(y[-sam]-ynew))
+        MAPE[i] = mean((abs(y[-sam]-ynew)/y[-sam]))
+    }
+    OOB.RMSEP = mean(OOBMSE)
+    RMSEP = sqrt(mean(MSE))
+    MAEP = mean(MAE)
+    MAPEP = mean(MAPE)
+    cat("OOB RMSEP\n")
+    cat("===============\n")
+    cat(OOB.RMSEP,"\n\n")
+    cat("RMSEP\n")
+    cat("===============\n")
+    cat(RMSEP,"\n\n")
+    cat("MAE\n")
+    cat("===============\n")
+    cat(MAEP,"\n\n")
+    cat("MAPE\n")
+    cat("===============\n")
+    cat(MAPEP,"\n\n")
+    temp = data.frame(OOB.RMSEP=OOBMSE,MSEP=MSE,MAEP=MAE,MAPEP=MAPE)
+    return(temp)
+}
+
+
+fit = rpart(log(Price)~.,data=Diamonds,cp=.00005,minsplit=5)
+bag.logsscv = edit(bag.logsscv)
+results = bag.logsscv(fit,Diamonds,M=25,B=50)
+
+
+#
+# Tasks with Chicago Homes Data - you may need to read in the
+# the two .csv files for these data ChiHomes(train) and ChiHomes(test).
+#
+library(rpart)
+library(rpart.plot)
+library(ipred)
+
+ChiTrain = read.table(file.choose(),header=T,sep=",")
+ChiTest = read.table(file.choose(),header=T,sep=",")
+
+ChiTrain2 = ChiTrain[,-3]
+ChiTest2 = ChiTest[,-3]
+
+#
+# You will need to replace the ?? in the code below with some values!!!
+#
+fit = rpart(log(ListPrice)~.,data=ChiTrain2,cp=??,minsplit=??)
+home.bag = bagging(log(ListPrice)~.,data=ChiTrain2,coob=T,nbagg=??,
+  control=rpart.control(cp=??,minsplit=??,xval=0))
+
+ypredlog = predict(home.bag,newdata=ChiTest2)
+ypred = exp(ypredlog)
+PredAcc(ChiTest2$ListPrice,ypred)
+
+#
+# RANDOM FORESTS - we will be reading in new data sets
+# Solubility(train).csv and Solubility(test).csv.
+#
+
+Solu.train = read.table(file.choose(),header=T,sep=",")
+Solu.test = read.table(file.choose(),header=T,sep=”",")
+names(Solu.train)
+str(Solu.train)
+head(Solu.train,3)
+
+dim(Solu.train)
+dim(Solu.test)
+
+solu.rf = randomForest(log10sol~.,data=Solu.train)
+solu.rf
+
+plot(Solu.train$log10sol,predict(solu.rf),xlab="Actual Log10(Solubility)",
+ylab="Predicted Log10(Solubility)")
+abline(0,1,lwd=3,col="blue")
+#
+# Split-sample CV for random forests.
+#
+rf.sscv = function(fit,data,p=.667,B=100,mtry=fit$mtry,ntree=fit$ntree) {
+    MSE = rep(0,B)
+    MAE = rep(0,B)
+    MAPE = rep(0,B)
+    y = fit$y
+    n = nrow(data)
+    ss <- floor(n*p)
+    for (i in 1:B) {
+        sam = sample(1:n,ss,replace=F)
+        fit2 = randomForest(formula(fit),data=data[sam,],mtry=mtry,ntree=ntree)
+        ynew = predict(fit2,newdata=data[-sam,])
+        MSE[i] = mean((y[-sam]-ynew)^2)
+        MAE[i] = mean(abs(y[-sam]-ynew))
+        MAPE[i] = mean((abs(y[-sam]-ynew)/y[-sam]))
+    }
+    RMSEP = sqrt(mean(MSE))
+    MAEP = mean(MAE)
+    MAPEP = mean(MAPE)
+    cat("RMSEP\n")
+    cat("===============\n")
+    cat(RMSEP,"\n\n")
+    cat("MAE\n")
+    cat("===============\n")
+    cat(MAEP,"\n\n")
+    cat("MAPE\n")
+    cat("===============\n")
+    cat(MAPEP,"\n\n")
+    temp = data.frame(MSEP=MSE,MAEP=MAE,MAPEP=MAPE)
+    return(temp)
+}
+
+#
+#  MAPE will be Inf for these examples because the actual 
+#  log10(Solubility) will be 0, i.e. Solubility = 1, for some 
+#  of the cases.
+
+solu.rf = randomForest(log10sol~.,data=Solu.train,mtry=20,ntree=500)
+results = rf.sscv(solu.rf,data=Solu.train,B=20)
+
+solu.rf = randomForest(log10sol~.,data=Solu.train,mtry=30,ntree=500)
+results = rf.sscv(solu.rf,data=Solu.train,B=20)
+
+solu.rf = randomForest(log10sol~.,data=Solu.train,mtry=40,ntree=500)
+results = rf.sscv(solu.rf,data=Solu.train,B=20)
+
+solu.rf = randomForest(log10sol~.,data=Solu.train,mtry=50,ntree=500)
+results = rf.sscv(solu.rf,data=Solu.train,B=20)
+
+solu.rf = randomForest(log10sol~.,data=Solu.train,mtry=60,ntree=500)
+results = rf.sscv(solu.rf,data=Solu.train,B=20)
+
+solu.rf = randomForest(log10sol~.,data=Solu.train,mtry=70,ntree=500)
+results = rf.sscv(solu.rf,data=Solu.train,B=20)
+
+solu.rf = randomForest(log10sol~.,data=Solu.train,mtry=80,ntree=500)
+results = rf.sscv(solu.rf,data=Solu.train,B=20)
+
+solu.rf = randomForest(log10sol~.,data=Solu.train,mtry=90,ntree=500)
+results = rf.sscv(solu.rf,data=Solu.train,B=20)
+
+
+# Your best mtry might not be mtry = 80, if not you can certainly use
+# that value instead in the code below.
+#
+solu.final = randomForest(log10sol~.,data=Solu.train,mtry=80,ntree=500)
+solu.final
+
+varImpPlot(solu.final)
+
+par(mfrow=c(2,2))
+partialPlot(solu.final,Solu.train,MolWeight)
+partialPlot(solu.final,Solu.train,NumCarbon)
+partialPlot(solu.final,Solu.train,NumNonHBonds)
+partialPlot(solu.final,Solu.train,SurfaceArea1)
+par(mfrow=c(1,1))
+
+plotmo(solu.final)
+
+ypred = predict(solu.final,newdata=Solu.test)
+PredAcc(Solu.test$log10sol,ypred)
+
+
+#
+# Tasks - read in the ChiHomes(train) and ChiHomes
+#
+library(randomForest)
+library(plotmo)
+
+ChiTrain = read.table(file.choose(),header=T,sep=",")
+ChiTest = read.table(file.choose(),header=T,sep=",")
+
+ChiTrain2 = ChiTrain[,-3]
+ChiTest2 = ChiTest[,-3]
+
+home.rf = randomForest(log(ListPrice)~.,data=ChiTrain2)
+home.rf
+varImpPlot(home.rf)
+par(mfrow=c(2,2))
+partialPlot(home.rf,ChiTrain2,ImputedSQFT)
+partialPlot(home.rf,ChiTrain2,BEDS)
+partialPlot(home.rf,ChiTrain2,LATITUDE)
+partialPlot(home.rf,ChiTrain2,LONGITUDE)
+par(mfrow=c(1,1))
+ypredlog = predict(home.rf,newdata=ChiTest2)
+ypred = exp(ypredlog)
+PredAcc(ChiTest2$ListPrice,ypred)
+#
+# Boosted Trees - read in the Diamonds.csv data again!
+#
+Diamonds = read.table(file.choose(),header=T,sep=",")
+diam.train = Diamonds[Diamonds$Test==0,-10]
+diam.valid = Diamonds[Diamonds$Test==1,-10]
+diam.test = Diamonds[Diamonds$Test==2,-10]
+
+
+diam.gbm = gbm(log(Price)~.,data=diam.train,distribution="gaussian",
+n.trees=5000,shrinkage=.01,interaction.depth=4,
+bag.fraction=0.5,train.fraction=.8,n.minobsinnode=5,cv.folds=5,
+keep.data=T,verbose=T)
+
+diam.gbm
+
+gbm.perf(diam.gbm,method="OOB")
+gbm.perf(diam.gbm,method="test")
+gbm.perf(diam.gbm,method="cv")
+
+ypred = predict(diam.gbm,newdata=diam.train,n.trees=3357)
+plot(log(diam.train$Price),ypred,xlab="Actual log(Price)",ylab="Fitted log(Price)")
+abline(0,1,lwd=3,col="blue")
+
+ypred = exp(ypred)
+plot(diam.train$Price,ypred,xlab="Actual Price ($)",ylab="Fitted Price ($)")
+abline(0,1,lwd=3,col="blue")
+
+diam.gbm = gbm(formula = log(Price) ~ ., distribution = "gaussian",
+    data = diam.train, n.trees = 100000, interaction.depth = 1, n.minobsinnode = 5, 
+    shrinkage = 0.0025, bag.fraction = 0.5, train.fraction = 0.8, 
+    cv.folds = 5, keep.data = T, verbose = F)
+
+ypred = predict(diam.gbm,newdata=diam.train,n.trees=40339)
+plot(log(diam.train$Price),ypred,xlab="Actual log(Price)",ylab="Fitted log(Price)")
+abline(0,1,lwd=3,col="blue")
+
+ypred = exp(ypred)
+plot(diam.train$Price,ypred,xlab="Actual Price ($)",ylab="Fitted Price ($)")
+abline(0,1,lwd=3,col="blue")
+
+PredAcc(ypred,diam.valid$Price)
+
+diam.mlr = lm(log(Price)~poly(Carats,3)+Clarity*Color + Cut + TDdiff + TDratio,
+data=diam.train)
+ypred = predict(diam.mlr,newdata=diam.valid)
+ypred = exp(ypred)
+PredAcc(ypred,diam.valid$Price)
+
+# Comparing the methods for predicting the test cases.
+#
+ypred = predict(diam.gbm,newdata=diam.test,n.trees=40923)
+plot(log(diam.test$Price),ypred,xlab="Actual log(Price)",ylab="Predicted log(Price)",main="Predictions for Test Diamonds")
+abline(0,1,lwd=3,col="blue")
+
+ypred = exp(ypred)
+plot(diam.test$Price,ypred,xlab="Actual Price ($)",ylab="Predicted Price ($)",main="Predictions for Test Diamonds")
+abline(0,1,lwd=3,col="blue")
+
+#
+# Solubility data with boosted trees.  Read the training and test sets again.
+# Solubility(train).csv and Solubility(test).csv.
+#
+
+Solu.train = read.table(file.choose(),header=T,sep=",")
+Solu.test = read.table(file.choose(),header=T,sep=",")
+
+# Multiple Linear Regression model - stepwise fit take a LONG time!
+
+solu.mlr = lm(log10sol~.,data=Solu.train)
+solu.step = step(solu.mlr) 
+ypred = predict(solu.step,newdata=Solu.test)
+PredAcc2(Solu.test$log10sol,ypred)
+#
+# Random Forest
+#
+library(randomForest)
+solu.rf = randomForest(log10sol~.,data=Solu.train,mtry=80,ntree=500)
+solu.rf
+#
+# Boosted Trees
+#
+library(gbm)
+solu.gbm = gbm(log10sol~.,data=Solu.train,distribution="gaussian",
+n.trees=10000,shrinkage=.05,interaction.depth=5,bag.fraction=0.5,train.fraction=.8,
+n.minobsinnode=5,cv.folds=5,keep.data=T,verbose=F)
+solu.gbm
+
+ypred = predict(solu.gbm,newdata=Solu.test,n.trees=769)
+PredAcc(Solu.test$log10sol,ypred)
+PredAcc(Solu.test$log10sol,ypred)
+
+#
+# Cubist Models
+#
+library(Cubist)
+names(diam.train)
+
+X = diam.train[,-1]
+y = log(diam.train$Price)
+#
+# Cubist takes the predictors in a matrix/data frame X and response in vector y, i.e. we 
+# cannot use y ~ . notation.
+#
+diam.cubist = cubist(X,y)
+summary(diam.cubist)
+
+diam.cubist2 = cubist(X,y,committees=10)
+ypred = predict(diam.cubist2,newdata=X)
+plot(log(diam.train$Price),ypred,xlab="Actual log(Price)",ylab="Predict log(Price)")
+abline(0,1,lwd=3,col="blue")
+title(main="Fitted Values for Training Data")
+ypred = predict(diam.cubist2,newdata=X)
+ypred = exp(ypred)
+plot(diam.train$Price,ypred,xlab="Actual Price ($)",ylab="Fitted Price ($)”)
+abline(0,1,lwd=3,col="blue")
+title(main="Fitted Values for Training Data")
+
+Xvalid = diam.valid[,-1]
+ypredlog = predict(diam.cubist2,newdata=Xvalid)
+ypred = exp(ypredlog)
+PredAcc(diam.valid$Price,ypred)
+#
+# Using nearest neighbors finishing touch.
+#
+ypredlog = predict(diam.cubist2,newdata=Xvalid,neighbors=9)
+ypred = exp(ypredlog)
+PredAcc(diam.valid$Price,ypred)
+
+#
+# TASKS - Solubility data
+# Read in the Solubility(train).csv and Solubility(test).csv files.
+#
+library(Cubist)
+
+Solu.train = read.table(file.choose(),header=T,sep=",")
+Solu.test = read.table(file.choose(),header=T,sep=",")
+
+Xtrain = Solu.train[,-1]
+Ytrain = Solu.train[,1]
+Xtest = Solu.test[,-1]
+ytest = Solu.test[,1]
+#
+# Replace the extra stuff the commands below by something appropriate!
+#
+solu.cub = cubist(Xtrain,ytrain,extra stuff)
+summary(solu.cub)
+ypred = predict(solu.cub,newdata=Xtest,extra stuff)
+PredAcc(ytest,ypred)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
