@@ -1,0 +1,177 @@
+#
+# R-Code for Handout 5
+#
+#
+misclass = function(fit,y) {
+temp <- table(fit,y)
+cat("Table of Misclassification\n")
+cat("(row = predicted, col = actual)\n")
+print(temp)
+cat("\n\n")
+numcor <- sum(diag(temp))
+numinc <- length(y) - numcor
+mcr <- numinc/length(y)
+cat(paste("Misclassification Rate = ",format(mcr,digits=3)))
+cat("\n")
+}
+#
+# Read in Breast Cancer diagnosis .csv file.
+#
+BreastDiag = read.table(file.choose(),header=T,sep=",")
+names(BreastDiag)
+head(BreastDiag,5)
+
+str(BreastDiag)
+par(mfrow=c(3,2))
+plot(Radius~Diagnosis,data=BreastDiag,col="red")
+plot(Texture~Diagnosis,data=BreastDiag,col="red")
+plot(FracDim~Diagnosis,data=BreastDiag,col="red")
+plot(Symmetry~Diagnosis,data=BreastDiag,col="red")
+plot(Compactness~Diagnosis,data=BreastDiag,col="red")
+plot(Concavity~Diagnosis,data=BreastDiag,col="red")
+par(mfrow=c(1,1))
+
+sam = sample(1:569,floor(569*.6666),replace=F)
+
+BCtrain = BreastDiag[sam,]
+BCtest = BreastDiag[-sam,]
+
+dim(BCtrain)
+dim(BCtest)
+
+bc.rpart = rpart(Diagnosis~.,data=BCtrain)
+plot(bc.rpart)
+text(bc.rpart)
+
+yfit = predict(bc.rpart,type="class")
+misclass(yfit,BCtrain$Diagnosis)
+
+# This command may not work.
+post(bc.rpart)
+
+yprob = predict(bc.rpart)
+head(yprob,5)
+summary(bc.rpart)
+
+bc.rpart2 = rpart(Diagnosis~.,data=BCtrain,cp=.0001,minsplit=4)
+yfit = predict(bc.rpart2)
+yfit = predict(bc.rpart2,type="class")
+misclass(yfit,BCtrain$Diagnosis)
+
+prp(bc.rpart2,type=4,extra=3,cex=.7)
+
+ypred = predict(bc.rpart,newdata=BCtest,type="class")
+misclass(ypred,BCtest$Diagnosis)
+
+ypred2 = predict(bc.rpart2,newdata=BCtest,type="class")
+misclass(ypred2,BCtest$Diagnosis)
+
+crpart.sscv = function(fit,y,data,B=25,p=.333) {
+n = length(y)
+cv <- rep(0,B)
+for (i in 1:B) {
+       ss <- floor(n*p)
+       sam <- sample(1:n,ss)
+       temp <- data[-sam,]
+       fit2 <- rpart(formula(fit),data=temp,parms=fit$parms,control=fit$control)
+       ynew <- predict(fit2,newdata=data[sam,],type="class")
+       tab <- table(y[sam],ynew)
+       mc <- ss - sum(diag(tab))
+      cv[i] <- mc/ss
+      }
+   cv
+}
+
+bc.rpart3 = rpart(Diagnosis~.,data=BCtrain,cp=.00001,minsplit=5)
+results = crpart.sscv(bc.rpart3,BCtrain$Diagnosis,data=BCtrain,B=200)
+summary(results)
+
+plotcp(bc.rpart3)
+
+bc.rpart4 = rpart(Diagnosis~.,data=BCtrain,cp=.019,minsplit=5)
+results = crpart.sscv(bc.rpart4,BCtrain$Diagnosis,data=BCtrain,B=200)
+summary(results)
+
+ypred = predict(bc.rpart4,newdata=BCtest,type="class")
+misclass(ypred,BCtest$Diagnosis)
+
+bc.bag = bagging(Diagnosis~.,data=BCtrain,nbagg=100,coob=T
+control=rpart.control(cp=.019,minsplit=5,xval=0))
+bc.bag
+
+ypred = predict(bc.bag,newdata=BCtest,type="class")
+misclass(ypred,BCtest$Diagnosis)
+
+library(randomForest)
+bc.rf = randomForest(Diagnosis~.,data=BCtrain)
+bc.rf
+varImpPlot(bc.rf)
+ypred = predict(bc.rf, newdata=BCtest,type="class")
+misclass(ypred,BCtest$Diagnosis)
+
+
+bc.boost = ada(Diagnosis~.,data=BCtrain)
+bc.boost
+summary(bc.boost)
+
+ypred = predict(bc.boost,newdata=BCtest)
+attributes(ypred)
+misclass(ypred,BCtest$Diagnosis)
+
+#
+# Task - Classifying Olive Oils - read in the file OliveOils.csv
+#
+OliveOils = read.table(file.choose(),header=T,sep=",") 
+names(OliveOils)
+dim(OliveOils)
+train = sample(1:572,floor(.6666*572),replace=F)
+Olive.train = OliveOils[train,]
+Olive.test = OliveOils[-train,]
+dim(Olive.train)
+dim(Olive.test)
+#
+# You will have to replace "other settings you choose" with something!!
+#
+olive.bag = bagging(Area.name~.,data=Olive.train, other settings you choose)
+ypred = predict(olive.bag,newdata=Olive.test,type="class")
+attributes(ypred)
+ypred$error
+misclass(ypred$class,Olive.test$Area.name)
+#
+# Again you have some tunning parameters to fill in.
+#
+olive.boost = boosting(Area.name~.,data=Olive.train,mfinal=100,
+    control=rpart.control(change cp, minsplit, etc. here if you want))
+ypred = predict(olive.boost,newdata=Olive.test)
+attributes(ypred)
+misclass(ypred$class,Olive.test$Area.name)	
+
+#
+# Task 2 - Mushrooms - read in the file Mushrooms.csv
+#
+Mushrooms = read.table(file.choose(),header=T,sep=",")
+dim(Mushrooms) 
+names(Mushrooms)
+summary(Mushrooms)
+str(Mushrooms)
+Mushrooms2 = Mushrooms[,-c(12,17)]
+train = sample(1:nrow(Mushrooms2),floor(nrow(Mushrooms*0.5)),replace=F)
+Mush.train = Mushrooms2[train,]
+Mush.test = Mushrooms2[-train,]
+mush.tree = rpart(Poisonous~.,data=Mush.train)
+summary(mush.tree)
+misclass(Mush.train$Poisonous,predict(mush.tree,type="class"))
+ypred = predict(mush.tree,newdata=Mush.test,type="class")
+misclass(Mush.test$Poisonous,ypred)
+
+
+
+
+
+
+
+
+
+
+
+
