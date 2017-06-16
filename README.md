@@ -10,6 +10,8 @@ View upcoming REU activities with this [Google calendar](https://calendar.google
 
 Supplementary data science curriculum provided by [Data Camp](https://www.datacamp.com/home).  
 
+Here is [a link to Brant Deppa's webpage of courses](http://course1.winona.edu/bdeppa/).
+
 <b> Contributors: </b> 
 
 <ul> 
