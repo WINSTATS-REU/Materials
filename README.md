@@ -12,6 +12,8 @@ Supplementary data science curriculum provided by [Data Camp](https://www.dataca
 
 Here is [a link to Brant Deppa's webpage of courses](http://course1.winona.edu/bdeppa/).
 
+Here is a link where you can download the book <em> [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) </em> by James et al.
+
 <b> Contributors: </b> 
 
 <ul> 
