@@ -1,0 +1,469 @@
+"Census.Division","Year","Race","Fertility.Rate"
+"Division 1: New England",2003,"American Indian or Alaska Native",29.1
+"Division 1: New England",2003,"Asian or Pacific Islander",14.5
+"Division 1: New England",2003,"Black or African American",43.82
+"Division 1: New England",2003,"White",20.97
+"Division 1: New England",2004,"American Indian or Alaska Native",27.81
+"Division 1: New England",2004,"Asian or Pacific Islander",14.31
+"Division 1: New England",2004,"Black or African American",42.58
+"Division 1: New England",2004,"White",20.7
+"Division 1: New England",2005,"American Indian or Alaska Native",24.49
+"Division 1: New England",2005,"Asian or Pacific Islander",12.48
+"Division 1: New England",2005,"Black or African American",40.14
+"Division 1: New England",2005,"White",20.25
+"Division 1: New England",2006,"American Indian or Alaska Native",24.66
+"Division 1: New England",2006,"Asian or Pacific Islander",11.41
+"Division 1: New England",2006,"Black or African American",41.2
+"Division 1: New England",2006,"White",20.62
+"Division 2: Middle Atlantic",2003,"American Indian or Alaska Native",17.47
+"Division 2: Middle Atlantic",2003,"Asian or Pacific Islander",9.19
+"Division 2: Middle Atlantic",2003,"Black or African American",51.34
+"Division 2: Middle Atlantic",2003,"White",24.33
+"Division 2: Middle Atlantic",2004,"American Indian or Alaska Native",17.07
+"Division 2: Middle Atlantic",2004,"Asian or Pacific Islander",9.27
+"Division 2: Middle Atlantic",2004,"Black or African American",50.56
+"Division 2: Middle Atlantic",2004,"White",22.93
+"Division 2: Middle Atlantic",2005,"American Indian or Alaska Native",15.87
+"Division 2: Middle Atlantic",2005,"Asian or Pacific Islander",7.93
+"Division 2: Middle Atlantic",2005,"Black or African American",51.84
+"Division 2: Middle Atlantic",2005,"White",22.03
+"Division 2: Middle Atlantic",2006,"American Indian or Alaska Native",17.93
+"Division 2: Middle Atlantic",2006,"Asian or Pacific Islander",7.33
+"Division 2: Middle Atlantic",2006,"Black or African American",52.69
+"Division 2: Middle Atlantic",2006,"White",22.56
+"Division 3: East North Central",2003,"American Indian or Alaska Native",36.56
+"Division 3: East North Central",2003,"Asian or Pacific Islander",16.69
+"Division 3: East North Central",2003,"Black or African American",77.39
+"Division 3: East North Central",2003,"White",31.95
+"Division 3: East North Central",2004,"American Indian or Alaska Native",35.28
+"Division 3: East North Central",2004,"Asian or Pacific Islander",15.7
+"Division 3: East North Central",2004,"Black or African American",76.32
+"Division 3: East North Central",2004,"White",31.46
+"Division 3: East North Central",2005,"American Indian or Alaska Native",33.41
+"Division 3: East North Central",2005,"Asian or Pacific Islander",15.78
+"Division 3: East North Central",2005,"Black or African American",72.75
+"Division 3: East North Central",2005,"White",30.88
+"Division 3: East North Central",2006,"American Indian or Alaska Native",31.68
+"Division 3: East North Central",2006,"Asian or Pacific Islander",14.82
+"Division 3: East North Central",2006,"Black or African American",75.02
+"Division 3: East North Central",2006,"White",31.04
+"Division 4: West North Central",2003,"American Indian or Alaska Native",87.14
+"Division 4: West North Central",2003,"Asian or Pacific Islander",33.51
+"Division 4: West North Central",2003,"Black or African American",74.85
+"Division 4: West North Central",2003,"White",30.44
+"Division 4: West North Central",2004,"American Indian or Alaska Native",89.09
+"Division 4: West North Central",2004,"Asian or Pacific Islander",35.34
+"Division 4: West North Central",2004,"Black or African American",76.44
+"Division 4: West North Central",2004,"White",30.12
+"Division 4: West North Central",2005,"American Indian or Alaska Native",86.97
+"Division 4: West North Central",2005,"Asian or Pacific Islander",32.97
+"Division 4: West North Central",2005,"Black or African American",71.37
+"Division 4: West North Central",2005,"White",29.96
+"Division 4: West North Central",2006,"American Indian or Alaska Native",87.21
+"Division 4: West North Central",2006,"Asian or Pacific Islander",34.22
+"Division 4: West North Central",2006,"Black or African American",76.21
+"Division 4: West North Central",2006,"White",31.01
+"Division 5: South Atlantic",2003,"American Indian or Alaska Native",45.58
+"Division 5: South Atlantic",2003,"Asian or Pacific Islander",12.59
+"Division 5: South Atlantic",2003,"Black or African American",62.95
+"Division 5: South Atlantic",2003,"White",38.24
+"Division 5: South Atlantic",2004,"American Indian or Alaska Native",39.22
+"Division 5: South Atlantic",2004,"Asian or Pacific Islander",14.48
+"Division 5: South Atlantic",2004,"Black or African American",62.69
+"Division 5: South Atlantic",2004,"White",37.68
+"Division 5: South Atlantic",2005,"American Indian or Alaska Native",41.13
+"Division 5: South Atlantic",2005,"Asian or Pacific Islander",15.13
+"Division 5: South Atlantic",2005,"Black or African American",62
+"Division 5: South Atlantic",2005,"White",36.96
+"Division 5: South Atlantic",2006,"American Indian or Alaska Native",39.48
+"Division 5: South Atlantic",2006,"Asian or Pacific Islander",14.51
+"Division 5: South Atlantic",2006,"Black or African American",62.43
+"Division 5: South Atlantic",2006,"White",38.7
+"Division 6: East South Central",2003,"American Indian or Alaska Native",35.74
+"Division 6: East South Central",2003,"Asian or Pacific Islander",19.19
+"Division 6: East South Central",2003,"Black or African American",74.4
+"Division 6: East South Central",2003,"White",47.4
+"Division 6: East South Central",2004,"American Indian or Alaska Native",39.75
+"Division 6: East South Central",2004,"Asian or Pacific Islander",21.05
+"Division 6: East South Central",2004,"Black or African American",72.99
+"Division 6: East South Central",2004,"White",46.46
+"Division 6: East South Central",2005,"American Indian or Alaska Native",36.53
+"Division 6: East South Central",2005,"Asian or Pacific Islander",20.96
+"Division 6: East South Central",2005,"Black or African American",72.4
+"Division 6: East South Central",2005,"White",45.85
+"Division 6: East South Central",2006,"American Indian or Alaska Native",41.51
+"Division 6: East South Central",2006,"Asian or Pacific Islander",24.53
+"Division 6: East South Central",2006,"Black or African American",75.98
+"Division 6: East South Central",2006,"White",48.6
+"Division 7: West South Central",2003,"American Indian or Alaska Native",49.68
+"Division 7: West South Central",2003,"Asian or Pacific Islander",12.82
+"Division 7: West South Central",2003,"Black or African American",73.03
+"Division 7: West South Central",2003,"White",60.92
+"Division 7: West South Central",2004,"American Indian or Alaska Native",46.5
+"Division 7: West South Central",2004,"Asian or Pacific Islander",13.37
+"Division 7: West South Central",2004,"Black or African American",72.78
+"Division 7: West South Central",2004,"White",60.63
+"Division 7: West South Central",2005,"American Indian or Alaska Native",47.4
+"Division 7: West South Central",2005,"Asian or Pacific Islander",12.38
+"Division 7: West South Central",2005,"Black or African American",67.2
+"Division 7: West South Central",2005,"White",59.07
+"Division 7: West South Central",2006,"American Indian or Alaska Native",49.39
+"Division 7: West South Central",2006,"Asian or Pacific Islander",13.81
+"Division 7: West South Central",2006,"Black or African American",72.4
+"Division 7: West South Central",2006,"White",60.44
+"Division 8: Mountain",2003,"American Indian or Alaska Native",68.63
+"Division 8: Mountain",2003,"Asian or Pacific Islander",29.2
+"Division 8: Mountain",2003,"Black or African American",62.85
+"Division 8: Mountain",2003,"White",48.45
+"Division 8: Mountain",2004,"American Indian or Alaska Native",66.5
+"Division 8: Mountain",2004,"Asian or Pacific Islander",24.61
+"Division 8: Mountain",2004,"Black or African American",56.87
+"Division 8: Mountain",2004,"White",48.17
+"Division 8: Mountain",2005,"American Indian or Alaska Native",65.76
+"Division 8: Mountain",2005,"Asian or Pacific Islander",21.69
+"Division 8: Mountain",2005,"Black or African American",57.51
+"Division 8: Mountain",2005,"White",47.14
+"Division 8: Mountain",2006,"American Indian or Alaska Native",66.5
+"Division 8: Mountain",2006,"Asian or Pacific Islander",22.88
+"Division 8: Mountain",2006,"Black or African American",56.56
+"Division 8: Mountain",2006,"White",49.28
+"Division 9: Pacific",2003,"American Indian or Alaska Native",35.05
+"Division 9: Pacific",2003,"Asian or Pacific Islander",18.09
+"Division 9: Pacific",2003,"Black or African American",43.32
+"Division 9: Pacific",2003,"White",42.28
+"Division 9: Pacific",2004,"American Indian or Alaska Native",34.08
+"Division 9: Pacific",2004,"Asian or Pacific Islander",17
+"Division 9: Pacific",2004,"Black or African American",41.77
+"Division 9: Pacific",2004,"White",41.84
+"Division 9: Pacific",2005,"American Indian or Alaska Native",31.31
+"Division 9: Pacific",2005,"Asian or Pacific Islander",16.87
+"Division 9: Pacific",2005,"Black or African American",40.46
+"Division 9: Pacific",2005,"White",41.25
+"Division 9: Pacific",2006,"American Indian or Alaska Native",33.11
+"Division 9: Pacific",2006,"Asian or Pacific Islander",16.52
+"Division 9: Pacific",2006,"Black or African American",43.07
+"Division 9: Pacific",2006,"White",42.63
+"Division 1: New England",2007,"American Indian or Alaska Native",24.31
+"Division 1: New England",2007,"Asian or Pacific Islander",12.95
+"Division 1: New England",2007,"Black or African American",41.27
+"Division 1: New England",2007,"White",21.25
+"Division 1: New England",2008,"American Indian or Alaska Native",20.84
+"Division 1: New England",2008,"Asian or Pacific Islander",10.21
+"Division 1: New England",2008,"Black or African American",39.29
+"Division 1: New England",2008,"White",20.29
+"Division 1: New England",2009,"American Indian or Alaska Native",20.55
+"Division 1: New England",2009,"Asian or Pacific Islander",9.96
+"Division 1: New England",2009,"Black or African American",37.06
+"Division 1: New England",2009,"White",19.23
+"Division 1: New England",2010,"American Indian or Alaska Native",21.87
+"Division 1: New England",2010,"Asian or Pacific Islander",8.05
+"Division 1: New England",2010,"Black or African American",32.46
+"Division 1: New England",2010,"White",17.2
+"Division 1: New England",2011,"American Indian or Alaska Native",17.14
+"Division 1: New England",2011,"Asian or Pacific Islander",7.88
+"Division 1: New England",2011,"Black or African American",29.76
+"Division 1: New England",2011,"White",15.52
+"Division 1: New England",2012,"American Indian or Alaska Native",21.66
+"Division 1: New England",2012,"Asian or Pacific Islander",6.42
+"Division 1: New England",2012,"Black or African American",28.15
+"Division 1: New England",2012,"White",14.41
+"Division 1: New England",2013,"American Indian or Alaska Native",17.75
+"Division 1: New England",2013,"Asian or Pacific Islander",5.02
+"Division 1: New England",2013,"Black or African American",23.06
+"Division 1: New England",2013,"White",12.76
+"Division 1: New England",2014,"American Indian or Alaska Native",9.54
+"Division 1: New England",2014,"Asian or Pacific Islander",3.71
+"Division 1: New England",2014,"Black or African American",20.98
+"Division 1: New England",2014,"White",11.46
+"Division 1: New England",2015,"American Indian or Alaska Native",12.33
+"Division 1: New England",2015,"Asian or Pacific Islander",3.36
+"Division 1: New England",2015,"Black or African American",17.64
+"Division 1: New England",2015,"White",10.42
+"Division 2: Middle Atlantic",2007,"American Indian or Alaska Native",16.41
+"Division 2: Middle Atlantic",2007,"Asian or Pacific Islander",6.5
+"Division 2: Middle Atlantic",2007,"Black or African American",52.26
+"Division 2: Middle Atlantic",2007,"White",22.89
+"Division 2: Middle Atlantic",2008,"American Indian or Alaska Native",16.11
+"Division 2: Middle Atlantic",2008,"Asian or Pacific Islander",7.06
+"Division 2: Middle Atlantic",2008,"Black or African American",49.58
+"Division 2: Middle Atlantic",2008,"White",22.82
+"Division 2: Middle Atlantic",2009,"American Indian or Alaska Native",13.83
+"Division 2: Middle Atlantic",2009,"Asian or Pacific Islander",5.86
+"Division 2: Middle Atlantic",2009,"Black or African American",46.08
+"Division 2: Middle Atlantic",2009,"White",21.67
+"Division 2: Middle Atlantic",2010,"American Indian or Alaska Native",11.08
+"Division 2: Middle Atlantic",2010,"Asian or Pacific Islander",5.8
+"Division 2: Middle Atlantic",2010,"Black or African American",42.69
+"Division 2: Middle Atlantic",2010,"White",20.4
+"Division 2: Middle Atlantic",2011,"American Indian or Alaska Native",15.86
+"Division 2: Middle Atlantic",2011,"Asian or Pacific Islander",5.11
+"Division 2: Middle Atlantic",2011,"Black or African American",41.65
+"Division 2: Middle Atlantic",2011,"White",18.58
+"Division 2: Middle Atlantic",2012,"American Indian or Alaska Native",15.68
+"Division 2: Middle Atlantic",2012,"Asian or Pacific Islander",5.77
+"Division 2: Middle Atlantic",2012,"Black or African American",38.79
+"Division 2: Middle Atlantic",2012,"White",17.23
+"Division 2: Middle Atlantic",2013,"American Indian or Alaska Native",11.54
+"Division 2: Middle Atlantic",2013,"Asian or Pacific Islander",5.36
+"Division 2: Middle Atlantic",2013,"Black or African American",33.51
+"Division 2: Middle Atlantic",2013,"White",15.65
+"Division 2: Middle Atlantic",2014,"American Indian or Alaska Native",9.71
+"Division 2: Middle Atlantic",2014,"Asian or Pacific Islander",5.02
+"Division 2: Middle Atlantic",2014,"Black or African American",29.76
+"Division 2: Middle Atlantic",2014,"White",14.49
+"Division 2: Middle Atlantic",2015,"American Indian or Alaska Native",9.35
+"Division 2: Middle Atlantic",2015,"Asian or Pacific Islander",4.49
+"Division 2: Middle Atlantic",2015,"Black or African American",26.05
+"Division 2: Middle Atlantic",2015,"White",13.58
+"Division 3: East North Central",2007,"American Indian or Alaska Native",35.82
+"Division 3: East North Central",2007,"Asian or Pacific Islander",14.27
+"Division 3: East North Central",2007,"Black or African American",73.91
+"Division 3: East North Central",2007,"White",31.95
+"Division 3: East North Central",2008,"American Indian or Alaska Native",37.17
+"Division 3: East North Central",2008,"Asian or Pacific Islander",13.1
+"Division 3: East North Central",2008,"Black or African American",71.93
+"Division 3: East North Central",2008,"White",30.72
+"Division 3: East North Central",2009,"American Indian or Alaska Native",32.48
+"Division 3: East North Central",2009,"Asian or Pacific Islander",11.88
+"Division 3: East North Central",2009,"Black or African American",67.87
+"Division 3: East North Central",2009,"White",29.81
+"Division 3: East North Central",2010,"American Indian or Alaska Native",29.5
+"Division 3: East North Central",2010,"Asian or Pacific Islander",10.45
+"Division 3: East North Central",2010,"Black or African American",62.61
+"Division 3: East North Central",2010,"White",27.26
+"Division 3: East North Central",2011,"American Indian or Alaska Native",24.62
+"Division 3: East North Central",2011,"Asian or Pacific Islander",8.98
+"Division 3: East North Central",2011,"Black or African American",57.61
+"Division 3: East North Central",2011,"White",24.93
+"Division 3: East North Central",2012,"American Indian or Alaska Native",24.98
+"Division 3: East North Central",2012,"Asian or Pacific Islander",8.96
+"Division 3: East North Central",2012,"Black or African American",55.09
+"Division 3: East North Central",2012,"White",23.57
+"Division 3: East North Central",2013,"American Indian or Alaska Native",22.1
+"Division 3: East North Central",2013,"Asian or Pacific Islander",8.81
+"Division 3: East North Central",2013,"Black or African American",49.02
+"Division 3: East North Central",2013,"White",21.43
+"Division 3: East North Central",2014,"American Indian or Alaska Native",19.59
+"Division 3: East North Central",2014,"Asian or Pacific Islander",7.32
+"Division 3: East North Central",2014,"Black or African American",44.65
+"Division 3: East North Central",2014,"White",19.92
+"Division 3: East North Central",2015,"American Indian or Alaska Native",17.52
+"Division 3: East North Central",2015,"Asian or Pacific Islander",6.78
+"Division 3: East North Central",2015,"Black or African American",41.31
+"Division 3: East North Central",2015,"White",18.4
+"Division 4: West North Central",2007,"American Indian or Alaska Native",96.89
+"Division 4: West North Central",2007,"Asian or Pacific Islander",31.26
+"Division 4: West North Central",2007,"Black or African American",75.37
+"Division 4: West North Central",2007,"White",31.76
+"Division 4: West North Central",2008,"American Indian or Alaska Native",89.57
+"Division 4: West North Central",2008,"Asian or Pacific Islander",31.01
+"Division 4: West North Central",2008,"Black or African American",71.72
+"Division 4: West North Central",2008,"White",31.85
+"Division 4: West North Central",2009,"American Indian or Alaska Native",80.66
+"Division 4: West North Central",2009,"Asian or Pacific Islander",29.02
+"Division 4: West North Central",2009,"Black or African American",66.63
+"Division 4: West North Central",2009,"White",30.21
+"Division 4: West North Central",2010,"American Indian or Alaska Native",75.88
+"Division 4: West North Central",2010,"Asian or Pacific Islander",24.98
+"Division 4: West North Central",2010,"Black or African American",60.73
+"Division 4: West North Central",2010,"White",27.72
+"Division 4: West North Central",2011,"American Indian or Alaska Native",74.01
+"Division 4: West North Central",2011,"Asian or Pacific Islander",23.67
+"Division 4: West North Central",2011,"Black or African American",53.44
+"Division 4: West North Central",2011,"White",25.07
+"Division 4: West North Central",2012,"American Indian or Alaska Native",67.56
+"Division 4: West North Central",2012,"Asian or Pacific Islander",20.68
+"Division 4: West North Central",2012,"Black or African American",49.45
+"Division 4: West North Central",2012,"White",24.14
+"Division 4: West North Central",2013,"American Indian or Alaska Native",60.96
+"Division 4: West North Central",2013,"Asian or Pacific Islander",19.91
+"Division 4: West North Central",2013,"Black or African American",45.03
+"Division 4: West North Central",2013,"White",21.88
+"Division 4: West North Central",2014,"American Indian or Alaska Native",52.28
+"Division 4: West North Central",2014,"Asian or Pacific Islander",17.82
+"Division 4: West North Central",2014,"Black or African American",40.51
+"Division 4: West North Central",2014,"White",20.19
+"Division 4: West North Central",2015,"American Indian or Alaska Native",50.24
+"Division 4: West North Central",2015,"Asian or Pacific Islander",15.96
+"Division 4: West North Central",2015,"Black or African American",36.81
+"Division 4: West North Central",2015,"White",18.75
+"Division 5: South Atlantic",2007,"American Indian or Alaska Native",35.39
+"Division 5: South Atlantic",2007,"Asian or Pacific Islander",13.57
+"Division 5: South Atlantic",2007,"Black or African American",62.34
+"Division 5: South Atlantic",2007,"White",38.76
+"Division 5: South Atlantic",2008,"American Indian or Alaska Native",36.78
+"Division 5: South Atlantic",2008,"Asian or Pacific Islander",12.16
+"Division 5: South Atlantic",2008,"Black or African American",60.9
+"Division 5: South Atlantic",2008,"White",36.41
+"Division 5: South Atlantic",2009,"American Indian or Alaska Native",33.79
+"Division 5: South Atlantic",2009,"Asian or Pacific Islander",10.81
+"Division 5: South Atlantic",2009,"Black or African American",56.82
+"Division 5: South Atlantic",2009,"White",33.75
+"Division 5: South Atlantic",2010,"American Indian or Alaska Native",28.6
+"Division 5: South Atlantic",2010,"Asian or Pacific Islander",9.02
+"Division 5: South Atlantic",2010,"Black or African American",50.72
+"Division 5: South Atlantic",2010,"White",29.9
+"Division 5: South Atlantic",2011,"American Indian or Alaska Native",26.78
+"Division 5: South Atlantic",2011,"Asian or Pacific Islander",9.93
+"Division 5: South Atlantic",2011,"Black or African American",46.71
+"Division 5: South Atlantic",2011,"White",27.37
+"Division 5: South Atlantic",2012,"American Indian or Alaska Native",26.81
+"Division 5: South Atlantic",2012,"Asian or Pacific Islander",8.49
+"Division 5: South Atlantic",2012,"Black or African American",42.59
+"Division 5: South Atlantic",2012,"White",25.58
+"Division 5: South Atlantic",2013,"American Indian or Alaska Native",22.46
+"Division 5: South Atlantic",2013,"Asian or Pacific Islander",8.32
+"Division 5: South Atlantic",2013,"Black or African American",37.48
+"Division 5: South Atlantic",2013,"White",22.88
+"Division 5: South Atlantic",2014,"American Indian or Alaska Native",21.55
+"Division 5: South Atlantic",2014,"Asian or Pacific Islander",7.58
+"Division 5: South Atlantic",2014,"Black or African American",33.17
+"Division 5: South Atlantic",2014,"White",21.53
+"Division 5: South Atlantic",2015,"American Indian or Alaska Native",20.86
+"Division 5: South Atlantic",2015,"Asian or Pacific Islander",7.05
+"Division 5: South Atlantic",2015,"Black or African American",29.98
+"Division 5: South Atlantic",2015,"White",19.85
+"Division 6: East South Central",2007,"American Indian or Alaska Native",53.06
+"Division 6: East South Central",2007,"Asian or Pacific Islander",26.54
+"Division 6: East South Central",2007,"Black or African American",76.24
+"Division 6: East South Central",2007,"White",49.69
+"Division 6: East South Central",2008,"American Indian or Alaska Native",42.77
+"Division 6: East South Central",2008,"Asian or Pacific Islander",22.23
+"Division 6: East South Central",2008,"Black or African American",72.83
+"Division 6: East South Central",2008,"White",48.41
+"Division 6: East South Central",2009,"American Indian or Alaska Native",41.77
+"Division 6: East South Central",2009,"Asian or Pacific Islander",23.12
+"Division 6: East South Central",2009,"Black or African American",69.17
+"Division 6: East South Central",2009,"White",45.79
+"Division 6: East South Central",2010,"American Indian or Alaska Native",36.9
+"Division 6: East South Central",2010,"Asian or Pacific Islander",15.72
+"Division 6: East South Central",2010,"Black or African American",61.52
+"Division 6: East South Central",2010,"White",41.66
+"Division 6: East South Central",2011,"American Indian or Alaska Native",30.67
+"Division 6: East South Central",2011,"Asian or Pacific Islander",14.09
+"Division 6: East South Central",2011,"Black or African American",56.34
+"Division 6: East South Central",2011,"White",39.29
+"Division 6: East South Central",2012,"American Indian or Alaska Native",32.07
+"Division 6: East South Central",2012,"Asian or Pacific Islander",12.67
+"Division 6: East South Central",2012,"Black or African American",52.33
+"Division 6: East South Central",2012,"White",37.61
+"Division 6: East South Central",2013,"American Indian or Alaska Native",32.23
+"Division 6: East South Central",2013,"Asian or Pacific Islander",12.05
+"Division 6: East South Central",2013,"Black or African American",47.59
+"Division 6: East South Central",2013,"White",34.3
+"Division 6: East South Central",2014,"American Indian or Alaska Native",27.64
+"Division 6: East South Central",2014,"Asian or Pacific Islander",13.94
+"Division 6: East South Central",2014,"Black or African American",42.86
+"Division 6: East South Central",2014,"White",31.98
+"Division 6: East South Central",2015,"American Indian or Alaska Native",25.62
+"Division 6: East South Central",2015,"Asian or Pacific Islander",8.8
+"Division 6: East South Central",2015,"Black or African American",39.82
+"Division 6: East South Central",2015,"White",29.7
+"Division 7: West South Central",2007,"American Indian or Alaska Native",52.81
+"Division 7: West South Central",2007,"Asian or Pacific Islander",14.82
+"Division 7: West South Central",2007,"Black or African American",72.09
+"Division 7: West South Central",2007,"White",60.98
+"Division 7: West South Central",2008,"American Indian or Alaska Native",51.91
+"Division 7: West South Central",2008,"Asian or Pacific Islander",13.39
+"Division 7: West South Central",2008,"Black or African American",69.5
+"Division 7: West South Central",2008,"White",60.3
+"Division 7: West South Central",2009,"American Indian or Alaska Native",46.66
+"Division 7: West South Central",2009,"Asian or Pacific Islander",12.15
+"Division 7: West South Central",2009,"Black or African American",65.75
+"Division 7: West South Central",2009,"White",58.33
+"Division 7: West South Central",2010,"American Indian or Alaska Native",42.04
+"Division 7: West South Central",2010,"Asian or Pacific Islander",10.42
+"Division 7: West South Central",2010,"Black or African American",59.7
+"Division 7: West South Central",2010,"White",52.64
+"Division 7: West South Central",2011,"American Indian or Alaska Native",37.58
+"Division 7: West South Central",2011,"Asian or Pacific Islander",9.1
+"Division 7: West South Central",2011,"Black or African American",54.68
+"Division 7: West South Central",2011,"White",48.05
+"Division 7: West South Central",2012,"American Indian or Alaska Native",37.13
+"Division 7: West South Central",2012,"Asian or Pacific Islander",10.54
+"Division 7: West South Central",2012,"Black or African American",51.37
+"Division 7: West South Central",2012,"White",45.64
+"Division 7: West South Central",2013,"American Indian or Alaska Native",32.63
+"Division 7: West South Central",2013,"Asian or Pacific Islander",8.97
+"Division 7: West South Central",2013,"Black or African American",46.41
+"Division 7: West South Central",2013,"White",42.47
+"Division 7: West South Central",2014,"American Indian or Alaska Native",29.18
+"Division 7: West South Central",2014,"Asian or Pacific Islander",9.05
+"Division 7: West South Central",2014,"Black or African American",42.36
+"Division 7: West South Central",2014,"White",39.11
+"Division 7: West South Central",2015,"American Indian or Alaska Native",26.25
+"Division 7: West South Central",2015,"Asian or Pacific Islander",7.72
+"Division 7: West South Central",2015,"Black or African American",39.72
+"Division 7: West South Central",2015,"White",35.98
+"Division 8: Mountain",2007,"American Indian or Alaska Native",68.43
+"Division 8: Mountain",2007,"Asian or Pacific Islander",20.44
+"Division 8: Mountain",2007,"Black or African American",56.07
+"Division 8: Mountain",2007,"White",49.14
+"Division 8: Mountain",2008,"American Indian or Alaska Native",64.84
+"Division 8: Mountain",2008,"Asian or Pacific Islander",19.91
+"Division 8: Mountain",2008,"Black or African American",54.52
+"Division 8: Mountain",2008,"White",46.85
+"Division 8: Mountain",2009,"American Indian or Alaska Native",63.58
+"Division 8: Mountain",2009,"Asian or Pacific Islander",17.29
+"Division 8: Mountain",2009,"Black or African American",47.65
+"Division 8: Mountain",2009,"White",42.75
+"Division 8: Mountain",2010,"American Indian or Alaska Native",55.76
+"Division 8: Mountain",2010,"Asian or Pacific Islander",16.02
+"Division 8: Mountain",2010,"Black or African American",44.5
+"Division 8: Mountain",2010,"White",37.57
+"Division 8: Mountain",2011,"American Indian or Alaska Native",53.41
+"Division 8: Mountain",2011,"Asian or Pacific Islander",14.01
+"Division 8: Mountain",2011,"Black or African American",41.03
+"Division 8: Mountain",2011,"White",33.15
+"Division 8: Mountain",2012,"American Indian or Alaska Native",52.6
+"Division 8: Mountain",2012,"Asian or Pacific Islander",12.77
+"Division 8: Mountain",2012,"Black or African American",38.87
+"Division 8: Mountain",2012,"White",31.63
+"Division 8: Mountain",2013,"American Indian or Alaska Native",47.45
+"Division 8: Mountain",2013,"Asian or Pacific Islander",11.78
+"Division 8: Mountain",2013,"Black or African American",33.92
+"Division 8: Mountain",2013,"White",28.57
+"Division 8: Mountain",2014,"American Indian or Alaska Native",41.14
+"Division 8: Mountain",2014,"Asian or Pacific Islander",10.07
+"Division 8: Mountain",2014,"Black or African American",31.86
+"Division 8: Mountain",2014,"White",25.95
+"Division 8: Mountain",2015,"American Indian or Alaska Native",38.04
+"Division 8: Mountain",2015,"Asian or Pacific Islander",9.44
+"Division 8: Mountain",2015,"Black or African American",29.56
+"Division 8: Mountain",2015,"White",23.83
+"Division 9: Pacific",2007,"American Indian or Alaska Native",35.55
+"Division 9: Pacific",2007,"Asian or Pacific Islander",16.19
+"Division 9: Pacific",2007,"Black or African American",43.02
+"Division 9: Pacific",2007,"White",42.55
+"Division 9: Pacific",2008,"American Indian or Alaska Native",34.96
+"Division 9: Pacific",2008,"Asian or Pacific Islander",15.03
+"Division 9: Pacific",2008,"Black or African American",42.46
+"Division 9: Pacific",2008,"White",41.2
+"Division 9: Pacific",2009,"American Indian or Alaska Native",32.25
+"Division 9: Pacific",2009,"Asian or Pacific Islander",13.86
+"Division 9: Pacific",2009,"Black or African American",38.89
+"Division 9: Pacific",2009,"White",38.06
+"Division 9: Pacific",2010,"American Indian or Alaska Native",28.16
+"Division 9: Pacific",2010,"Asian or Pacific Islander",11.97
+"Division 9: Pacific",2010,"Black or African American",35.18
+"Division 9: Pacific",2010,"White",34.27
+"Division 9: Pacific",2011,"American Indian or Alaska Native",25.05
+"Division 9: Pacific",2011,"Asian or Pacific Islander",11.15
+"Division 9: Pacific",2011,"Black or African American",33.32
+"Division 9: Pacific",2011,"White",31.27
+"Division 9: Pacific",2012,"American Indian or Alaska Native",22.97
+"Division 9: Pacific",2012,"Asian or Pacific Islander",10.53
+"Division 9: Pacific",2012,"Black or African American",30.8
+"Division 9: Pacific",2012,"White",28.88
+"Division 9: Pacific",2013,"American Indian or Alaska Native",20.86
+"Division 9: Pacific",2013,"Asian or Pacific Islander",9.13
+"Division 9: Pacific",2013,"Black or African American",27.52
+"Division 9: Pacific",2013,"White",25.7
+"Division 9: Pacific",2014,"American Indian or Alaska Native",18.4
+"Division 9: Pacific",2014,"Asian or Pacific Islander",7.66
+"Division 9: Pacific",2014,"Black or African American",24.37
+"Division 9: Pacific",2014,"White",23.38
+"Division 9: Pacific",2015,"American Indian or Alaska Native",18.14
+"Division 9: Pacific",2015,"Asian or Pacific Islander",6.88
+"Division 9: Pacific",2015,"Black or African American",21.62
+"Division 9: Pacific",2015,"White",21.35
