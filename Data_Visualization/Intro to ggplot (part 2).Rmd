@@ -1,0 +1,145 @@
+---
+title: "Introductory graphical data analysis with ggplot2"
+author: "WINSTATS REU"
+date: "Dr. Silas Bergen"
+output: html_document
+---
+
+
+##Single continuous variable 
+In what follows, I will be borrowing from the excellent book *Graphical Data Analysis with R* by Antony Unwin.  
+
+Let's begin by exploring the `movies` data set, a data frame that comes with the `ggplot2` package used in many of the examples in the help files (UPDATE: the `movies` data set has recently been moved to its own package, `ggplot2movies`, and no longer comes pre-loaded with `ggplot2`.)
+```{r,warning=FALSE}
+library(ggplot2)
+library(ggplot2movies)
+data(movies)
+head(movies)
+dim(movies)
+```
+
+Of interest is the variable `length`, which contains the length in minutes of each of the films.  This is a single quantitative variable, and appropriate ways to graphically summarize a single quantitative variable include a histogram or boxplot. With `ggplot()`.  Let's give it a try:   
+
+
+```{r,warning=FALSE,fig.height = 3, fig.width=4.5}
+ggplot(data = movies) + geom_histogram(aes(x = length))
+```
+
+Clearly, this graph is not very informative.  It appears there are some very long movies!  Let's investigate:
+
+```{r,warning=FALSE,message=FALSE}
+library(dplyr)
+summary(movies$length)
+movies %>%filter(length>1000)
+```
+
+There are some long ones in there!  Including the 1970 file "The Longest Most Meaningless Movie in the World" which is ironically just the second-longest movie in the data set. There are two directions we could take from here.  The first would be to pare the data down into a more reasonable range.  The second would be to limit the x-axis on the histogram.
+
+
+```{r,warning=FALSE,fig.height = 3, fig.width=4.5,fig.align='center'}
+ggplot(data = movies) + geom_histogram(aes(x = length),binwidth=2) + xlim(c(0,200))
+```
+
+Better!  From here we notice two distinct peaks.  We'll explore this in a bit.  We could also consider a boxplot of the lengths.  Note for this, we have to create a dummy `x` scale and map `length` with `y`, since `geom_boxplot()` requires `x` and `y` at a minimum and expects `x` to be a factor:
+
+```{r,warning=FALSE,fig.height = 3, fig.width=4.5,fig.align='center'}
+movies.short <- movies%>%filter(length<200)
+ggplot(data = movies.short) + geom_boxplot(aes(x = 'dummy',y = length),outlier.size=0) 
+```
+
+The boxplot rather obscures the interesting features that the histogram reveals.  Let's turn back to the histogram.  One explanation for the two histogram modes might be due to short movies. 
+
+**Task:  Create a visualization that investigates whether the two modes truly show "short" and "normal-length" movies**
+
+##Single discrete (categorical) variable
+
+Of course, barplots are the most common way of investigating a single discrete (aka categorical) variable.  What about movie ratings?  The following are some options, one take with the unrated films and one without.  Note that `geom_bar()` is using some default syntax to map "count" to `y` by way of `..count..`.  We can modify this to find percents instead.  **Can you modify the below code to create the colored bar graph?**
+
+```{r,warning=FALSE,fig.height = 3, fig.width=4.5,fig.align='center',eval=FALSE}
+ggplot(data = movies) + geom_bar(aes(x = mpaa)) 
+withrating <- movies %>% filter(mpaa!='')
+withrating$mpaa <- factor(withrating$mpaa)
+ggplot(data = withrating) + geom_bar(aes(x = mpaa)) 
+ggplot(data = withrating) + geom_bar(aes(x = mpaa,y=..count..)) 
+ggplot(data = withrating) + geom_bar(aes(x = mpaa,y=100*..count../sum(..count..)))  + ylab('Percent')
+```
+
+```{r,warning=FALSE,fig.height = 3, fig.width=4.5,echo=FALSE}
+ggplot(data = movies) + geom_bar(aes(x = mpaa)) 
+withrating <- movies %>% filter(mpaa!='')
+withrating$mpaa <- factor(withrating$mpaa)
+ggplot(data = withrating) + geom_bar(aes(x = mpaa)) 
+ggplot(data = withrating) + geom_bar(aes(x = mpaa,y=100*..count../sum(..count..),fill=mpaa))  + ylab('Percent')
+```
+
+Ordering bars is not as easy in R as in Tableau.  The factors have to be reordered manually.  Suppose we wanted the bars sorted in descending instead of ascending order. We can make use of the `reorder()` function to order the levels of `mpaa` by a function of `mpaa`; specifically, the inverse length (why?): 
+
+```{r,warning=FALSE,fig.height = 3, fig.width=4.5,fig.align='center'}
+withrating$m2 <- with(withrating, reorder(mpaa, mpaa, function(x) 1/length(x)))
+ggplot(data = withrating) + geom_bar(aes(x = m2,y=100*..count../sum(..count..),fill=mpaa))  + ylab('Percent')
+```
+
+
+## Discrete X, continuous Y
+
+Suppose we want to investigate the difference in user rating across MPAA rating.  One way to do this is side-by-side boxplot; this would be akin to treating `rating` as a "dimension". Run the following code; note what happens if we don't set year to factor!
+
+
+
+```{r,warning=FALSE,fig.height = 3, fig.width=5,fig.align='center',eval=FALSE}
+ggplot(data = movies) + geom_boxplot(aes(x = year,y= budget)) 
+ggplot(data = movies) + geom_boxplot(aes(x = factor(year),y= budget)) 
+```
+
+Neither of these plots are very clear.  It might help to have categories for each decade ('60s, '70s, etc.). We can accomplish this as follows:
+
+```{r,warning=FALSE,fig.height = 3, fig.width=4.5,fig.align='center'}
+movies <- movies %>% mutate(decade = as.factor(10*floor(year/10)))
+ggplot(data = movies) + geom_boxplot(aes(x = decade,y= budget)) + xlab('Decade')
+```
+
+
+Suppose we want to visualize just the median budgets.  One way to accomplish this is with a bar chart for each decade, where the height is represented by the median budget.  We'll need to create a new data frame aggregated by decade:
+
+```{r,warning=FALSE,fig.height = 3, fig.width=5,fig.align='center'}
+grouped <- movies %>% 
+          group_by(decade) %>% 
+          summarize(MedBudget = median(budget,na.rm=TRUE)) %>%
+          mutate(MedBudgetK = MedBudget/100000)
+p <- ggplot(data = grouped) + geom_bar(aes(x = decade,y= MedBudgetK,fill=MedBudgetK),stat='identity') + 
+  xlab('Decade') + ylab('Median Budget \n(in hundred thousands of dollars)') + 
+  scale_fill_continuous(guide=FALSE, high = "#132B43", low = "#56B1F7") 
+```
+
+##Continuous X, Continuous Y
+
+Scatterplots are almost always the way to investigate the association between two continuous variables. This data set is often used as a "gold standard" data set for predicting median home price using a number of different predictor variables. Let's look into some 3- and 4-way visualizations using the Boston home price data:
+
+```{r,warning=FALSE,message=FALSE,fig.height = 3, fig.width=5,fig.align='center'}
+library(MASS)
+data(Boston)
+head(Boston)
+```
+
+Can you create the following visualization?
+```{r,warning=FALSE,fig.height = 5, fig.width=6,fig.align='center',echo=FALSE,message=FALSE}
+ggplot(aes(x = lstat,y=medv),data = Boston) + geom_point(aes(color=factor(chas),size=rm),alpha=0.7) +
+    stat_smooth() + 
+  scale_color_discrete(name='Does tract border \n Charles River?', labels=c('No','Yes')) + 
+  scale_size_continuous(name='# of bedrooms') + 
+    xlab('% of population classified  \n as lower status')  + 
+   ylab('Median value')
+                         
+```
+
+##Task
+
+Here is [a link](https://www.dropbox.com/s/hokd60zv3d4931o/Fuel-Efficiency-2016.csv?dl=0) to a cleaned version of 2016 fuel efficiency data from [fueleconomy.gov](https://www.fueleconomy.gov/feg/download.shtml). Save the cleaned .csv file then read it in using something like `fe <- read.csv(file.choose())`.  Visualize the answers to the following questions with this data set:
+
+1.   Which car manufacterer has the greatest number of car models? 
+2.  Which car manufacturer has the highest average fuel economy for city driving?  Highest average fuel economy for highway driving?
+3.  Which car model as the greatest difference between its highway fuel economy and its city fuel economy?
+4. What is the relationship between overall (combined) fuel economy and more powerful engines (i.e., higher engine displacement)? (i.e., when one variable is high/low, what is the value of the other one?) 
+5. Which transmission type has the highest overall average fuel economy? Worst overall average fuel economy?
+6. What is the relationship between city fuel economy (MPG) and highway fuel economy (MPG)? Which is the single car model with the lowest city AND highway fuel economy, and who makes that car? 
+7. What is the relationship between engine displacement and overall (combined) CO2 emissions?  Which car models get better city mileage than highway mileage?  What can you say about the CO2 emissions of those cars, compared to the rest of the group? 
