@@ -1,0 +1,169 @@
+Country,Year,Age,Sex,Population
+United States,2015,0-4,Male,10177601
+United States,2015,5-9,Male,10459132
+United States,2015,10-14,Male,10520388
+United States,2015,15-19,Male,10797867
+United States,2015,20-24,Male,11667854
+United States,2015,25-29,Male,11409399
+United States,2015,30-34,Male,10889739
+United States,2015,35-39,Male,10173424
+United States,2015,40-44,Male,10030153
+United States,2015,45-49,Male,10334929
+United States,2015,50-54,Male,10963847
+United States,2015,55-59,Male,10597567
+United States,2015,60-64,Male,9117180
+United States,2015,65-69,Male,7596190
+United States,2015,70-74,Male,5296158
+United States,2015,75-79,Male,3610906
+United States,2015,80-84,Male,2412665
+United States,2015,85-89,Male,1442244
+United States,2015,90-94,Male,588978
+United States,2015,95-99,Male,127988
+United States,2015,100+,Male,15088
+United States,2015,0-4,Female,9729680
+United States,2015,5-9,Female,10028044
+United States,2015,10-14,Female,10101942
+United States,2015,15-19,Female,10311036
+United States,2015,20-24,Female,11071459
+United States,2015,25-29,Female,11052155
+United States,2015,30-34,Female,10785909
+United States,2015,35-39,Female,10201161
+United States,2015,40-44,Female,10185045
+United States,2015,45-49,Female,10518915
+United States,2015,50-54,Female,11370470
+United States,2015,55-59,Female,11210375
+United States,2015,60-64,Female,9952697
+United States,2015,65-69,Female,8471278
+United States,2015,70-74,Female,6186891
+United States,2015,75-79,Female,4512927
+United States,2015,80-84,Female,3386676
+United States,2015,85-89,Female,2422101
+United States,2015,90-94,Female,1261957
+United States,2015,95-99,Female,366919
+United States,2015,100+,Female,61886
+Canada,2015,0-4,Male,918155
+Canada,2015,5-9,Male,918098
+Canada,2015,10-14,Male,944790
+Canada,2015,15-19,Male,1036643
+Canada,2015,20-24,Male,1199782
+Canada,2015,25-29,Male,1202372
+Canada,2015,30-34,Male,1200183
+Canada,2015,35-39,Male,1154548
+Canada,2015,40-44,Male,1130417
+Canada,2015,45-49,Male,1185160
+Canada,2015,50-54,Male,1366347
+Canada,2015,55-59,Male,1286144
+Canada,2015,60-64,Male,1103279
+Canada,2015,65-69,Male,952725
+Canada,2015,70-74,Male,682516
+Canada,2015,75-79,Male,475588
+Canada,2015,80-84,Male,338862
+Canada,2015,85-89,Male,202984
+Canada,2015,90-94,Male,83994
+Canada,2015,95-99,Male,25269
+Canada,2015,100+,Male,4971
+Canada,2015,0-4,Female,873658
+Canada,2015,5-9,Female,875162
+Canada,2015,10-14,Female,895188
+Canada,2015,15-19,Female,979428
+Canada,2015,20-24,Female,1132253
+Canada,2015,25-29,Female,1144105
+Canada,2015,30-34,Female,1152204
+Canada,2015,35-39,Female,1108962
+Canada,2015,40-44,Female,1103167
+Canada,2015,45-49,Female,1181641
+Canada,2015,50-54,Female,1351807
+Canada,2015,55-59,Female,1293007
+Canada,2015,60-64,Female,1140614
+Canada,2015,65-69,Female,998703
+Canada,2015,70-74,Female,768249
+Canada,2015,75-79,Female,592497
+Canada,2015,80-84,Female,475897
+Canada,2015,85-89,Female,346884
+Canada,2015,90-94,Female,184279
+Canada,2015,95-99,Female,69889
+Canada,2015,100+,Female,19415
+Monaco,2015,0-4,Male,515
+Monaco,2015,5-9,Male,577
+Monaco,2015,10-14,Male,701
+Monaco,2015,15-19,Male,706
+Monaco,2015,20-24,Male,714
+Monaco,2015,25-29,Male,724
+Monaco,2015,30-34,Male,641
+Monaco,2015,35-39,Male,682
+Monaco,2015,40-44,Male,918
+Monaco,2015,45-49,Male,1117
+Monaco,2015,50-54,Male,1157
+Monaco,2015,55-59,Male,1169
+Monaco,2015,60-64,Male,1086
+Monaco,2015,65-69,Male,1120
+Monaco,2015,70-74,Male,980
+Monaco,2015,75-79,Male,777
+Monaco,2015,80-84,Male,584
+Monaco,2015,85-89,Male,332
+Monaco,2015,90-94,Male,226
+Monaco,2015,95-99,Male,73
+Monaco,2015,100+,Male,54
+Monaco,2015,0-4,Female,489
+Monaco,2015,5-9,Female,557
+Monaco,2015,10-14,Female,646
+Monaco,2015,15-19,Female,682
+Monaco,2015,20-24,Female,655
+Monaco,2015,25-29,Female,670
+Monaco,2015,30-34,Female,634
+Monaco,2015,35-39,Female,684
+Monaco,2015,40-44,Female,979
+Monaco,2015,45-49,Female,1164
+Monaco,2015,50-54,Female,1155
+Monaco,2015,55-59,Female,1147
+Monaco,2015,60-64,Female,1091
+Monaco,2015,65-69,Female,1150
+Monaco,2015,70-74,Female,1120
+Monaco,2015,75-79,Female,904
+Monaco,2015,80-84,Female,687
+Monaco,2015,85-89,Female,433
+Monaco,2015,90-94,Female,391
+Monaco,2015,95-99,Female,158
+Monaco,2015,100+,Female,286
+Chad,2015,0-4,Male,945002
+Chad,2015,5-9,Male,851945
+Chad,2015,10-14,Male,810367
+Chad,2015,15-19,Male,667049
+Chad,2015,20-24,Male,516913
+Chad,2015,25-29,Male,424214
+Chad,2015,30-34,Male,329922
+Chad,2015,35-39,Male,235220
+Chad,2015,40-44,Male,182700
+Chad,2015,45-49,Male,165604
+Chad,2015,50-54,Male,141625
+Chad,2015,55-59,Male,112591
+Chad,2015,60-64,Male,85082
+Chad,2015,65-69,Male,61995
+Chad,2015,70-74,Male,42159
+Chad,2015,75-79,Male,24551
+Chad,2015,80-84,Male,10950
+Chad,2015,85-89,Male,3350
+Chad,2015,90-94,Male,641
+Chad,2015,95-99,Male,63
+Chad,2015,100+,Male,3
+Chad,2015,0-4,Female,919065
+Chad,2015,5-9,Female,828120
+Chad,2015,10-14,Female,786978
+Chad,2015,15-19,Female,678419
+Chad,2015,20-24,Female,568711
+Chad,2015,25-29,Female,484146
+Chad,2015,30-34,Female,390052
+Chad,2015,35-39,Female,292718
+Chad,2015,40-44,Female,240511
+Chad,2015,45-49,Female,207515
+Chad,2015,50-54,Female,168072
+Chad,2015,55-59,Female,140135
+Chad,2015,60-64,Female,112244
+Chad,2015,65-69,Female,84969
+Chad,2015,70-74,Female,58659
+Chad,2015,75-79,Female,35293
+Chad,2015,80-84,Female,16945
+Chad,2015,85-89,Female,5646
+Chad,2015,90-94,Female,1173
+Chad,2015,95-99,Female,131
+Chad,2015,100+,Female,8
