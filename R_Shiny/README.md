@@ -2,7 +2,7 @@
 
 Relevant R Shiny links:
 
-<ul>
+<ul> 
   <li> [Dashboards](https://rstudio.github.io/shinydashboard/) </li> 
   <li> [Themes](http://rstudio.github.io/shinythemes/) </li>
-</ul>
+</ul
